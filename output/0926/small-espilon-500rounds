@@ -1,0 +1,4528 @@
+C:\Users\tiancheng\AppData\Local\Programs\Python\Python37\python.exe C:/Users/tiancheng/Dropbox/Bandit/Simulator/experiment.py
+10000 trials. Each trial with 500 rounds.
+the epsilon is 0.05
+the second best arm index is 1
+Normal: epsilon greedy. Free: always real second best.
+['k=1', 'k=0']
+after 2 round
+the average regrets are  [1.99, 3.0]
+
+after 4 round
+the average regrets are  [2.58, 3.36]
+
+after 6 round
+the average regrets are  [3.04, 3.93]
+
+after 8 round
+the average regrets are  [3.45, 4.41]
+
+after 10 round
+the average regrets are  [3.84, 4.82]
+
+after 12 round
+the average regrets are  [4.19, 5.17]
+
+after 14 round
+the average regrets are  [4.52, 5.5]
+
+after 16 round
+the average regrets are  [4.84, 5.81]
+
+after 18 round
+the average regrets are  [5.17, 6.1]
+
+after 20 round
+the average regrets are  [5.5, 6.39]
+
+after 22 round
+the average regrets are  [5.84, 6.67]
+
+after 24 round
+the average regrets are  [6.13, 6.93]
+
+after 26 round
+the average regrets are  [6.43, 7.23]
+
+after 28 round
+the average regrets are  [6.7, 7.5]
+
+after 30 round
+the average regrets are  [7.0, 7.75]
+
+after 32 round
+the average regrets are  [7.27, 7.99]
+
+after 34 round
+the average regrets are  [7.56, 8.26]
+
+after 36 round
+the average regrets are  [7.82, 8.49]
+
+after 38 round
+the average regrets are  [8.07, 8.73]
+
+after 40 round
+the average regrets are  [8.36, 8.97]
+
+after 42 round
+the average regrets are  [8.61, 9.19]
+
+after 44 round
+the average regrets are  [8.89, 9.43]
+
+after 46 round
+the average regrets are  [9.14, 9.66]
+
+after 48 round
+the average regrets are  [9.41, 9.88]
+
+after 50 round
+the average regrets are  [9.66, 10.11]
+
+after 52 round
+the average regrets are  [9.89, 10.33]
+
+after 54 round
+the average regrets are  [10.14, 10.51]
+
+after 56 round
+the average regrets are  [10.38, 10.72]
+
+after 58 round
+the average regrets are  [10.6, 10.93]
+
+after 60 round
+the average regrets are  [10.83, 11.15]
+
+after 62 round
+the average regrets are  [11.05, 11.35]
+
+after 64 round
+the average regrets are  [11.27, 11.55]
+
+after 66 round
+the average regrets are  [11.5, 11.77]
+
+after 68 round
+the average regrets are  [11.71, 11.94]
+
+after 70 round
+the average regrets are  [11.95, 12.13]
+
+after 72 round
+the average regrets are  [12.17, 12.35]
+
+after 74 round
+the average regrets are  [12.4, 12.53]
+
+after 76 round
+the average regrets are  [12.61, 12.72]
+
+after 78 round
+the average regrets are  [12.81, 12.91]
+
+after 80 round
+the average regrets are  [13.03, 13.12]
+
+after 82 round
+the average regrets are  [13.22, 13.31]
+
+after 84 round
+the average regrets are  [13.43, 13.49]
+
+after 86 round
+the average regrets are  [13.61, 13.67]
+
+after 88 round
+the average regrets are  [13.79, 13.88]
+
+after 90 round
+the average regrets are  [13.97, 14.06]
+
+after 92 round
+the average regrets are  [14.17, 14.25]
+
+after 94 round
+the average regrets are  [14.37, 14.45]
+
+after 96 round
+the average regrets are  [14.57, 14.61]
+
+after 98 round
+the average regrets are  [14.76, 14.79]
+
+after 100 round
+the average regrets are  [14.96, 14.96]
+
+after 102 round
+the average regrets are  [15.16, 15.14]
+
+after 104 round
+the average regrets are  [15.35, 15.29]
+
+after 106 round
+the average regrets are  [15.53, 15.43]
+
+after 108 round
+the average regrets are  [15.72, 15.6]
+
+after 110 round
+the average regrets are  [15.91, 15.77]
+
+after 112 round
+the average regrets are  [16.09, 15.93]
+
+after 114 round
+the average regrets are  [16.27, 16.09]
+
+after 116 round
+the average regrets are  [16.45, 16.24]
+
+after 118 round
+the average regrets are  [16.63, 16.44]
+
+after 120 round
+the average regrets are  [16.82, 16.63]
+
+after 122 round
+the average regrets are  [16.99, 16.78]
+
+after 124 round
+the average regrets are  [17.13, 16.97]
+
+after 126 round
+the average regrets are  [17.29, 17.12]
+
+after 128 round
+the average regrets are  [17.46, 17.27]
+
+after 130 round
+the average regrets are  [17.63, 17.45]
+
+after 132 round
+the average regrets are  [17.78, 17.59]
+
+after 134 round
+the average regrets are  [17.96, 17.72]
+
+after 136 round
+the average regrets are  [18.12, 17.87]
+
+after 138 round
+the average regrets are  [18.31, 18.02]
+
+after 140 round
+the average regrets are  [18.46, 18.16]
+
+after 142 round
+the average regrets are  [18.62, 18.32]
+
+after 144 round
+the average regrets are  [18.77, 18.49]
+
+after 146 round
+the average regrets are  [18.94, 18.62]
+
+after 148 round
+the average regrets are  [19.11, 18.75]
+
+after 150 round
+the average regrets are  [19.29, 18.86]
+
+after 152 round
+the average regrets are  [19.41, 19.0]
+
+after 154 round
+the average regrets are  [19.56, 19.14]
+
+after 156 round
+the average regrets are  [19.72, 19.28]
+
+after 158 round
+the average regrets are  [19.87, 19.41]
+
+after 160 round
+the average regrets are  [20.01, 19.56]
+
+after 162 round
+the average regrets are  [20.17, 19.68]
+
+after 164 round
+the average regrets are  [20.32, 19.83]
+
+after 166 round
+the average regrets are  [20.49, 19.98]
+
+after 168 round
+the average regrets are  [20.65, 20.13]
+
+after 170 round
+the average regrets are  [20.78, 20.27]
+
+after 172 round
+the average regrets are  [20.9, 20.42]
+
+after 174 round
+the average regrets are  [21.02, 20.55]
+
+after 176 round
+the average regrets are  [21.15, 20.69]
+
+after 178 round
+the average regrets are  [21.3, 20.81]
+
+after 180 round
+the average regrets are  [21.44, 20.97]
+
+after 182 round
+the average regrets are  [21.58, 21.08]
+
+after 184 round
+the average regrets are  [21.72, 21.2]
+
+after 186 round
+the average regrets are  [21.88, 21.35]
+
+after 188 round
+the average regrets are  [22.02, 21.46]
+
+after 190 round
+the average regrets are  [22.16, 21.59]
+
+after 192 round
+the average regrets are  [22.28, 21.72]
+
+after 194 round
+the average regrets are  [22.4, 21.84]
+
+after 196 round
+the average regrets are  [22.53, 21.95]
+
+after 198 round
+the average regrets are  [22.66, 22.09]
+
+after 200 round
+the average regrets are  [22.8, 22.23]
+
+after 202 round
+the average regrets are  [22.94, 22.36]
+
+after 204 round
+the average regrets are  [23.07, 22.51]
+
+after 206 round
+the average regrets are  [23.18, 22.63]
+
+after 208 round
+the average regrets are  [23.3, 22.77]
+
+after 210 round
+the average regrets are  [23.43, 22.9]
+
+after 212 round
+the average regrets are  [23.56, 23.03]
+
+after 214 round
+the average regrets are  [23.67, 23.18]
+
+after 216 round
+the average regrets are  [23.8, 23.32]
+
+after 218 round
+the average regrets are  [23.91, 23.42]
+
+after 220 round
+the average regrets are  [24.01, 23.55]
+
+after 222 round
+the average regrets are  [24.12, 23.66]
+
+after 224 round
+the average regrets are  [24.22, 23.78]
+
+after 226 round
+the average regrets are  [24.36, 23.92]
+
+after 228 round
+the average regrets are  [24.49, 24.04]
+
+after 230 round
+the average regrets are  [24.61, 24.16]
+
+after 232 round
+the average regrets are  [24.74, 24.27]
+
+after 234 round
+the average regrets are  [24.85, 24.4]
+
+after 236 round
+the average regrets are  [24.99, 24.52]
+
+after 238 round
+the average regrets are  [25.12, 24.64]
+
+after 240 round
+the average regrets are  [25.25, 24.74]
+
+after 242 round
+the average regrets are  [25.36, 24.86]
+
+after 244 round
+the average regrets are  [25.48, 24.98]
+
+after 246 round
+the average regrets are  [25.58, 25.1]
+
+after 248 round
+the average regrets are  [25.73, 25.24]
+
+after 250 round
+the average regrets are  [25.83, 25.34]
+
+after 252 round
+the average regrets are  [25.95, 25.46]
+
+after 254 round
+the average regrets are  [26.08, 25.57]
+
+after 256 round
+the average regrets are  [26.21, 25.68]
+
+after 258 round
+the average regrets are  [26.35, 25.8]
+
+after 260 round
+the average regrets are  [26.46, 25.93]
+
+after 262 round
+the average regrets are  [26.59, 26.05]
+
+after 264 round
+the average regrets are  [26.73, 26.15]
+
+after 266 round
+the average regrets are  [26.83, 26.25]
+
+after 268 round
+the average regrets are  [26.97, 26.38]
+
+after 270 round
+the average regrets are  [27.1, 26.49]
+
+after 272 round
+the average regrets are  [27.24, 26.61]
+
+after 274 round
+the average regrets are  [27.33, 26.73]
+
+after 276 round
+the average regrets are  [27.43, 26.83]
+
+after 278 round
+the average regrets are  [27.54, 26.94]
+
+after 280 round
+the average regrets are  [27.67, 27.06]
+
+after 282 round
+the average regrets are  [27.8, 27.16]
+
+after 284 round
+the average regrets are  [27.92, 27.26]
+
+after 286 round
+the average regrets are  [28.03, 27.36]
+
+after 288 round
+the average regrets are  [28.19, 27.47]
+
+after 290 round
+the average regrets are  [28.32, 27.58]
+
+after 292 round
+the average regrets are  [28.42, 27.7]
+
+after 294 round
+the average regrets are  [28.49, 27.82]
+
+after 296 round
+the average regrets are  [28.61, 27.95]
+
+after 298 round
+the average regrets are  [28.7, 28.07]
+
+after 300 round
+the average regrets are  [28.82, 28.18]
+
+after 302 round
+the average regrets are  [28.91, 28.27]
+
+after 304 round
+the average regrets are  [29.03, 28.38]
+
+after 306 round
+the average regrets are  [29.12, 28.49]
+
+after 308 round
+the average regrets are  [29.2, 28.57]
+
+after 310 round
+the average regrets are  [29.29, 28.65]
+
+after 312 round
+the average regrets are  [29.4, 28.76]
+
+after 314 round
+the average regrets are  [29.5, 28.87]
+
+after 316 round
+the average regrets are  [29.62, 28.97]
+
+after 318 round
+the average regrets are  [29.73, 29.08]
+
+after 320 round
+the average regrets are  [29.85, 29.17]
+
+after 322 round
+the average regrets are  [29.94, 29.28]
+
+after 324 round
+the average regrets are  [30.04, 29.38]
+
+after 326 round
+the average regrets are  [30.18, 29.5]
+
+after 328 round
+the average regrets are  [30.28, 29.6]
+
+after 330 round
+the average regrets are  [30.41, 29.72]
+
+after 332 round
+the average regrets are  [30.54, 29.82]
+
+after 334 round
+the average regrets are  [30.65, 29.92]
+
+after 336 round
+the average regrets are  [30.76, 30.03]
+
+after 338 round
+the average regrets are  [30.89, 30.14]
+
+after 340 round
+the average regrets are  [31.01, 30.24]
+
+after 342 round
+the average regrets are  [31.08, 30.35]
+
+after 344 round
+the average regrets are  [31.19, 30.45]
+
+after 346 round
+the average regrets are  [31.28, 30.57]
+
+after 348 round
+the average regrets are  [31.39, 30.67]
+
+after 350 round
+the average regrets are  [31.51, 30.75]
+
+after 352 round
+the average regrets are  [31.6, 30.87]
+
+after 354 round
+the average regrets are  [31.72, 30.96]
+
+after 356 round
+the average regrets are  [31.86, 31.06]
+
+after 358 round
+the average regrets are  [31.99, 31.16]
+
+after 360 round
+the average regrets are  [32.11, 31.27]
+
+after 362 round
+the average regrets are  [32.22, 31.34]
+
+after 364 round
+the average regrets are  [32.32, 31.43]
+
+after 366 round
+the average regrets are  [32.44, 31.52]
+
+after 368 round
+the average regrets are  [32.55, 31.62]
+
+after 370 round
+the average regrets are  [32.67, 31.71]
+
+after 372 round
+the average regrets are  [32.77, 31.82]
+
+after 374 round
+the average regrets are  [32.9, 31.91]
+
+after 376 round
+the average regrets are  [33.01, 32.02]
+
+after 378 round
+the average regrets are  [33.12, 32.11]
+
+after 380 round
+the average regrets are  [33.21, 32.23]
+
+after 382 round
+the average regrets are  [33.3, 32.33]
+
+after 384 round
+the average regrets are  [33.41, 32.43]
+
+after 386 round
+the average regrets are  [33.51, 32.53]
+
+after 388 round
+the average regrets are  [33.63, 32.63]
+
+after 390 round
+the average regrets are  [33.76, 32.75]
+
+after 392 round
+the average regrets are  [33.86, 32.86]
+
+after 394 round
+the average regrets are  [33.98, 32.96]
+
+after 396 round
+the average regrets are  [34.1, 33.06]
+
+after 398 round
+the average regrets are  [34.19, 33.18]
+
+after 400 round
+the average regrets are  [34.32, 33.25]
+
+after 402 round
+the average regrets are  [34.44, 33.35]
+
+after 404 round
+the average regrets are  [34.54, 33.44]
+
+after 406 round
+the average regrets are  [34.65, 33.53]
+
+after 408 round
+the average regrets are  [34.75, 33.64]
+
+after 410 round
+the average regrets are  [34.86, 33.75]
+
+after 412 round
+the average regrets are  [34.97, 33.85]
+
+after 414 round
+the average regrets are  [35.05, 33.97]
+
+after 416 round
+the average regrets are  [35.14, 34.06]
+
+after 418 round
+the average regrets are  [35.26, 34.18]
+
+after 420 round
+the average regrets are  [35.37, 34.29]
+
+after 422 round
+the average regrets are  [35.47, 34.37]
+
+after 424 round
+the average regrets are  [35.58, 34.47]
+
+after 426 round
+the average regrets are  [35.69, 34.59]
+
+after 428 round
+the average regrets are  [35.78, 34.69]
+
+after 430 round
+the average regrets are  [35.88, 34.78]
+
+after 432 round
+the average regrets are  [36.0, 34.87]
+
+after 434 round
+the average regrets are  [36.09, 34.98]
+
+after 436 round
+the average regrets are  [36.17, 35.07]
+
+after 438 round
+the average regrets are  [36.26, 35.17]
+
+after 440 round
+the average regrets are  [36.35, 35.27]
+
+after 442 round
+the average regrets are  [36.44, 35.4]
+
+after 444 round
+the average regrets are  [36.54, 35.52]
+
+after 446 round
+the average regrets are  [36.62, 35.61]
+
+after 448 round
+the average regrets are  [36.73, 35.7]
+
+after 450 round
+the average regrets are  [36.81, 35.81]
+
+after 452 round
+the average regrets are  [36.91, 35.92]
+
+after 454 round
+the average regrets are  [37.02, 36.05]
+
+after 456 round
+the average regrets are  [37.11, 36.15]
+
+after 458 round
+the average regrets are  [37.24, 36.23]
+
+after 460 round
+the average regrets are  [37.33, 36.33]
+
+after 462 round
+the average regrets are  [37.42, 36.44]
+
+after 464 round
+the average regrets are  [37.52, 36.53]
+
+after 466 round
+the average regrets are  [37.63, 36.62]
+
+after 468 round
+the average regrets are  [37.72, 36.7]
+
+after 470 round
+the average regrets are  [37.83, 36.83]
+
+after 472 round
+the average regrets are  [37.93, 36.95]
+
+after 474 round
+the average regrets are  [38.03, 37.06]
+
+after 476 round
+the average regrets are  [38.13, 37.17]
+
+after 478 round
+the average regrets are  [38.23, 37.31]
+
+after 480 round
+the average regrets are  [38.35, 37.4]
+
+after 482 round
+the average regrets are  [38.46, 37.47]
+
+after 484 round
+the average regrets are  [38.58, 37.59]
+
+after 486 round
+the average regrets are  [38.68, 37.69]
+
+after 488 round
+the average regrets are  [38.78, 37.77]
+
+after 490 round
+the average regrets are  [38.89, 37.87]
+
+after 492 round
+the average regrets are  [39.0, 37.98]
+
+after 494 round
+the average regrets are  [39.1, 38.07]
+
+after 496 round
+the average regrets are  [39.18, 38.18]
+
+after 498 round
+the average regrets are  [39.28, 38.3]
+
+after 500 round
+the average regrets are  [39.4, 38.41]
+
+the epsilon is 0.06
+the second best arm index is 1
+Normal: epsilon greedy. Free: always real second best.
+['k=1', 'k=0']
+after 2 round
+the average regrets are  [2.01, 2.99]
+
+after 4 round
+the average regrets are  [2.61, 3.35]
+
+after 6 round
+the average regrets are  [3.1, 3.93]
+
+after 8 round
+the average regrets are  [3.53, 4.4]
+
+after 10 round
+the average regrets are  [3.93, 4.82]
+
+after 12 round
+the average regrets are  [4.33, 5.2]
+
+after 14 round
+the average regrets are  [4.73, 5.56]
+
+after 16 round
+the average regrets are  [5.12, 5.9]
+
+after 18 round
+the average regrets are  [5.47, 6.2]
+
+after 20 round
+the average regrets are  [5.81, 6.52]
+
+after 22 round
+the average regrets are  [6.13, 6.82]
+
+after 24 round
+the average regrets are  [6.48, 7.1]
+
+after 26 round
+the average regrets are  [6.81, 7.39]
+
+after 28 round
+the average regrets are  [7.14, 7.66]
+
+after 30 round
+the average regrets are  [7.46, 7.93]
+
+after 32 round
+the average regrets are  [7.77, 8.18]
+
+after 34 round
+the average regrets are  [8.09, 8.42]
+
+after 36 round
+the average regrets are  [8.36, 8.66]
+
+after 38 round
+the average regrets are  [8.64, 8.89]
+
+after 40 round
+the average regrets are  [8.91, 9.14]
+
+after 42 round
+the average regrets are  [9.19, 9.38]
+
+after 44 round
+the average regrets are  [9.45, 9.6]
+
+after 46 round
+the average regrets are  [9.73, 9.85]
+
+after 48 round
+the average regrets are  [10.0, 10.09]
+
+after 50 round
+the average regrets are  [10.28, 10.32]
+
+after 52 round
+the average regrets are  [10.55, 10.55]
+
+after 54 round
+the average regrets are  [10.77, 10.77]
+
+after 56 round
+the average regrets are  [11.03, 10.99]
+
+after 58 round
+the average regrets are  [11.27, 11.21]
+
+after 60 round
+the average regrets are  [11.54, 11.42]
+
+after 62 round
+the average regrets are  [11.76, 11.63]
+
+after 64 round
+the average regrets are  [12.02, 11.8]
+
+after 66 round
+the average regrets are  [12.26, 12.0]
+
+after 68 round
+the average regrets are  [12.5, 12.2]
+
+after 70 round
+the average regrets are  [12.73, 12.42]
+
+after 72 round
+the average regrets are  [12.95, 12.61]
+
+after 74 round
+the average regrets are  [13.19, 12.82]
+
+after 76 round
+the average regrets are  [13.42, 13.03]
+
+after 78 round
+the average regrets are  [13.63, 13.21]
+
+after 80 round
+the average regrets are  [13.84, 13.41]
+
+after 82 round
+the average regrets are  [14.05, 13.61]
+
+after 84 round
+the average regrets are  [14.25, 13.77]
+
+after 86 round
+the average regrets are  [14.44, 13.97]
+
+after 88 round
+the average regrets are  [14.65, 14.15]
+
+after 90 round
+the average regrets are  [14.85, 14.35]
+
+after 92 round
+the average regrets are  [15.03, 14.54]
+
+after 94 round
+the average regrets are  [15.24, 14.73]
+
+after 96 round
+the average regrets are  [15.42, 14.91]
+
+after 98 round
+the average regrets are  [15.61, 15.08]
+
+after 100 round
+the average regrets are  [15.83, 15.24]
+
+after 102 round
+the average regrets are  [16.04, 15.44]
+
+after 104 round
+the average regrets are  [16.21, 15.6]
+
+after 106 round
+the average regrets are  [16.4, 15.77]
+
+after 108 round
+the average regrets are  [16.59, 15.98]
+
+after 110 round
+the average regrets are  [16.79, 16.12]
+
+after 112 round
+the average regrets are  [17.0, 16.3]
+
+after 114 round
+the average regrets are  [17.15, 16.46]
+
+after 116 round
+the average regrets are  [17.33, 16.62]
+
+after 118 round
+the average regrets are  [17.51, 16.75]
+
+after 120 round
+the average regrets are  [17.69, 16.91]
+
+after 122 round
+the average regrets are  [17.87, 17.08]
+
+after 124 round
+the average regrets are  [18.04, 17.25]
+
+after 126 round
+the average regrets are  [18.22, 17.44]
+
+after 128 round
+the average regrets are  [18.4, 17.62]
+
+after 130 round
+the average regrets are  [18.57, 17.77]
+
+after 132 round
+the average regrets are  [18.74, 17.93]
+
+after 134 round
+the average regrets are  [18.94, 18.09]
+
+after 136 round
+the average regrets are  [19.13, 18.23]
+
+after 138 round
+the average regrets are  [19.3, 18.41]
+
+after 140 round
+the average regrets are  [19.48, 18.57]
+
+after 142 round
+the average regrets are  [19.63, 18.72]
+
+after 144 round
+the average regrets are  [19.82, 18.9]
+
+after 146 round
+the average regrets are  [19.99, 19.04]
+
+after 148 round
+the average regrets are  [20.16, 19.19]
+
+after 150 round
+the average regrets are  [20.31, 19.33]
+
+after 152 round
+the average regrets are  [20.49, 19.48]
+
+after 154 round
+the average regrets are  [20.63, 19.62]
+
+after 156 round
+the average regrets are  [20.79, 19.79]
+
+after 158 round
+the average regrets are  [20.97, 19.94]
+
+after 160 round
+the average regrets are  [21.12, 20.11]
+
+after 162 round
+the average regrets are  [21.3, 20.25]
+
+after 164 round
+the average regrets are  [21.48, 20.4]
+
+after 166 round
+the average regrets are  [21.63, 20.54]
+
+after 168 round
+the average regrets are  [21.78, 20.7]
+
+after 170 round
+the average regrets are  [21.94, 20.87]
+
+after 172 round
+the average regrets are  [22.08, 20.99]
+
+after 174 round
+the average regrets are  [22.22, 21.13]
+
+after 176 round
+the average regrets are  [22.38, 21.27]
+
+after 178 round
+the average regrets are  [22.52, 21.39]
+
+after 180 round
+the average regrets are  [22.64, 21.53]
+
+after 182 round
+the average regrets are  [22.73, 21.68]
+
+after 184 round
+the average regrets are  [22.87, 21.82]
+
+after 186 round
+the average regrets are  [23.02, 21.97]
+
+after 188 round
+the average regrets are  [23.16, 22.11]
+
+after 190 round
+the average regrets are  [23.29, 22.25]
+
+after 192 round
+the average regrets are  [23.42, 22.4]
+
+after 194 round
+the average regrets are  [23.55, 22.54]
+
+after 196 round
+the average regrets are  [23.7, 22.64]
+
+after 198 round
+the average regrets are  [23.85, 22.78]
+
+after 200 round
+the average regrets are  [24.01, 22.9]
+
+after 202 round
+the average regrets are  [24.16, 23.02]
+
+after 204 round
+the average regrets are  [24.31, 23.18]
+
+after 206 round
+the average regrets are  [24.45, 23.34]
+
+after 208 round
+the average regrets are  [24.6, 23.49]
+
+after 210 round
+the average regrets are  [24.74, 23.63]
+
+after 212 round
+the average regrets are  [24.89, 23.79]
+
+after 214 round
+the average regrets are  [25.02, 23.92]
+
+after 216 round
+the average regrets are  [25.17, 24.04]
+
+after 218 round
+the average regrets are  [25.32, 24.19]
+
+after 220 round
+the average regrets are  [25.45, 24.32]
+
+after 222 round
+the average regrets are  [25.58, 24.43]
+
+after 224 round
+the average regrets are  [25.68, 24.55]
+
+after 226 round
+the average regrets are  [25.83, 24.66]
+
+after 228 round
+the average regrets are  [25.96, 24.78]
+
+after 230 round
+the average regrets are  [26.1, 24.92]
+
+after 232 round
+the average regrets are  [26.23, 25.06]
+
+after 234 round
+the average regrets are  [26.38, 25.18]
+
+after 236 round
+the average regrets are  [26.48, 25.33]
+
+after 238 round
+the average regrets are  [26.58, 25.46]
+
+after 240 round
+the average regrets are  [26.71, 25.62]
+
+after 242 round
+the average regrets are  [26.84, 25.75]
+
+after 244 round
+the average regrets are  [26.98, 25.89]
+
+after 246 round
+the average regrets are  [27.11, 26.03]
+
+after 248 round
+the average regrets are  [27.21, 26.17]
+
+after 250 round
+the average regrets are  [27.33, 26.3]
+
+after 252 round
+the average regrets are  [27.48, 26.41]
+
+after 254 round
+the average regrets are  [27.62, 26.56]
+
+after 256 round
+the average regrets are  [27.75, 26.67]
+
+after 258 round
+the average regrets are  [27.88, 26.79]
+
+after 260 round
+the average regrets are  [28.03, 26.93]
+
+after 262 round
+the average regrets are  [28.16, 27.06]
+
+after 264 round
+the average regrets are  [28.29, 27.17]
+
+after 266 round
+the average regrets are  [28.43, 27.31]
+
+after 268 round
+the average regrets are  [28.56, 27.46]
+
+after 270 round
+the average regrets are  [28.67, 27.56]
+
+after 272 round
+the average regrets are  [28.79, 27.69]
+
+after 274 round
+the average regrets are  [28.93, 27.83]
+
+after 276 round
+the average regrets are  [29.06, 27.96]
+
+after 278 round
+the average regrets are  [29.16, 28.06]
+
+after 280 round
+the average regrets are  [29.31, 28.23]
+
+after 282 round
+the average regrets are  [29.42, 28.36]
+
+after 284 round
+the average regrets are  [29.54, 28.52]
+
+after 286 round
+the average regrets are  [29.65, 28.64]
+
+after 288 round
+the average regrets are  [29.79, 28.76]
+
+after 290 round
+the average regrets are  [29.93, 28.89]
+
+after 292 round
+the average regrets are  [30.05, 29.02]
+
+after 294 round
+the average regrets are  [30.15, 29.13]
+
+after 296 round
+the average regrets are  [30.29, 29.26]
+
+after 298 round
+the average regrets are  [30.43, 29.4]
+
+after 300 round
+the average regrets are  [30.59, 29.52]
+
+after 302 round
+the average regrets are  [30.73, 29.65]
+
+after 304 round
+the average regrets are  [30.85, 29.78]
+
+after 306 round
+the average regrets are  [30.96, 29.89]
+
+after 308 round
+the average regrets are  [31.09, 30.03]
+
+after 310 round
+the average regrets are  [31.22, 30.13]
+
+after 312 round
+the average regrets are  [31.36, 30.24]
+
+after 314 round
+the average regrets are  [31.5, 30.36]
+
+after 316 round
+the average regrets are  [31.64, 30.46]
+
+after 318 round
+the average regrets are  [31.76, 30.59]
+
+after 320 round
+the average regrets are  [31.88, 30.7]
+
+after 322 round
+the average regrets are  [31.99, 30.81]
+
+after 324 round
+the average regrets are  [32.11, 30.92]
+
+after 326 round
+the average regrets are  [32.22, 31.04]
+
+after 328 round
+the average regrets are  [32.36, 31.14]
+
+after 330 round
+the average regrets are  [32.51, 31.28]
+
+after 332 round
+the average regrets are  [32.66, 31.41]
+
+after 334 round
+the average regrets are  [32.81, 31.55]
+
+after 336 round
+the average regrets are  [32.95, 31.69]
+
+after 338 round
+the average regrets are  [33.08, 31.79]
+
+after 340 round
+the average regrets are  [33.21, 31.9]
+
+after 342 round
+the average regrets are  [33.33, 32.02]
+
+after 344 round
+the average regrets are  [33.43, 32.12]
+
+after 346 round
+the average regrets are  [33.54, 32.24]
+
+after 348 round
+the average regrets are  [33.65, 32.34]
+
+after 350 round
+the average regrets are  [33.79, 32.46]
+
+after 352 round
+the average regrets are  [33.93, 32.6]
+
+after 354 round
+the average regrets are  [34.06, 32.76]
+
+after 356 round
+the average regrets are  [34.18, 32.87]
+
+after 358 round
+the average regrets are  [34.31, 32.98]
+
+after 360 round
+the average regrets are  [34.41, 33.11]
+
+after 362 round
+the average regrets are  [34.53, 33.23]
+
+after 364 round
+the average regrets are  [34.65, 33.38]
+
+after 366 round
+the average regrets are  [34.78, 33.52]
+
+after 368 round
+the average regrets are  [34.9, 33.64]
+
+after 370 round
+the average regrets are  [35.04, 33.77]
+
+after 372 round
+the average regrets are  [35.17, 33.88]
+
+after 374 round
+the average regrets are  [35.29, 34.02]
+
+after 376 round
+the average regrets are  [35.42, 34.12]
+
+after 378 round
+the average regrets are  [35.52, 34.25]
+
+after 380 round
+the average regrets are  [35.65, 34.38]
+
+after 382 round
+the average regrets are  [35.81, 34.51]
+
+after 384 round
+the average regrets are  [35.94, 34.65]
+
+after 386 round
+the average regrets are  [36.07, 34.78]
+
+after 388 round
+the average regrets are  [36.2, 34.93]
+
+after 390 round
+the average regrets are  [36.33, 35.04]
+
+after 392 round
+the average regrets are  [36.44, 35.14]
+
+after 394 round
+the average regrets are  [36.56, 35.29]
+
+after 396 round
+the average regrets are  [36.67, 35.41]
+
+after 398 round
+the average regrets are  [36.77, 35.53]
+
+after 400 round
+the average regrets are  [36.9, 35.65]
+
+after 402 round
+the average regrets are  [37.03, 35.77]
+
+after 404 round
+the average regrets are  [37.15, 35.88]
+
+after 406 round
+the average regrets are  [37.32, 35.99]
+
+after 408 round
+the average regrets are  [37.45, 36.12]
+
+after 410 round
+the average regrets are  [37.57, 36.24]
+
+after 412 round
+the average regrets are  [37.67, 36.37]
+
+after 414 round
+the average regrets are  [37.8, 36.5]
+
+after 416 round
+the average regrets are  [37.92, 36.6]
+
+after 418 round
+the average regrets are  [38.01, 36.72]
+
+after 420 round
+the average regrets are  [38.13, 36.85]
+
+after 422 round
+the average regrets are  [38.22, 36.98]
+
+after 424 round
+the average regrets are  [38.34, 37.12]
+
+after 426 round
+the average regrets are  [38.44, 37.24]
+
+after 428 round
+the average regrets are  [38.57, 37.34]
+
+after 430 round
+the average regrets are  [38.69, 37.45]
+
+after 432 round
+the average regrets are  [38.83, 37.56]
+
+after 434 round
+the average regrets are  [38.95, 37.69]
+
+after 436 round
+the average regrets are  [39.05, 37.82]
+
+after 438 round
+the average regrets are  [39.2, 37.94]
+
+after 440 round
+the average regrets are  [39.35, 38.02]
+
+after 442 round
+the average regrets are  [39.46, 38.15]
+
+after 444 round
+the average regrets are  [39.58, 38.25]
+
+after 446 round
+the average regrets are  [39.69, 38.38]
+
+after 448 round
+the average regrets are  [39.83, 38.51]
+
+after 450 round
+the average regrets are  [39.95, 38.65]
+
+after 452 round
+the average regrets are  [40.07, 38.77]
+
+after 454 round
+the average regrets are  [40.21, 38.91]
+
+after 456 round
+the average regrets are  [40.3, 39.05]
+
+after 458 round
+the average regrets are  [40.44, 39.18]
+
+after 460 round
+the average regrets are  [40.59, 39.28]
+
+after 462 round
+the average regrets are  [40.72, 39.39]
+
+after 464 round
+the average regrets are  [40.85, 39.48]
+
+after 466 round
+the average regrets are  [40.97, 39.58]
+
+after 468 round
+the average regrets are  [41.1, 39.68]
+
+after 470 round
+the average regrets are  [41.19, 39.78]
+
+after 472 round
+the average regrets are  [41.31, 39.92]
+
+after 474 round
+the average regrets are  [41.43, 40.02]
+
+after 476 round
+the average regrets are  [41.56, 40.12]
+
+after 478 round
+the average regrets are  [41.67, 40.26]
+
+after 480 round
+the average regrets are  [41.82, 40.39]
+
+after 482 round
+the average regrets are  [41.94, 40.52]
+
+after 484 round
+the average regrets are  [42.07, 40.65]
+
+after 486 round
+the average regrets are  [42.19, 40.76]
+
+after 488 round
+the average regrets are  [42.32, 40.9]
+
+after 490 round
+the average regrets are  [42.45, 41.01]
+
+after 492 round
+the average regrets are  [42.57, 41.15]
+
+after 494 round
+the average regrets are  [42.71, 41.27]
+
+after 496 round
+the average regrets are  [42.81, 41.39]
+
+after 498 round
+the average regrets are  [42.91, 41.52]
+
+after 500 round
+the average regrets are  [43.04, 41.63]
+
+the epsilon is 0.07
+the second best arm index is 1
+Normal: epsilon greedy. Free: always real second best.
+['k=1', 'k=0']
+after 2 round
+the average regrets are  [2.01, 3.01]
+
+after 4 round
+the average regrets are  [2.64, 3.37]
+
+after 6 round
+the average regrets are  [3.17, 3.96]
+
+after 8 round
+the average regrets are  [3.61, 4.44]
+
+after 10 round
+the average regrets are  [4.04, 4.88]
+
+after 12 round
+the average regrets are  [4.43, 5.24]
+
+after 14 round
+the average regrets are  [4.78, 5.62]
+
+after 16 round
+the average regrets are  [5.15, 5.99]
+
+after 18 round
+the average regrets are  [5.52, 6.32]
+
+after 20 round
+the average regrets are  [5.87, 6.63]
+
+after 22 round
+the average regrets are  [6.22, 6.95]
+
+after 24 round
+the average regrets are  [6.59, 7.25]
+
+after 26 round
+the average regrets are  [6.93, 7.56]
+
+after 28 round
+the average regrets are  [7.24, 7.85]
+
+after 30 round
+the average regrets are  [7.54, 8.13]
+
+after 32 round
+the average regrets are  [7.86, 8.42]
+
+after 34 round
+the average regrets are  [8.14, 8.71]
+
+after 36 round
+the average regrets are  [8.45, 8.99]
+
+after 38 round
+the average regrets are  [8.74, 9.24]
+
+after 40 round
+the average regrets are  [9.03, 9.48]
+
+after 42 round
+the average regrets are  [9.31, 9.73]
+
+after 44 round
+the average regrets are  [9.58, 9.99]
+
+after 46 round
+the average regrets are  [9.86, 10.22]
+
+after 48 round
+the average regrets are  [10.1, 10.44]
+
+after 50 round
+the average regrets are  [10.37, 10.66]
+
+after 52 round
+the average regrets are  [10.64, 10.89]
+
+after 54 round
+the average regrets are  [10.9, 11.1]
+
+after 56 round
+the average regrets are  [11.15, 11.32]
+
+after 58 round
+the average regrets are  [11.41, 11.55]
+
+after 60 round
+the average regrets are  [11.68, 11.79]
+
+after 62 round
+the average regrets are  [11.92, 12.01]
+
+after 64 round
+the average regrets are  [12.2, 12.24]
+
+after 66 round
+the average regrets are  [12.44, 12.44]
+
+after 68 round
+the average regrets are  [12.65, 12.66]
+
+after 70 round
+the average regrets are  [12.89, 12.88]
+
+after 72 round
+the average regrets are  [13.12, 13.1]
+
+after 74 round
+the average regrets are  [13.35, 13.32]
+
+after 76 round
+the average regrets are  [13.59, 13.54]
+
+after 78 round
+the average regrets are  [13.82, 13.76]
+
+after 80 round
+the average regrets are  [14.05, 13.96]
+
+after 82 round
+the average regrets are  [14.23, 14.19]
+
+after 84 round
+the average regrets are  [14.46, 14.4]
+
+after 86 round
+the average regrets are  [14.7, 14.59]
+
+after 88 round
+the average regrets are  [14.92, 14.8]
+
+after 90 round
+the average regrets are  [15.14, 14.98]
+
+after 92 round
+the average regrets are  [15.34, 15.16]
+
+after 94 round
+the average regrets are  [15.57, 15.33]
+
+after 96 round
+the average regrets are  [15.77, 15.51]
+
+after 98 round
+the average regrets are  [15.97, 15.67]
+
+after 100 round
+the average regrets are  [16.18, 15.86]
+
+after 102 round
+the average regrets are  [16.39, 16.05]
+
+after 104 round
+the average regrets are  [16.57, 16.23]
+
+after 106 round
+the average regrets are  [16.77, 16.43]
+
+after 108 round
+the average regrets are  [16.97, 16.62]
+
+after 110 round
+the average regrets are  [17.17, 16.8]
+
+after 112 round
+the average regrets are  [17.35, 16.98]
+
+after 114 round
+the average regrets are  [17.54, 17.17]
+
+after 116 round
+the average regrets are  [17.75, 17.35]
+
+after 118 round
+the average regrets are  [17.94, 17.53]
+
+after 120 round
+the average regrets are  [18.11, 17.73]
+
+after 122 round
+the average regrets are  [18.33, 17.92]
+
+after 124 round
+the average regrets are  [18.52, 18.1]
+
+after 126 round
+the average regrets are  [18.7, 18.25]
+
+after 128 round
+the average regrets are  [18.89, 18.46]
+
+after 130 round
+the average regrets are  [19.09, 18.63]
+
+after 132 round
+the average regrets are  [19.26, 18.8]
+
+after 134 round
+the average regrets are  [19.46, 18.97]
+
+after 136 round
+the average regrets are  [19.66, 19.12]
+
+after 138 round
+the average regrets are  [19.85, 19.28]
+
+after 140 round
+the average regrets are  [20.03, 19.45]
+
+after 142 round
+the average regrets are  [20.24, 19.62]
+
+after 144 round
+the average regrets are  [20.43, 19.78]
+
+after 146 round
+the average regrets are  [20.58, 19.93]
+
+after 148 round
+the average regrets are  [20.75, 20.1]
+
+after 150 round
+the average regrets are  [20.92, 20.28]
+
+after 152 round
+the average regrets are  [21.1, 20.43]
+
+after 154 round
+the average regrets are  [21.27, 20.59]
+
+after 156 round
+the average regrets are  [21.43, 20.74]
+
+after 158 round
+the average regrets are  [21.59, 20.89]
+
+after 160 round
+the average regrets are  [21.75, 21.06]
+
+after 162 round
+the average regrets are  [21.9, 21.22]
+
+after 164 round
+the average regrets are  [22.06, 21.39]
+
+after 166 round
+the average regrets are  [22.23, 21.56]
+
+after 168 round
+the average regrets are  [22.4, 21.72]
+
+after 170 round
+the average regrets are  [22.58, 21.87]
+
+after 172 round
+the average regrets are  [22.74, 22.03]
+
+after 174 round
+the average regrets are  [22.94, 22.19]
+
+after 176 round
+the average regrets are  [23.12, 22.34]
+
+after 178 round
+the average regrets are  [23.3, 22.51]
+
+after 180 round
+the average regrets are  [23.46, 22.65]
+
+after 182 round
+the average regrets are  [23.62, 22.8]
+
+after 184 round
+the average regrets are  [23.76, 22.95]
+
+after 186 round
+the average regrets are  [23.94, 23.11]
+
+after 188 round
+the average regrets are  [24.09, 23.27]
+
+after 190 round
+the average regrets are  [24.23, 23.41]
+
+after 192 round
+the average regrets are  [24.43, 23.57]
+
+after 194 round
+the average regrets are  [24.62, 23.71]
+
+after 196 round
+the average regrets are  [24.78, 23.88]
+
+after 198 round
+the average regrets are  [24.95, 24.02]
+
+after 200 round
+the average regrets are  [25.1, 24.15]
+
+after 202 round
+the average regrets are  [25.24, 24.3]
+
+after 204 round
+the average regrets are  [25.39, 24.47]
+
+after 206 round
+the average regrets are  [25.56, 24.6]
+
+after 208 round
+the average regrets are  [25.72, 24.75]
+
+after 210 round
+the average regrets are  [25.87, 24.9]
+
+after 212 round
+the average regrets are  [26.02, 25.04]
+
+after 214 round
+the average regrets are  [26.19, 25.21]
+
+after 216 round
+the average regrets are  [26.34, 25.36]
+
+after 218 round
+the average regrets are  [26.5, 25.53]
+
+after 220 round
+the average regrets are  [26.66, 25.67]
+
+after 222 round
+the average regrets are  [26.82, 25.81]
+
+after 224 round
+the average regrets are  [26.96, 25.98]
+
+after 226 round
+the average regrets are  [27.1, 26.09]
+
+after 228 round
+the average regrets are  [27.26, 26.26]
+
+after 230 round
+the average regrets are  [27.39, 26.42]
+
+after 232 round
+the average regrets are  [27.53, 26.54]
+
+after 234 round
+the average regrets are  [27.68, 26.68]
+
+after 236 round
+the average regrets are  [27.87, 26.81]
+
+after 238 round
+the average regrets are  [28.01, 26.94]
+
+after 240 round
+the average regrets are  [28.18, 27.11]
+
+after 242 round
+the average regrets are  [28.34, 27.27]
+
+after 244 round
+the average regrets are  [28.49, 27.42]
+
+after 246 round
+the average regrets are  [28.65, 27.54]
+
+after 248 round
+the average regrets are  [28.81, 27.69]
+
+after 250 round
+the average regrets are  [28.93, 27.83]
+
+after 252 round
+the average regrets are  [29.07, 27.99]
+
+after 254 round
+the average regrets are  [29.23, 28.13]
+
+after 256 round
+the average regrets are  [29.34, 28.28]
+
+after 258 round
+the average regrets are  [29.5, 28.42]
+
+after 260 round
+the average regrets are  [29.64, 28.58]
+
+after 262 round
+the average regrets are  [29.8, 28.74]
+
+after 264 round
+the average regrets are  [29.93, 28.87]
+
+after 266 round
+the average regrets are  [30.12, 29.03]
+
+after 268 round
+the average regrets are  [30.28, 29.19]
+
+after 270 round
+the average regrets are  [30.42, 29.35]
+
+after 272 round
+the average regrets are  [30.56, 29.48]
+
+after 274 round
+the average regrets are  [30.7, 29.62]
+
+after 276 round
+the average regrets are  [30.85, 29.76]
+
+after 278 round
+the average regrets are  [30.99, 29.92]
+
+after 280 round
+the average regrets are  [31.15, 30.03]
+
+after 282 round
+the average regrets are  [31.31, 30.19]
+
+after 284 round
+the average regrets are  [31.43, 30.34]
+
+after 286 round
+the average regrets are  [31.58, 30.48]
+
+after 288 round
+the average regrets are  [31.74, 30.63]
+
+after 290 round
+the average regrets are  [31.91, 30.79]
+
+after 292 round
+the average regrets are  [32.07, 30.94]
+
+after 294 round
+the average regrets are  [32.24, 31.07]
+
+after 296 round
+the average regrets are  [32.37, 31.2]
+
+after 298 round
+the average regrets are  [32.51, 31.33]
+
+after 300 round
+the average regrets are  [32.64, 31.49]
+
+after 302 round
+the average regrets are  [32.8, 31.63]
+
+after 304 round
+the average regrets are  [32.96, 31.79]
+
+after 306 round
+the average regrets are  [33.1, 31.95]
+
+after 308 round
+the average regrets are  [33.25, 32.09]
+
+after 310 round
+the average regrets are  [33.41, 32.22]
+
+after 312 round
+the average regrets are  [33.55, 32.35]
+
+after 314 round
+the average regrets are  [33.7, 32.48]
+
+after 316 round
+the average regrets are  [33.86, 32.63]
+
+after 318 round
+the average regrets are  [33.98, 32.75]
+
+after 320 round
+the average regrets are  [34.11, 32.91]
+
+after 322 round
+the average regrets are  [34.26, 33.05]
+
+after 324 round
+the average regrets are  [34.4, 33.19]
+
+after 326 round
+the average regrets are  [34.53, 33.33]
+
+after 328 round
+the average regrets are  [34.68, 33.49]
+
+after 330 round
+the average regrets are  [34.83, 33.65]
+
+after 332 round
+the average regrets are  [34.95, 33.79]
+
+after 334 round
+the average regrets are  [35.11, 33.94]
+
+after 336 round
+the average regrets are  [35.24, 34.07]
+
+after 338 round
+the average regrets are  [35.38, 34.21]
+
+after 340 round
+the average regrets are  [35.53, 34.33]
+
+after 342 round
+the average regrets are  [35.7, 34.47]
+
+after 344 round
+the average regrets are  [35.83, 34.61]
+
+after 346 round
+the average regrets are  [35.97, 34.77]
+
+after 348 round
+the average regrets are  [36.1, 34.91]
+
+after 350 round
+the average regrets are  [36.26, 35.04]
+
+after 352 round
+the average regrets are  [36.4, 35.18]
+
+after 354 round
+the average regrets are  [36.54, 35.33]
+
+after 356 round
+the average regrets are  [36.66, 35.48]
+
+after 358 round
+the average regrets are  [36.82, 35.63]
+
+after 360 round
+the average regrets are  [36.95, 35.75]
+
+after 362 round
+the average regrets are  [37.11, 35.9]
+
+after 364 round
+the average regrets are  [37.26, 36.05]
+
+after 366 round
+the average regrets are  [37.4, 36.16]
+
+after 368 round
+the average regrets are  [37.53, 36.31]
+
+after 370 round
+the average regrets are  [37.66, 36.44]
+
+after 372 round
+the average regrets are  [37.81, 36.58]
+
+after 374 round
+the average regrets are  [37.96, 36.71]
+
+after 376 round
+the average regrets are  [38.11, 36.84]
+
+after 378 round
+the average regrets are  [38.25, 36.95]
+
+after 380 round
+the average regrets are  [38.42, 37.1]
+
+after 382 round
+the average regrets are  [38.56, 37.29]
+
+after 384 round
+the average regrets are  [38.68, 37.44]
+
+after 386 round
+the average regrets are  [38.85, 37.6]
+
+after 388 round
+the average regrets are  [38.98, 37.72]
+
+after 390 round
+the average regrets are  [39.12, 37.83]
+
+after 392 round
+the average regrets are  [39.26, 37.96]
+
+after 394 round
+the average regrets are  [39.42, 38.11]
+
+after 396 round
+the average regrets are  [39.56, 38.25]
+
+after 398 round
+the average regrets are  [39.7, 38.4]
+
+after 400 round
+the average regrets are  [39.86, 38.55]
+
+after 402 round
+the average regrets are  [39.98, 38.7]
+
+after 404 round
+the average regrets are  [40.11, 38.82]
+
+after 406 round
+the average regrets are  [40.26, 38.99]
+
+after 408 round
+the average regrets are  [40.38, 39.12]
+
+after 410 round
+the average regrets are  [40.53, 39.29]
+
+after 412 round
+the average regrets are  [40.68, 39.44]
+
+after 414 round
+the average regrets are  [40.8, 39.58]
+
+after 416 round
+the average regrets are  [40.95, 39.69]
+
+after 418 round
+the average regrets are  [41.08, 39.83]
+
+after 420 round
+the average regrets are  [41.23, 39.98]
+
+after 422 round
+the average regrets are  [41.35, 40.12]
+
+after 424 round
+the average regrets are  [41.5, 40.26]
+
+after 426 round
+the average regrets are  [41.62, 40.4]
+
+after 428 round
+the average regrets are  [41.78, 40.55]
+
+after 430 round
+the average regrets are  [41.93, 40.68]
+
+after 432 round
+the average regrets are  [42.06, 40.81]
+
+after 434 round
+the average regrets are  [42.2, 40.94]
+
+after 436 round
+the average regrets are  [42.33, 41.09]
+
+after 438 round
+the average regrets are  [42.46, 41.24]
+
+after 440 round
+the average regrets are  [42.6, 41.38]
+
+after 442 round
+the average regrets are  [42.75, 41.51]
+
+after 444 round
+the average regrets are  [42.9, 41.64]
+
+after 446 round
+the average regrets are  [43.06, 41.77]
+
+after 448 round
+the average regrets are  [43.22, 41.89]
+
+after 450 round
+the average regrets are  [43.37, 42.02]
+
+after 452 round
+the average regrets are  [43.5, 42.16]
+
+after 454 round
+the average regrets are  [43.65, 42.29]
+
+after 456 round
+the average regrets are  [43.76, 42.43]
+
+after 458 round
+the average regrets are  [43.9, 42.59]
+
+after 460 round
+the average regrets are  [44.03, 42.72]
+
+after 462 round
+the average regrets are  [44.2, 42.86]
+
+after 464 round
+the average regrets are  [44.35, 42.98]
+
+after 466 round
+the average regrets are  [44.48, 43.11]
+
+after 468 round
+the average regrets are  [44.62, 43.24]
+
+after 470 round
+the average regrets are  [44.76, 43.37]
+
+after 472 round
+the average regrets are  [44.89, 43.54]
+
+after 474 round
+the average regrets are  [45.03, 43.68]
+
+after 476 round
+the average regrets are  [45.17, 43.81]
+
+after 478 round
+the average regrets are  [45.3, 43.95]
+
+after 480 round
+the average regrets are  [45.45, 44.08]
+
+after 482 round
+the average regrets are  [45.61, 44.23]
+
+after 484 round
+the average regrets are  [45.74, 44.39]
+
+after 486 round
+the average regrets are  [45.88, 44.55]
+
+after 488 round
+the average regrets are  [46.04, 44.71]
+
+after 490 round
+the average regrets are  [46.18, 44.87]
+
+after 492 round
+the average regrets are  [46.31, 45.0]
+
+after 494 round
+the average regrets are  [46.47, 45.12]
+
+after 496 round
+the average regrets are  [46.6, 45.27]
+
+after 498 round
+the average regrets are  [46.74, 45.42]
+
+after 500 round
+the average regrets are  [46.88, 45.56]
+
+the epsilon is 0.08
+the second best arm index is 1
+Normal: epsilon greedy. Free: always real second best.
+['k=1', 'k=0']
+after 2 round
+the average regrets are  [2.0, 2.99]
+
+after 4 round
+the average regrets are  [2.65, 3.38]
+
+after 6 round
+the average regrets are  [3.23, 3.99]
+
+after 8 round
+the average regrets are  [3.67, 4.49]
+
+after 10 round
+the average regrets are  [4.11, 4.95]
+
+after 12 round
+the average regrets are  [4.51, 5.35]
+
+after 14 round
+the average regrets are  [4.94, 5.73]
+
+after 16 round
+the average regrets are  [5.35, 6.11]
+
+after 18 round
+the average regrets are  [5.73, 6.43]
+
+after 20 round
+the average regrets are  [6.09, 6.77]
+
+after 22 round
+the average regrets are  [6.44, 7.11]
+
+after 24 round
+the average regrets are  [6.8, 7.4]
+
+after 26 round
+the average regrets are  [7.13, 7.7]
+
+after 28 round
+the average regrets are  [7.49, 8.0]
+
+after 30 round
+the average regrets are  [7.81, 8.29]
+
+after 32 round
+the average regrets are  [8.13, 8.58]
+
+after 34 round
+the average regrets are  [8.43, 8.86]
+
+after 36 round
+the average regrets are  [8.76, 9.14]
+
+after 38 round
+the average regrets are  [9.08, 9.4]
+
+after 40 round
+the average regrets are  [9.4, 9.65]
+
+after 42 round
+the average regrets are  [9.71, 9.91]
+
+after 44 round
+the average regrets are  [10.04, 10.19]
+
+after 46 round
+the average regrets are  [10.35, 10.43]
+
+after 48 round
+the average regrets are  [10.64, 10.69]
+
+after 50 round
+the average regrets are  [10.91, 10.92]
+
+after 52 round
+the average regrets are  [11.18, 11.15]
+
+after 54 round
+the average regrets are  [11.45, 11.39]
+
+after 56 round
+the average regrets are  [11.73, 11.66]
+
+after 58 round
+the average regrets are  [11.99, 11.91]
+
+after 60 round
+the average regrets are  [12.26, 12.15]
+
+after 62 round
+the average regrets are  [12.5, 12.41]
+
+after 64 round
+the average regrets are  [12.78, 12.62]
+
+after 66 round
+the average regrets are  [13.03, 12.85]
+
+after 68 round
+the average regrets are  [13.28, 13.08]
+
+after 70 round
+the average regrets are  [13.52, 13.31]
+
+after 72 round
+the average regrets are  [13.76, 13.51]
+
+after 74 round
+the average regrets are  [13.99, 13.74]
+
+after 76 round
+the average regrets are  [14.22, 13.96]
+
+after 78 round
+the average regrets are  [14.47, 14.19]
+
+after 80 round
+the average regrets are  [14.71, 14.41]
+
+after 82 round
+the average regrets are  [14.96, 14.62]
+
+after 84 round
+the average regrets are  [15.18, 14.83]
+
+after 86 round
+the average regrets are  [15.4, 15.05]
+
+after 88 round
+the average regrets are  [15.61, 15.27]
+
+after 90 round
+the average regrets are  [15.84, 15.47]
+
+after 92 round
+the average regrets are  [16.06, 15.66]
+
+after 94 round
+the average regrets are  [16.29, 15.88]
+
+after 96 round
+the average regrets are  [16.5, 16.07]
+
+after 98 round
+the average regrets are  [16.73, 16.27]
+
+after 100 round
+the average regrets are  [16.95, 16.5]
+
+after 102 round
+the average regrets are  [17.16, 16.7]
+
+after 104 round
+the average regrets are  [17.37, 16.9]
+
+after 106 round
+the average regrets are  [17.57, 17.09]
+
+after 108 round
+the average regrets are  [17.78, 17.31]
+
+after 110 round
+the average regrets are  [17.97, 17.52]
+
+after 112 round
+the average regrets are  [18.2, 17.71]
+
+after 114 round
+the average regrets are  [18.41, 17.9]
+
+after 116 round
+the average regrets are  [18.62, 18.11]
+
+after 118 round
+the average regrets are  [18.82, 18.3]
+
+after 120 round
+the average regrets are  [19.02, 18.48]
+
+after 122 round
+the average regrets are  [19.2, 18.66]
+
+after 124 round
+the average regrets are  [19.4, 18.85]
+
+after 126 round
+the average regrets are  [19.59, 19.04]
+
+after 128 round
+the average regrets are  [19.78, 19.21]
+
+after 130 round
+the average regrets are  [19.97, 19.42]
+
+after 132 round
+the average regrets are  [20.18, 19.61]
+
+after 134 round
+the average regrets are  [20.37, 19.78]
+
+after 136 round
+the average regrets are  [20.58, 19.99]
+
+after 138 round
+the average regrets are  [20.78, 20.19]
+
+after 140 round
+the average regrets are  [20.97, 20.37]
+
+after 142 round
+the average regrets are  [21.15, 20.55]
+
+after 144 round
+the average regrets are  [21.33, 20.74]
+
+after 146 round
+the average regrets are  [21.52, 20.91]
+
+after 148 round
+the average regrets are  [21.66, 21.1]
+
+after 150 round
+the average regrets are  [21.82, 21.28]
+
+after 152 round
+the average regrets are  [22.01, 21.48]
+
+after 154 round
+the average regrets are  [22.19, 21.64]
+
+after 156 round
+the average regrets are  [22.41, 21.79]
+
+after 158 round
+the average regrets are  [22.58, 21.96]
+
+after 160 round
+the average regrets are  [22.74, 22.13]
+
+after 162 round
+the average regrets are  [22.92, 22.3]
+
+after 164 round
+the average regrets are  [23.12, 22.48]
+
+after 166 round
+the average regrets are  [23.3, 22.67]
+
+after 168 round
+the average regrets are  [23.49, 22.86]
+
+after 170 round
+the average regrets are  [23.68, 23.03]
+
+after 172 round
+the average regrets are  [23.86, 23.21]
+
+after 174 round
+the average regrets are  [24.02, 23.39]
+
+after 176 round
+the average regrets are  [24.23, 23.57]
+
+after 178 round
+the average regrets are  [24.39, 23.74]
+
+after 180 round
+the average regrets are  [24.56, 23.91]
+
+after 182 round
+the average regrets are  [24.73, 24.07]
+
+after 184 round
+the average regrets are  [24.93, 24.27]
+
+after 186 round
+the average regrets are  [25.12, 24.44]
+
+after 188 round
+the average regrets are  [25.28, 24.64]
+
+after 190 round
+the average regrets are  [25.46, 24.82]
+
+after 192 round
+the average regrets are  [25.62, 25.01]
+
+after 194 round
+the average regrets are  [25.79, 25.14]
+
+after 196 round
+the average regrets are  [25.96, 25.28]
+
+after 198 round
+the average regrets are  [26.1, 25.46]
+
+after 200 round
+the average regrets are  [26.28, 25.62]
+
+after 202 round
+the average regrets are  [26.44, 25.79]
+
+after 204 round
+the average regrets are  [26.63, 25.95]
+
+after 206 round
+the average regrets are  [26.79, 26.13]
+
+after 208 round
+the average regrets are  [26.95, 26.28]
+
+after 210 round
+the average regrets are  [27.1, 26.43]
+
+after 212 round
+the average regrets are  [27.26, 26.58]
+
+after 214 round
+the average regrets are  [27.43, 26.76]
+
+after 216 round
+the average regrets are  [27.6, 26.92]
+
+after 218 round
+the average regrets are  [27.74, 27.07]
+
+after 220 round
+the average regrets are  [27.9, 27.22]
+
+after 222 round
+the average regrets are  [28.05, 27.38]
+
+after 224 round
+the average regrets are  [28.23, 27.54]
+
+after 226 round
+the average regrets are  [28.4, 27.7]
+
+after 228 round
+the average regrets are  [28.56, 27.87]
+
+after 230 round
+the average regrets are  [28.72, 28.03]
+
+after 232 round
+the average regrets are  [28.88, 28.2]
+
+after 234 round
+the average regrets are  [29.06, 28.35]
+
+after 236 round
+the average regrets are  [29.21, 28.49]
+
+after 238 round
+the average regrets are  [29.38, 28.68]
+
+after 240 round
+the average regrets are  [29.58, 28.84]
+
+after 242 round
+the average regrets are  [29.77, 29.0]
+
+after 244 round
+the average regrets are  [29.94, 29.18]
+
+after 246 round
+the average regrets are  [30.09, 29.36]
+
+after 248 round
+the average regrets are  [30.25, 29.53]
+
+after 250 round
+the average regrets are  [30.41, 29.72]
+
+after 252 round
+the average regrets are  [30.57, 29.91]
+
+after 254 round
+the average regrets are  [30.73, 30.04]
+
+after 256 round
+the average regrets are  [30.9, 30.21]
+
+after 258 round
+the average regrets are  [31.09, 30.36]
+
+after 260 round
+the average regrets are  [31.26, 30.51]
+
+after 262 round
+the average regrets are  [31.43, 30.69]
+
+after 264 round
+the average regrets are  [31.6, 30.86]
+
+after 266 round
+the average regrets are  [31.77, 30.99]
+
+after 268 round
+the average regrets are  [31.95, 31.17]
+
+after 270 round
+the average regrets are  [32.13, 31.35]
+
+after 272 round
+the average regrets are  [32.29, 31.49]
+
+after 274 round
+the average regrets are  [32.47, 31.66]
+
+after 276 round
+the average regrets are  [32.62, 31.84]
+
+after 278 round
+the average regrets are  [32.81, 32.02]
+
+after 280 round
+the average regrets are  [32.97, 32.19]
+
+after 282 round
+the average regrets are  [33.12, 32.36]
+
+after 284 round
+the average regrets are  [33.28, 32.5]
+
+after 286 round
+the average regrets are  [33.43, 32.66]
+
+after 288 round
+the average regrets are  [33.63, 32.83]
+
+after 290 round
+the average regrets are  [33.79, 33.01]
+
+after 292 round
+the average regrets are  [33.95, 33.18]
+
+after 294 round
+the average regrets are  [34.13, 33.34]
+
+after 296 round
+the average regrets are  [34.29, 33.48]
+
+after 298 round
+the average regrets are  [34.48, 33.64]
+
+after 300 round
+the average regrets are  [34.67, 33.78]
+
+after 302 round
+the average regrets are  [34.84, 33.93]
+
+after 304 round
+the average regrets are  [35.0, 34.11]
+
+after 306 round
+the average regrets are  [35.17, 34.26]
+
+after 308 round
+the average regrets are  [35.31, 34.41]
+
+after 310 round
+the average regrets are  [35.48, 34.58]
+
+after 312 round
+the average regrets are  [35.63, 34.74]
+
+after 314 round
+the average regrets are  [35.78, 34.9]
+
+after 316 round
+the average regrets are  [35.97, 35.07]
+
+after 318 round
+the average regrets are  [36.16, 35.29]
+
+after 320 round
+the average regrets are  [36.3, 35.45]
+
+after 322 round
+the average regrets are  [36.5, 35.6]
+
+after 324 round
+the average regrets are  [36.65, 35.76]
+
+after 326 round
+the average regrets are  [36.81, 35.92]
+
+after 328 round
+the average regrets are  [36.97, 36.09]
+
+after 330 round
+the average regrets are  [37.15, 36.23]
+
+after 332 round
+the average regrets are  [37.32, 36.39]
+
+after 334 round
+the average regrets are  [37.47, 36.55]
+
+after 336 round
+the average regrets are  [37.65, 36.72]
+
+after 338 round
+the average regrets are  [37.82, 36.88]
+
+after 340 round
+the average regrets are  [38.01, 37.04]
+
+after 342 round
+the average regrets are  [38.19, 37.21]
+
+after 344 round
+the average regrets are  [38.37, 37.38]
+
+after 346 round
+the average regrets are  [38.56, 37.56]
+
+after 348 round
+the average regrets are  [38.7, 37.72]
+
+after 350 round
+the average regrets are  [38.87, 37.9]
+
+after 352 round
+the average regrets are  [39.03, 38.02]
+
+after 354 round
+the average regrets are  [39.2, 38.21]
+
+after 356 round
+the average regrets are  [39.37, 38.36]
+
+after 358 round
+the average regrets are  [39.53, 38.52]
+
+after 360 round
+the average regrets are  [39.71, 38.68]
+
+after 362 round
+the average regrets are  [39.86, 38.84]
+
+after 364 round
+the average regrets are  [40.03, 38.98]
+
+after 366 round
+the average regrets are  [40.16, 39.13]
+
+after 368 round
+the average regrets are  [40.31, 39.31]
+
+after 370 round
+the average regrets are  [40.48, 39.45]
+
+after 372 round
+the average regrets are  [40.63, 39.65]
+
+after 374 round
+the average regrets are  [40.79, 39.8]
+
+after 376 round
+the average regrets are  [40.94, 39.97]
+
+after 378 round
+the average regrets are  [41.11, 40.13]
+
+after 380 round
+the average regrets are  [41.28, 40.3]
+
+after 382 round
+the average regrets are  [41.43, 40.46]
+
+after 384 round
+the average regrets are  [41.6, 40.61]
+
+after 386 round
+the average regrets are  [41.78, 40.77]
+
+after 388 round
+the average regrets are  [41.96, 40.94]
+
+after 390 round
+the average regrets are  [42.12, 41.11]
+
+after 392 round
+the average regrets are  [42.31, 41.28]
+
+after 394 round
+the average regrets are  [42.47, 41.45]
+
+after 396 round
+the average regrets are  [42.61, 41.61]
+
+after 398 round
+the average regrets are  [42.77, 41.78]
+
+after 400 round
+the average regrets are  [42.93, 41.92]
+
+after 402 round
+the average regrets are  [43.1, 42.08]
+
+after 404 round
+the average regrets are  [43.28, 42.25]
+
+after 406 round
+the average regrets are  [43.43, 42.42]
+
+after 408 round
+the average regrets are  [43.61, 42.57]
+
+after 410 round
+the average regrets are  [43.77, 42.73]
+
+after 412 round
+the average regrets are  [43.93, 42.88]
+
+after 414 round
+the average regrets are  [44.07, 43.05]
+
+after 416 round
+the average regrets are  [44.23, 43.21]
+
+after 418 round
+the average regrets are  [44.4, 43.37]
+
+after 420 round
+the average regrets are  [44.57, 43.52]
+
+after 422 round
+the average regrets are  [44.73, 43.69]
+
+after 424 round
+the average regrets are  [44.9, 43.85]
+
+after 426 round
+the average regrets are  [45.07, 44.01]
+
+after 428 round
+the average regrets are  [45.23, 44.16]
+
+after 430 round
+the average regrets are  [45.36, 44.31]
+
+after 432 round
+the average regrets are  [45.53, 44.45]
+
+after 434 round
+the average regrets are  [45.7, 44.6]
+
+after 436 round
+the average regrets are  [45.87, 44.74]
+
+after 438 round
+the average regrets are  [46.01, 44.9]
+
+after 440 round
+the average regrets are  [46.17, 45.05]
+
+after 442 round
+the average regrets are  [46.3, 45.21]
+
+after 444 round
+the average regrets are  [46.44, 45.37]
+
+after 446 round
+the average regrets are  [46.62, 45.52]
+
+after 448 round
+the average regrets are  [46.77, 45.69]
+
+after 450 round
+the average regrets are  [46.96, 45.85]
+
+after 452 round
+the average regrets are  [47.1, 46.0]
+
+after 454 round
+the average regrets are  [47.25, 46.17]
+
+after 456 round
+the average regrets are  [47.4, 46.32]
+
+after 458 round
+the average regrets are  [47.55, 46.48]
+
+after 460 round
+the average regrets are  [47.71, 46.66]
+
+after 462 round
+the average regrets are  [47.89, 46.79]
+
+after 464 round
+the average regrets are  [48.03, 46.94]
+
+after 466 round
+the average regrets are  [48.22, 47.1]
+
+after 468 round
+the average regrets are  [48.37, 47.27]
+
+after 470 round
+the average regrets are  [48.52, 47.43]
+
+after 472 round
+the average regrets are  [48.66, 47.55]
+
+after 474 round
+the average regrets are  [48.82, 47.71]
+
+after 476 round
+the average regrets are  [48.98, 47.86]
+
+after 478 round
+the average regrets are  [49.13, 47.98]
+
+after 480 round
+the average regrets are  [49.31, 48.13]
+
+after 482 round
+the average regrets are  [49.5, 48.29]
+
+after 484 round
+the average regrets are  [49.67, 48.48]
+
+after 486 round
+the average regrets are  [49.81, 48.63]
+
+after 488 round
+the average regrets are  [49.91, 48.77]
+
+after 490 round
+the average regrets are  [50.07, 48.92]
+
+after 492 round
+the average regrets are  [50.24, 49.08]
+
+after 494 round
+the average regrets are  [50.4, 49.26]
+
+after 496 round
+the average regrets are  [50.55, 49.44]
+
+after 498 round
+the average regrets are  [50.71, 49.61]
+
+after 500 round
+the average regrets are  [50.86, 49.76]
+
+the epsilon is 0.09
+the second best arm index is 1
+Normal: epsilon greedy. Free: always real second best.
+['k=1', 'k=0']
+after 2 round
+the average regrets are  [1.98, 3.01]
+
+after 4 round
+the average regrets are  [2.62, 3.38]
+
+after 6 round
+the average regrets are  [3.17, 4.0]
+
+after 8 round
+the average regrets are  [3.65, 4.52]
+
+after 10 round
+the average regrets are  [4.09, 5.0]
+
+after 12 round
+the average regrets are  [4.53, 5.39]
+
+after 14 round
+the average regrets are  [4.95, 5.78]
+
+after 16 round
+the average regrets are  [5.34, 6.17]
+
+after 18 round
+the average regrets are  [5.72, 6.49]
+
+after 20 round
+the average regrets are  [6.05, 6.83]
+
+after 22 round
+the average regrets are  [6.41, 7.14]
+
+after 24 round
+the average regrets are  [6.76, 7.46]
+
+after 26 round
+the average regrets are  [7.11, 7.76]
+
+after 28 round
+the average regrets are  [7.45, 8.06]
+
+after 30 round
+the average regrets are  [7.78, 8.37]
+
+after 32 round
+the average regrets are  [8.13, 8.65]
+
+after 34 round
+the average regrets are  [8.41, 8.94]
+
+after 36 round
+the average regrets are  [8.72, 9.25]
+
+after 38 round
+the average regrets are  [9.03, 9.54]
+
+after 40 round
+the average regrets are  [9.33, 9.8]
+
+after 42 round
+the average regrets are  [9.61, 10.04]
+
+after 44 round
+the average regrets are  [9.89, 10.32]
+
+after 46 round
+the average regrets are  [10.16, 10.6]
+
+after 48 round
+the average regrets are  [10.46, 10.88]
+
+after 50 round
+the average regrets are  [10.76, 11.15]
+
+after 52 round
+the average regrets are  [11.05, 11.38]
+
+after 54 round
+the average regrets are  [11.34, 11.66]
+
+after 56 round
+the average regrets are  [11.63, 11.89]
+
+after 58 round
+the average regrets are  [11.91, 12.13]
+
+after 60 round
+the average regrets are  [12.16, 12.37]
+
+after 62 round
+the average regrets are  [12.42, 12.61]
+
+after 64 round
+the average regrets are  [12.66, 12.85]
+
+after 66 round
+the average regrets are  [12.93, 13.08]
+
+after 68 round
+the average regrets are  [13.15, 13.32]
+
+after 70 round
+the average regrets are  [13.39, 13.56]
+
+after 72 round
+the average regrets are  [13.61, 13.83]
+
+after 74 round
+the average regrets are  [13.85, 14.06]
+
+after 76 round
+the average regrets are  [14.08, 14.31]
+
+after 78 round
+the average regrets are  [14.33, 14.56]
+
+after 80 round
+the average regrets are  [14.55, 14.78]
+
+after 82 round
+the average regrets are  [14.77, 15.03]
+
+after 84 round
+the average regrets are  [15.03, 15.27]
+
+after 86 round
+the average regrets are  [15.26, 15.5]
+
+after 88 round
+the average regrets are  [15.49, 15.71]
+
+after 90 round
+the average regrets are  [15.74, 15.94]
+
+after 92 round
+the average regrets are  [15.94, 16.14]
+
+after 94 round
+the average regrets are  [16.17, 16.36]
+
+after 96 round
+the average regrets are  [16.4, 16.56]
+
+after 98 round
+the average regrets are  [16.61, 16.78]
+
+after 100 round
+the average regrets are  [16.84, 16.99]
+
+after 102 round
+the average regrets are  [17.06, 17.2]
+
+after 104 round
+the average regrets are  [17.27, 17.41]
+
+after 106 round
+the average regrets are  [17.49, 17.63]
+
+after 108 round
+the average regrets are  [17.72, 17.84]
+
+after 110 round
+the average regrets are  [17.95, 18.06]
+
+after 112 round
+the average regrets are  [18.15, 18.26]
+
+after 114 round
+the average regrets are  [18.36, 18.46]
+
+after 116 round
+the average regrets are  [18.6, 18.67]
+
+after 118 round
+the average regrets are  [18.8, 18.89]
+
+after 120 round
+the average regrets are  [19.02, 19.08]
+
+after 122 round
+the average regrets are  [19.25, 19.29]
+
+after 124 round
+the average regrets are  [19.44, 19.48]
+
+after 126 round
+the average regrets are  [19.64, 19.68]
+
+after 128 round
+the average regrets are  [19.83, 19.89]
+
+after 130 round
+the average regrets are  [20.05, 20.09]
+
+after 132 round
+the average regrets are  [20.28, 20.31]
+
+after 134 round
+the average regrets are  [20.49, 20.51]
+
+after 136 round
+the average regrets are  [20.69, 20.71]
+
+after 138 round
+the average regrets are  [20.88, 20.91]
+
+after 140 round
+the average regrets are  [21.09, 21.13]
+
+after 142 round
+the average regrets are  [21.29, 21.35]
+
+after 144 round
+the average regrets are  [21.5, 21.55]
+
+after 146 round
+the average regrets are  [21.69, 21.75]
+
+after 148 round
+the average regrets are  [21.9, 21.96]
+
+after 150 round
+the average regrets are  [22.07, 22.15]
+
+after 152 round
+the average regrets are  [22.24, 22.33]
+
+after 154 round
+the average regrets are  [22.42, 22.54]
+
+after 156 round
+the average regrets are  [22.58, 22.75]
+
+after 158 round
+the average regrets are  [22.79, 22.96]
+
+after 160 round
+the average regrets are  [22.99, 23.16]
+
+after 162 round
+the average regrets are  [23.18, 23.39]
+
+after 164 round
+the average regrets are  [23.38, 23.58]
+
+after 166 round
+the average regrets are  [23.58, 23.77]
+
+after 168 round
+the average regrets are  [23.78, 23.93]
+
+after 170 round
+the average regrets are  [23.97, 24.12]
+
+after 172 round
+the average regrets are  [24.17, 24.28]
+
+after 174 round
+the average regrets are  [24.34, 24.47]
+
+after 176 round
+the average regrets are  [24.52, 24.63]
+
+after 178 round
+the average regrets are  [24.71, 24.81]
+
+after 180 round
+the average regrets are  [24.91, 24.99]
+
+after 182 round
+the average regrets are  [25.09, 25.19]
+
+after 184 round
+the average regrets are  [25.32, 25.35]
+
+after 186 round
+the average regrets are  [25.51, 25.55]
+
+after 188 round
+the average regrets are  [25.73, 25.73]
+
+after 190 round
+the average regrets are  [25.89, 25.92]
+
+after 192 round
+the average regrets are  [26.1, 26.07]
+
+after 194 round
+the average regrets are  [26.31, 26.24]
+
+after 196 round
+the average regrets are  [26.49, 26.46]
+
+after 198 round
+the average regrets are  [26.68, 26.65]
+
+after 200 round
+the average regrets are  [26.85, 26.84]
+
+after 202 round
+the average regrets are  [27.06, 27.04]
+
+after 204 round
+the average regrets are  [27.27, 27.23]
+
+after 206 round
+the average regrets are  [27.44, 27.45]
+
+after 208 round
+the average regrets are  [27.62, 27.65]
+
+after 210 round
+the average regrets are  [27.8, 27.84]
+
+after 212 round
+the average regrets are  [28.0, 28.02]
+
+after 214 round
+the average regrets are  [28.19, 28.17]
+
+after 216 round
+the average regrets are  [28.36, 28.38]
+
+after 218 round
+the average regrets are  [28.56, 28.58]
+
+after 220 round
+the average regrets are  [28.74, 28.79]
+
+after 222 round
+the average regrets are  [28.95, 29.0]
+
+after 224 round
+the average regrets are  [29.13, 29.21]
+
+after 226 round
+the average regrets are  [29.35, 29.4]
+
+after 228 round
+the average regrets are  [29.55, 29.55]
+
+after 230 round
+the average regrets are  [29.74, 29.71]
+
+after 232 round
+the average regrets are  [29.92, 29.87]
+
+after 234 round
+the average regrets are  [30.09, 30.03]
+
+after 236 round
+the average regrets are  [30.29, 30.19]
+
+after 238 round
+the average regrets are  [30.49, 30.39]
+
+after 240 round
+the average regrets are  [30.67, 30.57]
+
+after 242 round
+the average regrets are  [30.85, 30.76]
+
+after 244 round
+the average regrets are  [31.04, 30.97]
+
+after 246 round
+the average regrets are  [31.23, 31.16]
+
+after 248 round
+the average regrets are  [31.39, 31.35]
+
+after 250 round
+the average regrets are  [31.6, 31.53]
+
+after 252 round
+the average regrets are  [31.76, 31.73]
+
+after 254 round
+the average regrets are  [31.93, 31.91]
+
+after 256 round
+the average regrets are  [32.14, 32.08]
+
+after 258 round
+the average regrets are  [32.31, 32.26]
+
+after 260 round
+the average regrets are  [32.47, 32.45]
+
+after 262 round
+the average regrets are  [32.66, 32.64]
+
+after 264 round
+the average regrets are  [32.82, 32.81]
+
+after 266 round
+the average regrets are  [33.0, 33.0]
+
+after 268 round
+the average regrets are  [33.2, 33.2]
+
+after 270 round
+the average regrets are  [33.36, 33.38]
+
+after 272 round
+the average regrets are  [33.56, 33.54]
+
+after 274 round
+the average regrets are  [33.77, 33.74]
+
+after 276 round
+the average regrets are  [33.94, 33.94]
+
+after 278 round
+the average regrets are  [34.14, 34.11]
+
+after 280 round
+the average regrets are  [34.32, 34.31]
+
+after 282 round
+the average regrets are  [34.51, 34.5]
+
+after 284 round
+the average regrets are  [34.71, 34.67]
+
+after 286 round
+the average regrets are  [34.88, 34.85]
+
+after 288 round
+the average regrets are  [35.06, 35.03]
+
+after 290 round
+the average regrets are  [35.26, 35.21]
+
+after 292 round
+the average regrets are  [35.46, 35.41]
+
+after 294 round
+the average regrets are  [35.68, 35.61]
+
+after 296 round
+the average regrets are  [35.86, 35.81]
+
+after 298 round
+the average regrets are  [36.04, 35.97]
+
+after 300 round
+the average regrets are  [36.23, 36.18]
+
+after 302 round
+the average regrets are  [36.42, 36.39]
+
+after 304 round
+the average regrets are  [36.6, 36.55]
+
+after 306 round
+the average regrets are  [36.74, 36.74]
+
+after 308 round
+the average regrets are  [36.92, 36.9]
+
+after 310 round
+the average regrets are  [37.11, 37.1]
+
+after 312 round
+the average regrets are  [37.27, 37.26]
+
+after 314 round
+the average regrets are  [37.45, 37.46]
+
+after 316 round
+the average regrets are  [37.63, 37.63]
+
+after 318 round
+the average regrets are  [37.81, 37.82]
+
+after 320 round
+the average regrets are  [37.98, 38.0]
+
+after 322 round
+the average regrets are  [38.18, 38.19]
+
+after 324 round
+the average regrets are  [38.36, 38.37]
+
+after 326 round
+the average regrets are  [38.54, 38.56]
+
+after 328 round
+the average regrets are  [38.72, 38.75]
+
+after 330 round
+the average regrets are  [38.9, 38.92]
+
+after 332 round
+the average regrets are  [39.09, 39.12]
+
+after 334 round
+the average regrets are  [39.26, 39.28]
+
+after 336 round
+the average regrets are  [39.47, 39.46]
+
+after 338 round
+the average regrets are  [39.64, 39.63]
+
+after 340 round
+the average regrets are  [39.81, 39.78]
+
+after 342 round
+the average regrets are  [40.01, 39.96]
+
+after 344 round
+the average regrets are  [40.19, 40.12]
+
+after 346 round
+the average regrets are  [40.4, 40.3]
+
+after 348 round
+the average regrets are  [40.59, 40.48]
+
+after 350 round
+the average regrets are  [40.77, 40.7]
+
+after 352 round
+the average regrets are  [40.96, 40.89]
+
+after 354 round
+the average regrets are  [41.15, 41.06]
+
+after 356 round
+the average regrets are  [41.36, 41.25]
+
+after 358 round
+the average regrets are  [41.54, 41.42]
+
+after 360 round
+the average regrets are  [41.71, 41.6]
+
+after 362 round
+the average regrets are  [41.91, 41.77]
+
+after 364 round
+the average regrets are  [42.08, 41.96]
+
+after 366 round
+the average regrets are  [42.25, 42.14]
+
+after 368 round
+the average regrets are  [42.44, 42.34]
+
+after 370 round
+the average regrets are  [42.66, 42.54]
+
+after 372 round
+the average regrets are  [42.82, 42.7]
+
+after 374 round
+the average regrets are  [43.01, 42.91]
+
+after 376 round
+the average regrets are  [43.19, 43.09]
+
+after 378 round
+the average regrets are  [43.37, 43.28]
+
+after 380 round
+the average regrets are  [43.53, 43.49]
+
+after 382 round
+the average regrets are  [43.7, 43.67]
+
+after 384 round
+the average regrets are  [43.87, 43.85]
+
+after 386 round
+the average regrets are  [44.04, 44.01]
+
+after 388 round
+the average regrets are  [44.23, 44.22]
+
+after 390 round
+the average regrets are  [44.4, 44.4]
+
+after 392 round
+the average regrets are  [44.57, 44.63]
+
+after 394 round
+the average regrets are  [44.76, 44.78]
+
+after 396 round
+the average regrets are  [44.93, 44.98]
+
+after 398 round
+the average regrets are  [45.11, 45.19]
+
+after 400 round
+the average regrets are  [45.31, 45.34]
+
+after 402 round
+the average regrets are  [45.48, 45.48]
+
+after 404 round
+the average regrets are  [45.68, 45.65]
+
+after 406 round
+the average regrets are  [45.82, 45.84]
+
+after 408 round
+the average regrets are  [46.01, 46.01]
+
+after 410 round
+the average regrets are  [46.19, 46.18]
+
+after 412 round
+the average regrets are  [46.35, 46.38]
+
+after 414 round
+the average regrets are  [46.53, 46.57]
+
+after 416 round
+the average regrets are  [46.7, 46.73]
+
+after 418 round
+the average regrets are  [46.9, 46.91]
+
+after 420 round
+the average regrets are  [47.06, 47.07]
+
+after 422 round
+the average regrets are  [47.23, 47.25]
+
+after 424 round
+the average regrets are  [47.43, 47.42]
+
+after 426 round
+the average regrets are  [47.59, 47.6]
+
+after 428 round
+the average regrets are  [47.78, 47.76]
+
+after 430 round
+the average regrets are  [47.98, 47.95]
+
+after 432 round
+the average regrets are  [48.16, 48.12]
+
+after 434 round
+the average regrets are  [48.35, 48.29]
+
+after 436 round
+the average regrets are  [48.53, 48.47]
+
+after 438 round
+the average regrets are  [48.7, 48.63]
+
+after 440 round
+the average regrets are  [48.9, 48.82]
+
+after 442 round
+the average regrets are  [49.06, 49.01]
+
+after 444 round
+the average regrets are  [49.26, 49.17]
+
+after 446 round
+the average regrets are  [49.44, 49.33]
+
+after 448 round
+the average regrets are  [49.61, 49.53]
+
+after 450 round
+the average regrets are  [49.8, 49.69]
+
+after 452 round
+the average regrets are  [49.97, 49.89]
+
+after 454 round
+the average regrets are  [50.17, 50.06]
+
+after 456 round
+the average regrets are  [50.32, 50.26]
+
+after 458 round
+the average regrets are  [50.48, 50.43]
+
+after 460 round
+the average regrets are  [50.67, 50.64]
+
+after 462 round
+the average regrets are  [50.85, 50.83]
+
+after 464 round
+the average regrets are  [51.04, 51.0]
+
+after 466 round
+the average regrets are  [51.2, 51.17]
+
+after 468 round
+the average regrets are  [51.37, 51.35]
+
+after 470 round
+the average regrets are  [51.55, 51.52]
+
+after 472 round
+the average regrets are  [51.76, 51.69]
+
+after 474 round
+the average regrets are  [51.94, 51.85]
+
+after 476 round
+the average regrets are  [52.15, 52.05]
+
+after 478 round
+the average regrets are  [52.33, 52.23]
+
+after 480 round
+the average regrets are  [52.5, 52.41]
+
+after 482 round
+the average regrets are  [52.67, 52.58]
+
+after 484 round
+the average regrets are  [52.85, 52.78]
+
+after 486 round
+the average regrets are  [53.03, 52.96]
+
+after 488 round
+the average regrets are  [53.17, 53.16]
+
+after 490 round
+the average regrets are  [53.37, 53.35]
+
+after 492 round
+the average regrets are  [53.54, 53.51]
+
+after 494 round
+the average regrets are  [53.74, 53.71]
+
+after 496 round
+the average regrets are  [53.9, 53.88]
+
+after 498 round
+the average regrets are  [54.09, 54.06]
+
+after 500 round
+the average regrets are  [54.29, 54.24]
+
+the epsilon is 0.1
+the second best arm index is 1
+Normal: epsilon greedy. Free: always real second best.
+['k=1', 'k=0']
+after 2 round
+the average regrets are  [2.0, 2.99]
+
+after 4 round
+the average regrets are  [2.65, 3.37]
+
+after 6 round
+the average regrets are  [3.2, 3.99]
+
+after 8 round
+the average regrets are  [3.7, 4.55]
+
+after 10 round
+the average regrets are  [4.16, 5.04]
+
+after 12 round
+the average regrets are  [4.59, 5.44]
+
+after 14 round
+the average regrets are  [4.99, 5.82]
+
+after 16 round
+the average regrets are  [5.38, 6.19]
+
+after 18 round
+the average regrets are  [5.78, 6.54]
+
+after 20 round
+the average regrets are  [6.15, 6.89]
+
+after 22 round
+the average regrets are  [6.52, 7.24]
+
+after 24 round
+the average regrets are  [6.89, 7.59]
+
+after 26 round
+the average regrets are  [7.24, 7.91]
+
+after 28 round
+the average regrets are  [7.6, 8.24]
+
+after 30 round
+the average regrets are  [7.93, 8.58]
+
+after 32 round
+the average regrets are  [8.26, 8.9]
+
+after 34 round
+the average regrets are  [8.58, 9.23]
+
+after 36 round
+the average regrets are  [8.9, 9.53]
+
+after 38 round
+the average regrets are  [9.21, 9.82]
+
+after 40 round
+the average regrets are  [9.54, 10.1]
+
+after 42 round
+the average regrets are  [9.87, 10.4]
+
+after 44 round
+the average regrets are  [10.18, 10.67]
+
+after 46 round
+the average regrets are  [10.48, 10.95]
+
+after 48 round
+the average regrets are  [10.8, 11.22]
+
+after 50 round
+the average regrets are  [11.09, 11.52]
+
+after 52 round
+the average regrets are  [11.35, 11.79]
+
+after 54 round
+the average regrets are  [11.66, 12.04]
+
+after 56 round
+the average regrets are  [11.96, 12.31]
+
+after 58 round
+the average regrets are  [12.25, 12.55]
+
+after 60 round
+the average regrets are  [12.53, 12.8]
+
+after 62 round
+the average regrets are  [12.78, 13.04]
+
+after 64 round
+the average regrets are  [13.05, 13.26]
+
+after 66 round
+the average regrets are  [13.33, 13.52]
+
+after 68 round
+the average regrets are  [13.6, 13.78]
+
+after 70 round
+the average regrets are  [13.87, 14.04]
+
+after 72 round
+the average regrets are  [14.11, 14.29]
+
+after 74 round
+the average regrets are  [14.38, 14.53]
+
+after 76 round
+the average regrets are  [14.65, 14.79]
+
+after 78 round
+the average regrets are  [14.9, 15.04]
+
+after 80 round
+the average regrets are  [15.15, 15.28]
+
+after 82 round
+the average regrets are  [15.37, 15.52]
+
+after 84 round
+the average regrets are  [15.62, 15.75]
+
+after 86 round
+the average regrets are  [15.86, 15.99]
+
+after 88 round
+the average regrets are  [16.1, 16.22]
+
+after 90 round
+the average regrets are  [16.34, 16.45]
+
+after 92 round
+the average regrets are  [16.59, 16.67]
+
+after 94 round
+the average regrets are  [16.86, 16.91]
+
+after 96 round
+the average regrets are  [17.1, 17.17]
+
+after 98 round
+the average regrets are  [17.33, 17.4]
+
+after 100 round
+the average regrets are  [17.57, 17.63]
+
+after 102 round
+the average regrets are  [17.81, 17.88]
+
+after 104 round
+the average regrets are  [18.06, 18.09]
+
+after 106 round
+the average regrets are  [18.32, 18.33]
+
+after 108 round
+the average regrets are  [18.55, 18.55]
+
+after 110 round
+the average regrets are  [18.78, 18.78]
+
+after 112 round
+the average regrets are  [19.0, 19.01]
+
+after 114 round
+the average regrets are  [19.26, 19.23]
+
+after 116 round
+the average regrets are  [19.5, 19.47]
+
+after 118 round
+the average regrets are  [19.74, 19.69]
+
+after 120 round
+the average regrets are  [19.99, 19.93]
+
+after 122 round
+the average regrets are  [20.22, 20.14]
+
+after 124 round
+the average regrets are  [20.45, 20.38]
+
+after 126 round
+the average regrets are  [20.68, 20.6]
+
+after 128 round
+the average regrets are  [20.91, 20.83]
+
+after 130 round
+the average regrets are  [21.14, 21.05]
+
+after 132 round
+the average regrets are  [21.35, 21.27]
+
+after 134 round
+the average regrets are  [21.55, 21.49]
+
+after 136 round
+the average regrets are  [21.75, 21.69]
+
+after 138 round
+the average regrets are  [21.99, 21.87]
+
+after 140 round
+the average regrets are  [22.24, 22.1]
+
+after 142 round
+the average regrets are  [22.47, 22.29]
+
+after 144 round
+the average regrets are  [22.7, 22.52]
+
+after 146 round
+the average regrets are  [22.91, 22.75]
+
+after 148 round
+the average regrets are  [23.13, 22.97]
+
+after 150 round
+the average regrets are  [23.36, 23.17]
+
+after 152 round
+the average regrets are  [23.59, 23.37]
+
+after 154 round
+the average regrets are  [23.81, 23.58]
+
+after 156 round
+the average regrets are  [24.02, 23.77]
+
+after 158 round
+the average regrets are  [24.24, 23.97]
+
+after 160 round
+the average regrets are  [24.48, 24.2]
+
+after 162 round
+the average regrets are  [24.69, 24.39]
+
+after 164 round
+the average regrets are  [24.88, 24.6]
+
+after 166 round
+the average regrets are  [25.07, 24.84]
+
+after 168 round
+the average regrets are  [25.26, 25.07]
+
+after 170 round
+the average regrets are  [25.46, 25.29]
+
+after 172 round
+the average regrets are  [25.66, 25.5]
+
+after 174 round
+the average regrets are  [25.85, 25.7]
+
+after 176 round
+the average regrets are  [26.05, 25.9]
+
+after 178 round
+the average regrets are  [26.25, 26.13]
+
+after 180 round
+the average regrets are  [26.47, 26.34]
+
+after 182 round
+the average regrets are  [26.68, 26.55]
+
+after 184 round
+the average regrets are  [26.88, 26.73]
+
+after 186 round
+the average regrets are  [27.11, 26.94]
+
+after 188 round
+the average regrets are  [27.3, 27.15]
+
+after 190 round
+the average regrets are  [27.51, 27.37]
+
+after 192 round
+the average regrets are  [27.73, 27.58]
+
+after 194 round
+the average regrets are  [27.93, 27.8]
+
+after 196 round
+the average regrets are  [28.13, 28.0]
+
+after 198 round
+the average regrets are  [28.34, 28.2]
+
+after 200 round
+the average regrets are  [28.52, 28.4]
+
+after 202 round
+the average regrets are  [28.76, 28.6]
+
+after 204 round
+the average regrets are  [28.99, 28.79]
+
+after 206 round
+the average regrets are  [29.19, 29.0]
+
+after 208 round
+the average regrets are  [29.42, 29.2]
+
+after 210 round
+the average regrets are  [29.6, 29.42]
+
+after 212 round
+the average regrets are  [29.79, 29.63]
+
+after 214 round
+the average regrets are  [29.98, 29.84]
+
+after 216 round
+the average regrets are  [30.22, 30.04]
+
+after 218 round
+the average regrets are  [30.44, 30.25]
+
+after 220 round
+the average regrets are  [30.65, 30.46]
+
+after 222 round
+the average regrets are  [30.87, 30.67]
+
+after 224 round
+the average regrets are  [31.05, 30.9]
+
+after 226 round
+the average regrets are  [31.25, 31.1]
+
+after 228 round
+the average regrets are  [31.44, 31.29]
+
+after 230 round
+the average regrets are  [31.66, 31.52]
+
+after 232 round
+the average regrets are  [31.89, 31.73]
+
+after 234 round
+the average regrets are  [32.08, 31.95]
+
+after 236 round
+the average regrets are  [32.29, 32.16]
+
+after 238 round
+the average regrets are  [32.5, 32.38]
+
+after 240 round
+the average regrets are  [32.71, 32.59]
+
+after 242 round
+the average regrets are  [32.92, 32.81]
+
+after 244 round
+the average regrets are  [33.14, 33.02]
+
+after 246 round
+the average regrets are  [33.34, 33.23]
+
+after 248 round
+the average regrets are  [33.55, 33.43]
+
+after 250 round
+the average regrets are  [33.76, 33.61]
+
+after 252 round
+the average regrets are  [33.99, 33.83]
+
+after 254 round
+the average regrets are  [34.18, 34.03]
+
+after 256 round
+the average regrets are  [34.4, 34.23]
+
+after 258 round
+the average regrets are  [34.62, 34.44]
+
+after 260 round
+the average regrets are  [34.81, 34.62]
+
+after 262 round
+the average regrets are  [35.01, 34.81]
+
+after 264 round
+the average regrets are  [35.24, 35.03]
+
+after 266 round
+the average regrets are  [35.43, 35.23]
+
+after 268 round
+the average regrets are  [35.64, 35.43]
+
+after 270 round
+the average regrets are  [35.85, 35.65]
+
+after 272 round
+the average regrets are  [36.09, 35.84]
+
+after 274 round
+the average regrets are  [36.28, 36.06]
+
+after 276 round
+the average regrets are  [36.47, 36.27]
+
+after 278 round
+the average regrets are  [36.64, 36.48]
+
+after 280 round
+the average regrets are  [36.88, 36.68]
+
+after 282 round
+the average regrets are  [37.1, 36.88]
+
+after 284 round
+the average regrets are  [37.29, 37.09]
+
+after 286 round
+the average regrets are  [37.51, 37.29]
+
+after 288 round
+the average regrets are  [37.69, 37.49]
+
+after 290 round
+the average regrets are  [37.89, 37.74]
+
+after 292 round
+the average regrets are  [38.07, 37.93]
+
+after 294 round
+the average regrets are  [38.27, 38.13]
+
+after 296 round
+the average regrets are  [38.42, 38.32]
+
+after 298 round
+the average regrets are  [38.64, 38.51]
+
+after 300 round
+the average regrets are  [38.81, 38.72]
+
+after 302 round
+the average regrets are  [39.0, 38.9]
+
+after 304 round
+the average regrets are  [39.19, 39.09]
+
+after 306 round
+the average regrets are  [39.39, 39.31]
+
+after 308 round
+the average regrets are  [39.56, 39.48]
+
+after 310 round
+the average regrets are  [39.77, 39.67]
+
+after 312 round
+the average regrets are  [39.96, 39.88]
+
+after 314 round
+the average regrets are  [40.16, 40.07]
+
+after 316 round
+the average regrets are  [40.37, 40.27]
+
+after 318 round
+the average regrets are  [40.56, 40.48]
+
+after 320 round
+the average regrets are  [40.77, 40.66]
+
+after 322 round
+the average regrets are  [40.97, 40.9]
+
+after 324 round
+the average regrets are  [41.15, 41.11]
+
+after 326 round
+the average regrets are  [41.36, 41.31]
+
+after 328 round
+the average regrets are  [41.54, 41.51]
+
+after 330 round
+the average regrets are  [41.73, 41.69]
+
+after 332 round
+the average regrets are  [41.95, 41.9]
+
+after 334 round
+the average regrets are  [42.16, 42.08]
+
+after 336 round
+the average regrets are  [42.38, 42.27]
+
+after 338 round
+the average regrets are  [42.61, 42.47]
+
+after 340 round
+the average regrets are  [42.81, 42.67]
+
+after 342 round
+the average regrets are  [43.01, 42.89]
+
+after 344 round
+the average regrets are  [43.21, 43.09]
+
+after 346 round
+the average regrets are  [43.39, 43.29]
+
+after 348 round
+the average regrets are  [43.58, 43.48]
+
+after 350 round
+the average regrets are  [43.78, 43.66]
+
+after 352 round
+the average regrets are  [43.97, 43.87]
+
+after 354 round
+the average regrets are  [44.18, 44.07]
+
+after 356 round
+the average regrets are  [44.37, 44.27]
+
+after 358 round
+the average regrets are  [44.57, 44.48]
+
+after 360 round
+the average regrets are  [44.78, 44.68]
+
+after 362 round
+the average regrets are  [44.97, 44.88]
+
+after 364 round
+the average regrets are  [45.19, 45.07]
+
+after 366 round
+the average regrets are  [45.39, 45.27]
+
+after 368 round
+the average regrets are  [45.6, 45.49]
+
+after 370 round
+the average regrets are  [45.79, 45.7]
+
+after 372 round
+the average regrets are  [46.0, 45.88]
+
+after 374 round
+the average regrets are  [46.2, 46.05]
+
+after 376 round
+the average regrets are  [46.4, 46.25]
+
+after 378 round
+the average regrets are  [46.59, 46.44]
+
+after 380 round
+the average regrets are  [46.78, 46.67]
+
+after 382 round
+the average regrets are  [46.99, 46.87]
+
+after 384 round
+the average regrets are  [47.18, 47.07]
+
+after 386 round
+the average regrets are  [47.39, 47.24]
+
+after 388 round
+the average regrets are  [47.58, 47.46]
+
+after 390 round
+the average regrets are  [47.76, 47.65]
+
+after 392 round
+the average regrets are  [47.99, 47.87]
+
+after 394 round
+the average regrets are  [48.19, 48.05]
+
+after 396 round
+the average regrets are  [48.38, 48.26]
+
+after 398 round
+the average regrets are  [48.6, 48.46]
+
+after 400 round
+the average regrets are  [48.8, 48.67]
+
+after 402 round
+the average regrets are  [49.02, 48.83]
+
+after 404 round
+the average regrets are  [49.23, 49.05]
+
+after 406 round
+the average regrets are  [49.44, 49.25]
+
+after 408 round
+the average regrets are  [49.63, 49.44]
+
+after 410 round
+the average regrets are  [49.86, 49.66]
+
+after 412 round
+the average regrets are  [50.07, 49.85]
+
+after 414 round
+the average regrets are  [50.25, 50.04]
+
+after 416 round
+the average regrets are  [50.47, 50.26]
+
+after 418 round
+the average regrets are  [50.66, 50.47]
+
+after 420 round
+the average regrets are  [50.87, 50.68]
+
+after 422 round
+the average regrets are  [51.05, 50.89]
+
+after 424 round
+the average regrets are  [51.25, 51.08]
+
+after 426 round
+the average regrets are  [51.45, 51.29]
+
+after 428 round
+the average regrets are  [51.67, 51.49]
+
+after 430 round
+the average regrets are  [51.85, 51.72]
+
+after 432 round
+the average regrets are  [52.07, 51.9]
+
+after 434 round
+the average regrets are  [52.26, 52.11]
+
+after 436 round
+the average regrets are  [52.46, 52.29]
+
+after 438 round
+the average regrets are  [52.66, 52.51]
+
+after 440 round
+the average regrets are  [52.85, 52.73]
+
+after 442 round
+the average regrets are  [53.06, 52.94]
+
+after 444 round
+the average regrets are  [53.27, 53.15]
+
+after 446 round
+the average regrets are  [53.5, 53.37]
+
+after 448 round
+the average regrets are  [53.72, 53.56]
+
+after 450 round
+the average regrets are  [53.9, 53.75]
+
+after 452 round
+the average regrets are  [54.11, 53.95]
+
+after 454 round
+the average regrets are  [54.31, 54.14]
+
+after 456 round
+the average regrets are  [54.53, 54.3]
+
+after 458 round
+the average regrets are  [54.73, 54.48]
+
+after 460 round
+the average regrets are  [54.92, 54.66]
+
+after 462 round
+the average regrets are  [55.12, 54.87]
+
+after 464 round
+the average regrets are  [55.3, 55.08]
+
+after 466 round
+the average regrets are  [55.47, 55.25]
+
+after 468 round
+the average regrets are  [55.66, 55.47]
+
+after 470 round
+the average regrets are  [55.86, 55.66]
+
+after 472 round
+the average regrets are  [56.08, 55.89]
+
+after 474 round
+the average regrets are  [56.25, 56.1]
+
+after 476 round
+the average regrets are  [56.48, 56.32]
+
+after 478 round
+the average regrets are  [56.68, 56.52]
+
+after 480 round
+the average regrets are  [56.91, 56.71]
+
+after 482 round
+the average regrets are  [57.13, 56.92]
+
+after 484 round
+the average regrets are  [57.33, 57.13]
+
+after 486 round
+the average regrets are  [57.55, 57.34]
+
+after 488 round
+the average regrets are  [57.75, 57.54]
+
+after 490 round
+the average regrets are  [57.96, 57.74]
+
+after 492 round
+the average regrets are  [58.16, 57.94]
+
+after 494 round
+the average regrets are  [58.36, 58.14]
+
+after 496 round
+the average regrets are  [58.56, 58.35]
+
+after 498 round
+the average regrets are  [58.76, 58.57]
+
+after 500 round
+the average regrets are  [58.97, 58.79]
+
+
+Process finished with exit code 0

@@ -1,0 +1,6009 @@
+5000 trials. Each trial with 100000 rounds.
+the epsilon is 0
+the second best arm index is 7
+Normal: epsilon greedy. Free: always real second best.
+['k=1', 'k=0']
+after 100 round
+the average regrets are  [99.01, 96.29]
+
+after 200 round
+the average regrets are  [165.09, 156.79]
+
+after 300 round
+the average regrets are  [230.87, 217.22]
+
+after 400 round
+the average regrets are  [296.94, 277.59]
+
+after 500 round
+the average regrets are  [362.8, 337.37]
+
+after 600 round
+the average regrets are  [428.82, 397.62]
+
+after 700 round
+the average regrets are  [494.63, 457.44]
+
+after 800 round
+the average regrets are  [560.42, 517.55]
+
+after 900 round
+the average regrets are  [626.06, 577.64]
+
+after 1000 round
+the average regrets are  [691.6, 638.11]
+
+after 1100 round
+the average regrets are  [757.18, 697.97]
+
+after 1200 round
+the average regrets are  [823.11, 758.6]
+
+after 1300 round
+the average regrets are  [888.6, 818.88]
+
+after 1400 round
+the average regrets are  [954.54, 879.01]
+
+after 1500 round
+the average regrets are  [1020.1, 938.99]
+
+after 1600 round
+the average regrets are  [1085.6, 999.22]
+
+after 1700 round
+the average regrets are  [1151.16, 1059.45]
+
+after 1800 round
+the average regrets are  [1216.68, 1119.52]
+
+after 1900 round
+the average regrets are  [1282.5, 1179.82]
+
+after 2000 round
+the average regrets are  [1348.53, 1239.84]
+
+after 2100 round
+the average regrets are  [1414.28, 1299.93]
+
+after 2200 round
+the average regrets are  [1479.97, 1360.15]
+
+after 2300 round
+the average regrets are  [1546.04, 1420.52]
+
+after 2400 round
+the average regrets are  [1611.54, 1480.68]
+
+after 2500 round
+the average regrets are  [1677.3, 1540.87]
+
+after 2600 round
+the average regrets are  [1743.08, 1601.24]
+
+after 2700 round
+the average regrets are  [1808.96, 1661.07]
+
+after 2800 round
+the average regrets are  [1874.47, 1721.27]
+
+after 2900 round
+the average regrets are  [1940.43, 1781.02]
+
+after 3000 round
+the average regrets are  [2005.9, 1841.13]
+
+after 3100 round
+the average regrets are  [2071.49, 1901.06]
+
+after 3200 round
+the average regrets are  [2137.4, 1960.99]
+
+after 3300 round
+the average regrets are  [2203.05, 2021.09]
+
+after 3400 round
+the average regrets are  [2268.72, 2081.68]
+
+after 3500 round
+the average regrets are  [2334.05, 2141.55]
+
+after 3600 round
+the average regrets are  [2399.73, 2201.24]
+
+after 3700 round
+the average regrets are  [2465.33, 2261.34]
+
+after 3800 round
+the average regrets are  [2531.3, 2321.4]
+
+after 3900 round
+the average regrets are  [2596.77, 2381.43]
+
+after 4000 round
+the average regrets are  [2662.5, 2441.04]
+
+after 4100 round
+the average regrets are  [2728.62, 2501.35]
+
+after 4200 round
+the average regrets are  [2794.39, 2561.28]
+
+after 4300 round
+the average regrets are  [2860.18, 2621.33]
+
+after 4400 round
+the average regrets are  [2925.88, 2681.16]
+
+after 4500 round
+the average regrets are  [2991.86, 2741.26]
+
+after 4600 round
+the average regrets are  [3057.51, 2801.47]
+
+after 4700 round
+the average regrets are  [3123.2, 2861.68]
+
+after 4800 round
+the average regrets are  [3188.73, 2921.53]
+
+after 4900 round
+the average regrets are  [3254.54, 2981.66]
+
+after 5000 round
+the average regrets are  [3320.42, 3041.42]
+
+after 5100 round
+the average regrets are  [3386.09, 3101.49]
+
+after 5200 round
+the average regrets are  [3452.0, 3161.26]
+
+after 5300 round
+the average regrets are  [3517.72, 3221.7]
+
+after 5400 round
+the average regrets are  [3583.13, 3281.82]
+
+after 5500 round
+the average regrets are  [3648.95, 3341.56]
+
+after 5600 round
+the average regrets are  [3714.37, 3401.9]
+
+after 5700 round
+the average regrets are  [3780.11, 3462.21]
+
+after 5800 round
+the average regrets are  [3845.74, 3522.32]
+
+after 5900 round
+the average regrets are  [3911.72, 3582.28]
+
+after 6000 round
+the average regrets are  [3977.81, 3642.17]
+
+after 6100 round
+the average regrets are  [4043.84, 3702.57]
+
+after 6200 round
+the average regrets are  [4109.54, 3762.45]
+
+after 6300 round
+the average regrets are  [4175.53, 3822.35]
+
+after 6400 round
+the average regrets are  [4241.24, 3882.47]
+
+after 6500 round
+the average regrets are  [4306.59, 3942.31]
+
+after 6600 round
+the average regrets are  [4372.18, 4002.32]
+
+after 6700 round
+the average regrets are  [4437.6, 4062.19]
+
+after 6800 round
+the average regrets are  [4502.91, 4122.43]
+
+after 6900 round
+the average regrets are  [4568.62, 4182.25]
+
+after 7000 round
+the average regrets are  [4634.12, 4242.44]
+
+after 7100 round
+the average regrets are  [4700.13, 4302.77]
+
+after 7200 round
+the average regrets are  [4765.74, 4362.89]
+
+after 7300 round
+the average regrets are  [4831.82, 4422.87]
+
+after 7400 round
+the average regrets are  [4897.88, 4482.96]
+
+after 7500 round
+the average regrets are  [4963.45, 4542.85]
+
+after 7600 round
+the average regrets are  [5029.32, 4603.0]
+
+after 7700 round
+the average regrets are  [5095.04, 4663.06]
+
+after 7800 round
+the average regrets are  [5160.46, 4722.9]
+
+after 7900 round
+the average regrets are  [5226.3, 4782.54]
+
+after 8000 round
+the average regrets are  [5292.19, 4842.75]
+
+after 8100 round
+the average regrets are  [5357.76, 4902.99]
+
+after 8200 round
+the average regrets are  [5423.21, 4962.83]
+
+after 8300 round
+the average regrets are  [5488.99, 5022.52]
+
+after 8400 round
+the average regrets are  [5554.82, 5082.37]
+
+after 8500 round
+the average regrets are  [5620.93, 5142.02]
+
+after 8600 round
+the average regrets are  [5686.82, 5202.21]
+
+after 8700 round
+the average regrets are  [5752.97, 5262.07]
+
+after 8800 round
+the average regrets are  [5818.79, 5322.22]
+
+after 8900 round
+the average regrets are  [5884.52, 5382.22]
+
+after 9000 round
+the average regrets are  [5950.24, 5442.45]
+
+after 9100 round
+the average regrets are  [6016.14, 5502.28]
+
+after 9200 round
+the average regrets are  [6082.09, 5562.12]
+
+after 9300 round
+the average regrets are  [6147.66, 5621.98]
+
+after 9400 round
+the average regrets are  [6213.56, 5681.88]
+
+after 9500 round
+the average regrets are  [6279.37, 5741.71]
+
+after 9600 round
+the average regrets are  [6344.67, 5801.84]
+
+after 9700 round
+the average regrets are  [6410.01, 5861.57]
+
+after 9800 round
+the average regrets are  [6475.53, 5921.79]
+
+after 9900 round
+the average regrets are  [6541.25, 5981.81]
+
+after 10000 round
+the average regrets are  [6606.91, 6041.44]
+
+after 10100 round
+the average regrets are  [6672.57, 6101.38]
+
+after 10200 round
+the average regrets are  [6738.12, 6161.82]
+
+after 10300 round
+the average regrets are  [6803.81, 6221.63]
+
+after 10400 round
+the average regrets are  [6869.58, 6281.94]
+
+after 10500 round
+the average regrets are  [6935.44, 6341.94]
+
+after 10600 round
+the average regrets are  [7001.38, 6401.37]
+
+after 10700 round
+the average regrets are  [7066.71, 6461.79]
+
+after 10800 round
+the average regrets are  [7132.46, 6521.63]
+
+after 10900 round
+the average regrets are  [7197.75, 6581.94]
+
+after 11000 round
+the average regrets are  [7263.79, 6642.43]
+
+after 11100 round
+the average regrets are  [7329.56, 6702.58]
+
+after 11200 round
+the average regrets are  [7395.53, 6762.62]
+
+after 11300 round
+the average regrets are  [7461.44, 6822.63]
+
+after 11400 round
+the average regrets are  [7527.39, 6882.62]
+
+after 11500 round
+the average regrets are  [7593.19, 6942.91]
+
+after 11600 round
+the average regrets are  [7658.46, 7003.42]
+
+after 11700 round
+the average regrets are  [7724.1, 7063.53]
+
+after 11800 round
+the average regrets are  [7789.83, 7123.55]
+
+after 11900 round
+the average regrets are  [7855.32, 7183.47]
+
+after 12000 round
+the average regrets are  [7920.75, 7244.08]
+
+after 12100 round
+the average regrets are  [7986.34, 7304.39]
+
+after 12200 round
+the average regrets are  [8052.0, 7364.34]
+
+after 12300 round
+the average regrets are  [8117.67, 7424.13]
+
+after 12400 round
+the average regrets are  [8183.63, 7484.18]
+
+after 12500 round
+the average regrets are  [8249.09, 7544.2]
+
+after 12600 round
+the average regrets are  [8314.82, 7604.0]
+
+after 12700 round
+the average regrets are  [8380.64, 7663.74]
+
+after 12800 round
+the average regrets are  [8446.49, 7723.84]
+
+after 12900 round
+the average regrets are  [8512.35, 7783.93]
+
+after 13000 round
+the average regrets are  [8577.75, 7843.93]
+
+after 13100 round
+the average regrets are  [8643.35, 7903.98]
+
+after 13200 round
+the average regrets are  [8709.14, 7963.88]
+
+after 13300 round
+the average regrets are  [8774.42, 8023.88]
+
+after 13400 round
+the average regrets are  [8839.6, 8083.98]
+
+after 13500 round
+the average regrets are  [8905.09, 8144.06]
+
+after 13600 round
+the average regrets are  [8970.95, 8204.12]
+
+after 13700 round
+the average regrets are  [9036.97, 8264.46]
+
+after 13800 round
+the average regrets are  [9102.59, 8324.66]
+
+after 13900 round
+the average regrets are  [9168.19, 8384.72]
+
+after 14000 round
+the average regrets are  [9233.98, 8444.56]
+
+after 14100 round
+the average regrets are  [9299.49, 8504.92]
+
+after 14200 round
+the average regrets are  [9365.39, 8565.47]
+
+after 14300 round
+the average regrets are  [9430.74, 8625.52]
+
+after 14400 round
+the average regrets are  [9496.69, 8685.53]
+
+after 14500 round
+the average regrets are  [9562.49, 8745.74]
+
+after 14600 round
+the average regrets are  [9627.9, 8805.42]
+
+after 14700 round
+the average regrets are  [9693.63, 8865.2]
+
+after 14800 round
+the average regrets are  [9759.21, 8925.15]
+
+after 14900 round
+the average regrets are  [9824.92, 8985.0]
+
+after 15000 round
+the average regrets are  [9890.55, 9045.2]
+
+after 15100 round
+the average regrets are  [9956.49, 9105.46]
+
+after 15200 round
+the average regrets are  [10021.93, 9165.74]
+
+after 15300 round
+the average regrets are  [10087.84, 9225.77]
+
+after 15400 round
+the average regrets are  [10154.1, 9285.93]
+
+after 15500 round
+the average regrets are  [10219.95, 9345.98]
+
+after 15600 round
+the average regrets are  [10285.58, 9406.15]
+
+after 15700 round
+the average regrets are  [10350.92, 9466.08]
+
+after 15800 round
+the average regrets are  [10416.34, 9525.79]
+
+after 15900 round
+the average regrets are  [10482.04, 9585.9]
+
+after 16000 round
+the average regrets are  [10547.84, 9645.9]
+
+after 16100 round
+the average regrets are  [10613.37, 9705.72]
+
+after 16200 round
+the average regrets are  [10679.29, 9765.71]
+
+after 16300 round
+the average regrets are  [10745.35, 9825.83]
+
+after 16400 round
+the average regrets are  [10811.4, 9885.74]
+
+after 16500 round
+the average regrets are  [10877.26, 9946.03]
+
+after 16600 round
+the average regrets are  [10942.94, 10006.45]
+
+after 16700 round
+the average regrets are  [11008.96, 10066.43]
+
+after 16800 round
+the average regrets are  [11074.4, 10126.39]
+
+after 16900 round
+the average regrets are  [11139.7, 10186.32]
+
+after 17000 round
+the average regrets are  [11205.64, 10245.81]
+
+after 17100 round
+the average regrets are  [11271.05, 10305.41]
+
+after 17200 round
+the average regrets are  [11336.79, 10365.43]
+
+after 17300 round
+the average regrets are  [11402.15, 10425.84]
+
+after 17400 round
+the average regrets are  [11467.96, 10485.44]
+
+after 17500 round
+the average regrets are  [11533.33, 10545.66]
+
+after 17600 round
+the average regrets are  [11599.16, 10605.62]
+
+after 17700 round
+the average regrets are  [11664.61, 10665.77]
+
+after 17800 round
+the average regrets are  [11730.09, 10725.68]
+
+after 17900 round
+the average regrets are  [11795.79, 10785.4]
+
+after 18000 round
+the average regrets are  [11861.44, 10845.29]
+
+after 18100 round
+the average regrets are  [11927.5, 10905.39]
+
+after 18200 round
+the average regrets are  [11993.67, 10965.17]
+
+after 18300 round
+the average regrets are  [12059.35, 11025.04]
+
+after 18400 round
+the average regrets are  [12124.85, 11084.75]
+
+after 18500 round
+the average regrets are  [12191.04, 11145.07]
+
+after 18600 round
+the average regrets are  [12256.87, 11205.49]
+
+after 18700 round
+the average regrets are  [12322.46, 11265.44]
+
+after 18800 round
+the average regrets are  [12388.03, 11325.61]
+
+after 18900 round
+the average regrets are  [12453.65, 11385.95]
+
+after 19000 round
+the average regrets are  [12519.17, 11446.11]
+
+after 19100 round
+the average regrets are  [12584.67, 11505.98]
+
+after 19200 round
+the average regrets are  [12650.48, 11566.21]
+
+after 19300 round
+the average regrets are  [12716.24, 11625.96]
+
+after 19400 round
+the average regrets are  [12782.28, 11685.77]
+
+after 19500 round
+the average regrets are  [12847.68, 11745.56]
+
+after 19600 round
+the average regrets are  [12913.47, 11805.72]
+
+after 19700 round
+the average regrets are  [12979.12, 11865.87]
+
+after 19800 round
+the average regrets are  [13044.74, 11926.03]
+
+after 19900 round
+the average regrets are  [13110.36, 11985.99]
+
+after 20000 round
+the average regrets are  [13176.07, 12045.86]
+
+after 20100 round
+the average regrets are  [13241.86, 12105.96]
+
+after 20200 round
+the average regrets are  [13307.37, 12166.07]
+
+after 20300 round
+the average regrets are  [13373.29, 12226.23]
+
+after 20400 round
+the average regrets are  [13439.53, 12286.73]
+
+after 20500 round
+the average regrets are  [13505.23, 12346.59]
+
+after 20600 round
+the average regrets are  [13570.68, 12406.78]
+
+after 20700 round
+the average regrets are  [13636.17, 12467.36]
+
+after 20800 round
+the average regrets are  [13701.87, 12527.58]
+
+after 20900 round
+the average regrets are  [13767.21, 12587.63]
+
+after 21000 round
+the average regrets are  [13833.0, 12647.48]
+
+after 21100 round
+the average regrets are  [13898.95, 12707.85]
+
+after 21200 round
+the average regrets are  [13965.1, 12767.8]
+
+after 21300 round
+the average regrets are  [14031.44, 12827.83]
+
+after 21400 round
+the average regrets are  [14096.79, 12887.89]
+
+after 21500 round
+the average regrets are  [14162.83, 12947.86]
+
+after 21600 round
+the average regrets are  [14228.71, 13008.22]
+
+after 21700 round
+the average regrets are  [14294.24, 13068.33]
+
+after 21800 round
+the average regrets are  [14359.92, 13128.05]
+
+after 21900 round
+the average regrets are  [14425.57, 13188.3]
+
+after 22000 round
+the average regrets are  [14490.93, 13248.73]
+
+after 22100 round
+the average regrets are  [14556.27, 13308.94]
+
+after 22200 round
+the average regrets are  [14621.91, 13368.88]
+
+after 22300 round
+the average regrets are  [14687.41, 13428.74]
+
+after 22400 round
+the average regrets are  [14753.26, 13488.69]
+
+after 22500 round
+the average regrets are  [14818.47, 13548.86]
+
+after 22600 round
+the average regrets are  [14884.05, 13609.24]
+
+after 22700 round
+the average regrets are  [14949.58, 13669.28]
+
+after 22800 round
+the average regrets are  [15015.45, 13729.3]
+
+after 22900 round
+the average regrets are  [15081.59, 13789.79]
+
+after 23000 round
+the average regrets are  [15147.25, 13849.94]
+
+after 23100 round
+the average regrets are  [15212.93, 13910.18]
+
+after 23200 round
+the average regrets are  [15278.99, 13970.06]
+
+after 23300 round
+the average regrets are  [15344.43, 14030.37]
+
+after 23400 round
+the average regrets are  [15410.22, 14090.4]
+
+after 23500 round
+the average regrets are  [15475.73, 14150.14]
+
+after 23600 round
+the average regrets are  [15541.75, 14209.9]
+
+after 23700 round
+the average regrets are  [15607.08, 14269.77]
+
+after 23800 round
+the average regrets are  [15672.49, 14329.9]
+
+after 23900 round
+the average regrets are  [15738.39, 14389.54]
+
+after 24000 round
+the average regrets are  [15803.99, 14449.61]
+
+after 24100 round
+the average regrets are  [15869.8, 14509.96]
+
+after 24200 round
+the average regrets are  [15935.62, 14570.17]
+
+after 24300 round
+the average regrets are  [16001.56, 14630.52]
+
+after 24400 round
+the average regrets are  [16067.03, 14690.34]
+
+after 24500 round
+the average regrets are  [16132.96, 14750.33]
+
+after 24600 round
+the average regrets are  [16198.71, 14810.48]
+
+after 24700 round
+the average regrets are  [16264.5, 14871.01]
+
+after 24800 round
+the average regrets are  [16330.01, 14931.03]
+
+after 24900 round
+the average regrets are  [16395.78, 14990.69]
+
+after 25000 round
+the average regrets are  [16461.68, 15050.73]
+
+after 25100 round
+the average regrets are  [16527.61, 15111.01]
+
+after 25200 round
+the average regrets are  [16593.46, 15171.21]
+
+after 25300 round
+the average regrets are  [16659.59, 15231.15]
+
+after 25400 round
+the average regrets are  [16725.18, 15291.35]
+
+after 25500 round
+the average regrets are  [16790.86, 15351.55]
+
+after 25600 round
+the average regrets are  [16856.44, 15411.57]
+
+after 25700 round
+the average regrets are  [16922.21, 15471.45]
+
+after 25800 round
+the average regrets are  [16988.29, 15531.52]
+
+after 25900 round
+the average regrets are  [17053.91, 15591.4]
+
+after 26000 round
+the average regrets are  [17119.81, 15651.32]
+
+after 26100 round
+the average regrets are  [17185.3, 15711.49]
+
+after 26200 round
+the average regrets are  [17250.91, 15771.62]
+
+after 26300 round
+the average regrets are  [17316.48, 15831.89]
+
+after 26400 round
+the average regrets are  [17382.15, 15891.73]
+
+after 26500 round
+the average regrets are  [17447.99, 15951.77]
+
+after 26600 round
+the average regrets are  [17514.02, 16011.61]
+
+after 26700 round
+the average regrets are  [17579.86, 16071.83]
+
+after 26800 round
+the average regrets are  [17645.55, 16131.92]
+
+after 26900 round
+the average regrets are  [17711.06, 16191.72]
+
+after 27000 round
+the average regrets are  [17776.47, 16251.63]
+
+after 27100 round
+the average regrets are  [17842.12, 16311.9]
+
+after 27200 round
+the average regrets are  [17907.8, 16371.94]
+
+after 27300 round
+the average regrets are  [17973.34, 16432.09]
+
+after 27400 round
+the average regrets are  [18039.09, 16492.02]
+
+after 27500 round
+the average regrets are  [18104.65, 16551.7]
+
+after 27600 round
+the average regrets are  [18170.24, 16611.91]
+
+after 27700 round
+the average regrets are  [18235.61, 16671.83]
+
+after 27800 round
+the average regrets are  [18301.11, 16732.11]
+
+after 27900 round
+the average regrets are  [18366.74, 16792.18]
+
+after 28000 round
+the average regrets are  [18432.46, 16852.29]
+
+after 28100 round
+the average regrets are  [18498.25, 16912.46]
+
+after 28200 round
+the average regrets are  [18564.05, 16972.26]
+
+after 28300 round
+the average regrets are  [18630.0, 17032.36]
+
+after 28400 round
+the average regrets are  [18695.62, 17092.7]
+
+after 28500 round
+the average regrets are  [18760.77, 17152.91]
+
+after 28600 round
+the average regrets are  [18826.15, 17213.03]
+
+after 28700 round
+the average regrets are  [18892.18, 17273.44]
+
+after 28800 round
+the average regrets are  [18957.98, 17333.45]
+
+after 28900 round
+the average regrets are  [19023.75, 17393.12]
+
+after 29000 round
+the average regrets are  [19089.61, 17452.92]
+
+after 29100 round
+the average regrets are  [19155.24, 17512.92]
+
+after 29200 round
+the average regrets are  [19220.7, 17573.0]
+
+after 29300 round
+the average regrets are  [19286.63, 17633.14]
+
+after 29400 round
+the average regrets are  [19352.25, 17692.96]
+
+after 29500 round
+the average regrets are  [19417.74, 17752.9]
+
+after 29600 round
+the average regrets are  [19483.66, 17812.73]
+
+after 29700 round
+the average regrets are  [19549.68, 17872.82]
+
+after 29800 round
+the average regrets are  [19615.51, 17932.46]
+
+after 29900 round
+the average regrets are  [19681.48, 17992.25]
+
+after 30000 round
+the average regrets are  [19747.26, 18051.89]
+
+after 30100 round
+the average regrets are  [19812.82, 18111.71]
+
+after 30200 round
+the average regrets are  [19878.49, 18172.06]
+
+after 30300 round
+the average regrets are  [19944.57, 18231.85]
+
+after 30400 round
+the average regrets are  [20010.48, 18291.75]
+
+after 30500 round
+the average regrets are  [20076.21, 18352.04]
+
+after 30600 round
+the average regrets are  [20142.27, 18411.87]
+
+after 30700 round
+the average regrets are  [20207.67, 18471.86]
+
+after 30800 round
+the average regrets are  [20273.62, 18531.81]
+
+after 30900 round
+the average regrets are  [20339.52, 18591.5]
+
+after 31000 round
+the average regrets are  [20404.95, 18651.55]
+
+after 31100 round
+the average regrets are  [20470.64, 18711.5]
+
+after 31200 round
+the average regrets are  [20536.16, 18771.97]
+
+after 31300 round
+the average regrets are  [20601.65, 18831.97]
+
+after 31400 round
+the average regrets are  [20667.4, 18892.29]
+
+after 31500 round
+the average regrets are  [20732.99, 18952.38]
+
+after 31600 round
+the average regrets are  [20798.31, 19012.44]
+
+after 31700 round
+the average regrets are  [20864.05, 19072.9]
+
+after 31800 round
+the average regrets are  [20930.2, 19132.76]
+
+after 31900 round
+the average regrets are  [20995.78, 19192.65]
+
+after 32000 round
+the average regrets are  [21061.37, 19252.83]
+
+after 32100 round
+the average regrets are  [21127.0, 19312.75]
+
+after 32200 round
+the average regrets are  [21192.84, 19372.77]
+
+after 32300 round
+the average regrets are  [21258.51, 19432.7]
+
+after 32400 round
+the average regrets are  [21324.36, 19492.46]
+
+after 32500 round
+the average regrets are  [21389.94, 19552.4]
+
+after 32600 round
+the average regrets are  [21455.66, 19612.53]
+
+after 32700 round
+the average regrets are  [21521.6, 19672.72]
+
+after 32800 round
+the average regrets are  [21587.15, 19732.97]
+
+after 32900 round
+the average regrets are  [21653.22, 19792.85]
+
+after 33000 round
+the average regrets are  [21719.2, 19852.85]
+
+after 33100 round
+the average regrets are  [21785.15, 19912.86]
+
+after 33200 round
+the average regrets are  [21851.24, 19972.55]
+
+after 33300 round
+the average regrets are  [21916.57, 20032.89]
+
+after 33400 round
+the average regrets are  [21982.39, 20093.2]
+
+after 33500 round
+the average regrets are  [22048.12, 20153.28]
+
+after 33600 round
+the average regrets are  [22113.72, 20213.48]
+
+after 33700 round
+the average regrets are  [22179.22, 20273.67]
+
+after 33800 round
+the average regrets are  [22244.93, 20333.93]
+
+after 33900 round
+the average regrets are  [22310.72, 20394.09]
+
+after 34000 round
+the average regrets are  [22376.64, 20453.91]
+
+after 34100 round
+the average regrets are  [22442.43, 20514.31]
+
+after 34200 round
+the average regrets are  [22508.04, 20574.35]
+
+after 34300 round
+the average regrets are  [22573.77, 20634.59]
+
+after 34400 round
+the average regrets are  [22639.53, 20694.73]
+
+after 34500 round
+the average regrets are  [22705.1, 20755.17]
+
+after 34600 round
+the average regrets are  [22770.24, 20815.62]
+
+after 34700 round
+the average regrets are  [22835.72, 20875.81]
+
+after 34800 round
+the average regrets are  [22901.59, 20936.05]
+
+after 34900 round
+the average regrets are  [22967.54, 20996.04]
+
+after 35000 round
+the average regrets are  [23033.57, 21055.31]
+
+after 35100 round
+the average regrets are  [23099.42, 21115.31]
+
+after 35200 round
+the average regrets are  [23165.02, 21175.23]
+
+after 35300 round
+the average regrets are  [23231.15, 21235.3]
+
+after 35400 round
+the average regrets are  [23296.87, 21295.24]
+
+after 35500 round
+the average regrets are  [23362.93, 21355.06]
+
+after 35600 round
+the average regrets are  [23428.7, 21415.17]
+
+after 35700 round
+the average regrets are  [23494.4, 21475.2]
+
+after 35800 round
+the average regrets are  [23560.26, 21535.8]
+
+after 35900 round
+the average regrets are  [23625.77, 21596.12]
+
+after 36000 round
+the average regrets are  [23691.42, 21656.09]
+
+after 36100 round
+the average regrets are  [23757.21, 21716.6]
+
+after 36200 round
+the average regrets are  [23823.28, 21776.61]
+
+after 36300 round
+the average regrets are  [23888.77, 21836.47]
+
+after 36400 round
+the average regrets are  [23954.55, 21896.38]
+
+after 36500 round
+the average regrets are  [24020.17, 21956.23]
+
+after 36600 round
+the average regrets are  [24086.01, 22015.8]
+
+after 36700 round
+the average regrets are  [24151.85, 22075.84]
+
+after 36800 round
+the average regrets are  [24217.66, 22136.15]
+
+after 36900 round
+the average regrets are  [24283.29, 22196.44]
+
+after 37000 round
+the average regrets are  [24349.1, 22256.33]
+
+after 37100 round
+the average regrets are  [24415.1, 22316.43]
+
+after 37200 round
+the average regrets are  [24480.59, 22376.63]
+
+after 37300 round
+the average regrets are  [24546.4, 22436.93]
+
+after 37400 round
+the average regrets are  [24612.01, 22497.13]
+
+after 37500 round
+the average regrets are  [24677.9, 22557.35]
+
+after 37600 round
+the average regrets are  [24744.03, 22617.37]
+
+after 37700 round
+the average regrets are  [24809.42, 22677.28]
+
+after 37800 round
+the average regrets are  [24875.1, 22737.92]
+
+after 37900 round
+the average regrets are  [24940.81, 22798.06]
+
+after 38000 round
+the average regrets are  [25006.46, 22857.92]
+
+after 38100 round
+the average regrets are  [25071.98, 22918.2]
+
+after 38200 round
+the average regrets are  [25137.46, 22978.12]
+
+after 38300 round
+the average regrets are  [25202.98, 23037.92]
+
+after 38400 round
+the average regrets are  [25268.58, 23097.83]
+
+after 38500 round
+the average regrets are  [25334.48, 23158.28]
+
+after 38600 round
+the average regrets are  [25400.05, 23218.34]
+
+after 38700 round
+the average regrets are  [25465.81, 23278.53]
+
+after 38800 round
+the average regrets are  [25531.41, 23338.6]
+
+after 38900 round
+the average regrets are  [25597.12, 23398.92]
+
+after 39000 round
+the average regrets are  [25662.7, 23458.89]
+
+after 39100 round
+the average regrets are  [25728.51, 23518.75]
+
+after 39200 round
+the average regrets are  [25794.25, 23579.07]
+
+after 39300 round
+the average regrets are  [25859.76, 23639.15]
+
+after 39400 round
+the average regrets are  [25925.32, 23699.21]
+
+after 39500 round
+the average regrets are  [25991.07, 23759.14]
+
+after 39600 round
+the average regrets are  [26056.62, 23818.99]
+
+after 39700 round
+the average regrets are  [26122.43, 23878.87]
+
+after 39800 round
+the average regrets are  [26187.53, 23938.95]
+
+after 39900 round
+the average regrets are  [26253.19, 23998.79]
+
+after 40000 round
+the average regrets are  [26318.92, 24058.87]
+
+after 40100 round
+the average regrets are  [26384.72, 24119.1]
+
+after 40200 round
+the average regrets are  [26450.8, 24179.05]
+
+after 40300 round
+the average regrets are  [26516.16, 24238.99]
+
+after 40400 round
+the average regrets are  [26581.92, 24298.95]
+
+after 40500 round
+the average regrets are  [26647.54, 24359.1]
+
+after 40600 round
+the average regrets are  [26712.92, 24419.26]
+
+after 40700 round
+the average regrets are  [26778.42, 24479.8]
+
+after 40800 round
+the average regrets are  [26844.04, 24540.03]
+
+after 40900 round
+the average regrets are  [26909.78, 24600.07]
+
+after 41000 round
+the average regrets are  [26975.96, 24660.14]
+
+after 41100 round
+the average regrets are  [27041.46, 24720.52]
+
+after 41200 round
+the average regrets are  [27107.46, 24780.83]
+
+after 41300 round
+the average regrets are  [27172.84, 24840.95]
+
+after 41400 round
+the average regrets are  [27238.98, 24900.9]
+
+after 41500 round
+the average regrets are  [27305.03, 24960.91]
+
+after 41600 round
+the average regrets are  [27370.28, 25021.03]
+
+after 41700 round
+the average regrets are  [27435.9, 25080.75]
+
+after 41800 round
+the average regrets are  [27502.11, 25140.63]
+
+after 41900 round
+the average regrets are  [27568.22, 25200.78]
+
+after 42000 round
+the average regrets are  [27634.06, 25261.03]
+
+after 42100 round
+the average regrets are  [27700.04, 25320.87]
+
+after 42200 round
+the average regrets are  [27765.45, 25381.3]
+
+after 42300 round
+the average regrets are  [27831.22, 25441.46]
+
+after 42400 round
+the average regrets are  [27897.1, 25501.56]
+
+after 42500 round
+the average regrets are  [27962.62, 25561.91]
+
+after 42600 round
+the average regrets are  [28028.15, 25621.58]
+
+after 42700 round
+the average regrets are  [28094.34, 25681.75]
+
+after 42800 round
+the average regrets are  [28159.98, 25741.74]
+
+after 42900 round
+the average regrets are  [28225.77, 25801.7]
+
+after 43000 round
+the average regrets are  [28291.49, 25861.56]
+
+after 43100 round
+the average regrets are  [28357.0, 25921.61]
+
+after 43200 round
+the average regrets are  [28422.66, 25981.53]
+
+after 43300 round
+the average regrets are  [28488.86, 26041.58]
+
+after 43400 round
+the average regrets are  [28554.4, 26101.58]
+
+after 43500 round
+the average regrets are  [28619.81, 26161.57]
+
+after 43600 round
+the average regrets are  [28685.55, 26221.48]
+
+after 43700 round
+the average regrets are  [28751.3, 26281.32]
+
+after 43800 round
+the average regrets are  [28816.88, 26341.23]
+
+after 43900 round
+the average regrets are  [28882.21, 26401.35]
+
+after 44000 round
+the average regrets are  [28948.03, 26461.19]
+
+after 44100 round
+the average regrets are  [29013.78, 26521.3]
+
+after 44200 round
+the average regrets are  [29079.09, 26581.45]
+
+after 44300 round
+the average regrets are  [29144.9, 26641.07]
+
+after 44400 round
+the average regrets are  [29210.21, 26701.42]
+
+after 44500 round
+the average regrets are  [29275.43, 26761.89]
+
+after 44600 round
+the average regrets are  [29341.06, 26821.56]
+
+after 44700 round
+the average regrets are  [29406.81, 26881.99]
+
+after 44800 round
+the average regrets are  [29472.75, 26942.24]
+
+after 44900 round
+the average regrets are  [29538.25, 27002.48]
+
+after 45000 round
+the average regrets are  [29603.95, 27062.31]
+
+after 45100 round
+the average regrets are  [29669.27, 27122.42]
+
+after 45200 round
+the average regrets are  [29734.66, 27182.27]
+
+after 45300 round
+the average regrets are  [29800.26, 27242.39]
+
+after 45400 round
+the average regrets are  [29865.78, 27302.56]
+
+after 45500 round
+the average regrets are  [29931.23, 27362.27]
+
+after 45600 round
+the average regrets are  [29996.71, 27422.25]
+
+after 45700 round
+the average regrets are  [30062.1, 27482.02]
+
+after 45800 round
+the average regrets are  [30127.77, 27542.44]
+
+after 45900 round
+the average regrets are  [30193.81, 27602.1]
+
+after 46000 round
+the average regrets are  [30259.28, 27662.0]
+
+after 46100 round
+the average regrets are  [30324.9, 27722.12]
+
+after 46200 round
+the average regrets are  [30390.45, 27782.48]
+
+after 46300 round
+the average regrets are  [30456.2, 27842.84]
+
+after 46400 round
+the average regrets are  [30521.74, 27903.05]
+
+after 46500 round
+the average regrets are  [30587.53, 27963.09]
+
+after 46600 round
+the average regrets are  [30653.48, 28023.23]
+
+after 46700 round
+the average regrets are  [30718.4, 28083.66]
+
+after 46800 round
+the average regrets are  [30784.12, 28143.54]
+
+after 46900 round
+the average regrets are  [30849.92, 28203.81]
+
+after 47000 round
+the average regrets are  [30915.54, 28263.94]
+
+after 47100 round
+the average regrets are  [30981.33, 28323.95]
+
+after 47200 round
+the average regrets are  [31047.1, 28384.22]
+
+after 47300 round
+the average regrets are  [31112.84, 28444.65]
+
+after 47400 round
+the average regrets are  [31178.34, 28504.56]
+
+after 47500 round
+the average regrets are  [31244.45, 28564.85]
+
+after 47600 round
+the average regrets are  [31310.1, 28624.64]
+
+after 47700 round
+the average regrets are  [31375.77, 28684.71]
+
+after 47800 round
+the average regrets are  [31441.56, 28745.16]
+
+after 47900 round
+the average regrets are  [31507.03, 28805.23]
+
+after 48000 round
+the average regrets are  [31572.78, 28865.23]
+
+after 48100 round
+the average regrets are  [31638.71, 28924.98]
+
+after 48200 round
+the average regrets are  [31704.77, 28985.02]
+
+after 48300 round
+the average regrets are  [31770.43, 29045.25]
+
+after 48400 round
+the average regrets are  [31836.17, 29105.24]
+
+after 48500 round
+the average regrets are  [31901.83, 29165.25]
+
+after 48600 round
+the average regrets are  [31967.79, 29225.18]
+
+after 48700 round
+the average regrets are  [32033.4, 29284.94]
+
+after 48800 round
+the average regrets are  [32099.17, 29344.8]
+
+after 48900 round
+the average regrets are  [32164.96, 29404.79]
+
+after 49000 round
+the average regrets are  [32231.09, 29464.88]
+
+after 49100 round
+the average regrets are  [32296.71, 29524.9]
+
+after 49200 round
+the average regrets are  [32362.1, 29584.57]
+
+after 49300 round
+the average regrets are  [32427.95, 29644.87]
+
+after 49400 round
+the average regrets are  [32493.66, 29704.98]
+
+after 49500 round
+the average regrets are  [32558.9, 29764.62]
+
+after 49600 round
+the average regrets are  [32624.47, 29824.45]
+
+after 49700 round
+the average regrets are  [32690.17, 29884.11]
+
+after 49800 round
+the average regrets are  [32755.79, 29944.21]
+
+after 49900 round
+the average regrets are  [32821.47, 30004.3]
+
+after 50000 round
+the average regrets are  [32887.36, 30064.26]
+
+after 50100 round
+the average regrets are  [32953.28, 30124.48]
+
+after 50200 round
+the average regrets are  [33018.76, 30184.26]
+
+after 50300 round
+the average regrets are  [33084.37, 30244.55]
+
+after 50400 round
+the average regrets are  [33149.69, 30304.62]
+
+after 50500 round
+the average regrets are  [33215.43, 30364.52]
+
+after 50600 round
+the average regrets are  [33281.16, 30424.13]
+
+after 50700 round
+the average regrets are  [33346.66, 30484.22]
+
+after 50800 round
+the average regrets are  [33412.26, 30544.48]
+
+after 50900 round
+the average regrets are  [33477.82, 30604.41]
+
+after 51000 round
+the average regrets are  [33543.86, 30664.35]
+
+after 51100 round
+the average regrets are  [33609.74, 30724.38]
+
+after 51200 round
+the average regrets are  [33675.55, 30784.19]
+
+after 51300 round
+the average regrets are  [33741.51, 30844.4]
+
+after 51400 round
+the average regrets are  [33807.35, 30904.31]
+
+after 51500 round
+the average regrets are  [33872.95, 30964.4]
+
+after 51600 round
+the average regrets are  [33938.72, 31024.65]
+
+after 51700 round
+the average regrets are  [34004.76, 31084.98]
+
+after 51800 round
+the average regrets are  [34070.55, 31144.8]
+
+after 51900 round
+the average regrets are  [34135.71, 31204.61]
+
+after 52000 round
+the average regrets are  [34201.4, 31264.62]
+
+after 52100 round
+the average regrets are  [34266.85, 31324.41]
+
+after 52200 round
+the average regrets are  [34332.24, 31384.55]
+
+after 52300 round
+the average regrets are  [34397.82, 31444.46]
+
+after 52400 round
+the average regrets are  [34463.61, 31504.39]
+
+after 52500 round
+the average regrets are  [34529.27, 31564.44]
+
+after 52600 round
+the average regrets are  [34595.18, 31624.28]
+
+after 52700 round
+the average regrets are  [34661.39, 31684.46]
+
+after 52800 round
+the average regrets are  [34726.93, 31744.8]
+
+after 52900 round
+the average regrets are  [34792.61, 31804.24]
+
+after 53000 round
+the average regrets are  [34858.1, 31864.07]
+
+after 53100 round
+the average regrets are  [34924.04, 31924.32]
+
+after 53200 round
+the average regrets are  [34989.62, 31984.35]
+
+after 53300 round
+the average regrets are  [35055.45, 32044.74]
+
+after 53400 round
+the average regrets are  [35121.26, 32104.45]
+
+after 53500 round
+the average regrets are  [35187.17, 32164.26]
+
+after 53600 round
+the average regrets are  [35252.84, 32224.5]
+
+after 53700 round
+the average regrets are  [35318.79, 32284.26]
+
+after 53800 round
+the average regrets are  [35384.55, 32344.58]
+
+after 53900 round
+the average regrets are  [35449.97, 32404.9]
+
+after 54000 round
+the average regrets are  [35515.68, 32465.12]
+
+after 54100 round
+the average regrets are  [35581.27, 32524.96]
+
+after 54200 round
+the average regrets are  [35646.84, 32585.08]
+
+after 54300 round
+the average regrets are  [35712.71, 32645.04]
+
+after 54400 round
+the average regrets are  [35778.44, 32705.0]
+
+after 54500 round
+the average regrets are  [35844.38, 32765.17]
+
+after 54600 round
+the average regrets are  [35909.99, 32825.47]
+
+after 54700 round
+the average regrets are  [35975.88, 32885.69]
+
+after 54800 round
+the average regrets are  [36041.82, 32945.11]
+
+after 54900 round
+the average regrets are  [36107.85, 33004.82]
+
+after 55000 round
+the average regrets are  [36173.38, 33065.0]
+
+after 55100 round
+the average regrets are  [36239.32, 33125.09]
+
+after 55200 round
+the average regrets are  [36305.25, 33184.99]
+
+after 55300 round
+the average regrets are  [36370.95, 33244.79]
+
+after 55400 round
+the average regrets are  [36436.67, 33305.1]
+
+after 55500 round
+the average regrets are  [36502.33, 33365.05]
+
+after 55600 round
+the average regrets are  [36568.12, 33424.9]
+
+after 55700 round
+the average regrets are  [36633.31, 33484.72]
+
+after 55800 round
+the average regrets are  [36699.38, 33544.82]
+
+after 55900 round
+the average regrets are  [36764.9, 33605.01]
+
+after 56000 round
+the average regrets are  [36830.39, 33665.17]
+
+after 56100 round
+the average regrets are  [36895.86, 33725.14]
+
+after 56200 round
+the average regrets are  [36961.18, 33785.37]
+
+after 56300 round
+the average regrets are  [37026.82, 33845.01]
+
+after 56400 round
+the average regrets are  [37092.69, 33905.31]
+
+after 56500 round
+the average regrets are  [37158.34, 33965.56]
+
+after 56600 round
+the average regrets are  [37223.84, 34025.4]
+
+after 56700 round
+the average regrets are  [37289.98, 34085.53]
+
+after 56800 round
+the average regrets are  [37355.57, 34145.89]
+
+after 56900 round
+the average regrets are  [37421.41, 34206.2]
+
+after 57000 round
+the average regrets are  [37487.17, 34266.16]
+
+after 57100 round
+the average regrets are  [37553.52, 34326.03]
+
+after 57200 round
+the average regrets are  [37619.09, 34386.2]
+
+after 57300 round
+the average regrets are  [37684.61, 34445.88]
+
+after 57400 round
+the average regrets are  [37750.13, 34505.89]
+
+after 57500 round
+the average regrets are  [37815.7, 34566.26]
+
+after 57600 round
+the average regrets are  [37881.51, 34626.54]
+
+after 57700 round
+the average regrets are  [37947.73, 34686.45]
+
+after 57800 round
+the average regrets are  [38013.55, 34746.32]
+
+after 57900 round
+the average regrets are  [38078.94, 34806.22]
+
+after 58000 round
+the average regrets are  [38144.6, 34865.97]
+
+after 58100 round
+the average regrets are  [38210.32, 34926.02]
+
+after 58200 round
+the average regrets are  [38276.17, 34986.05]
+
+after 58300 round
+the average regrets are  [38341.62, 35046.09]
+
+after 58400 round
+the average regrets are  [38407.03, 35106.3]
+
+after 58500 round
+the average regrets are  [38472.64, 35167.0]
+
+after 58600 round
+the average regrets are  [38538.22, 35226.94]
+
+after 58700 round
+the average regrets are  [38603.66, 35286.84]
+
+after 58800 round
+the average regrets are  [38669.38, 35346.94]
+
+after 58900 round
+the average regrets are  [38734.97, 35406.8]
+
+after 59000 round
+the average regrets are  [38800.51, 35466.76]
+
+after 59100 round
+the average regrets are  [38866.36, 35526.63]
+
+after 59200 round
+the average regrets are  [38932.08, 35586.71]
+
+after 59300 round
+the average regrets are  [38998.16, 35647.0]
+
+after 59400 round
+the average regrets are  [39063.92, 35707.15]
+
+after 59500 round
+the average regrets are  [39129.88, 35766.91]
+
+after 59600 round
+the average regrets are  [39195.41, 35827.06]
+
+after 59700 round
+the average regrets are  [39261.25, 35887.16]
+
+after 59800 round
+the average regrets are  [39326.54, 35947.0]
+
+after 59900 round
+the average regrets are  [39391.82, 36007.0]
+
+after 60000 round
+the average regrets are  [39457.42, 36067.29]
+
+after 60100 round
+the average regrets are  [39523.34, 36127.21]
+
+after 60200 round
+the average regrets are  [39589.24, 36187.44]
+
+after 60300 round
+the average regrets are  [39655.11, 36247.67]
+
+after 60400 round
+the average regrets are  [39721.08, 36307.8]
+
+after 60500 round
+the average regrets are  [39787.07, 36367.42]
+
+after 60600 round
+the average regrets are  [39852.97, 36427.17]
+
+after 60700 round
+the average regrets are  [39918.63, 36487.13]
+
+after 60800 round
+the average regrets are  [39984.15, 36547.43]
+
+after 60900 round
+the average regrets are  [40049.6, 36607.74]
+
+after 61000 round
+the average regrets are  [40115.51, 36668.14]
+
+after 61100 round
+the average regrets are  [40181.63, 36727.79]
+
+after 61200 round
+the average regrets are  [40247.16, 36787.97]
+
+after 61300 round
+the average regrets are  [40312.59, 36848.15]
+
+after 61400 round
+the average regrets are  [40378.12, 36908.31]
+
+after 61500 round
+the average regrets are  [40443.74, 36968.45]
+
+after 61600 round
+the average regrets are  [40509.5, 37028.6]
+
+after 61700 round
+the average regrets are  [40575.41, 37088.68]
+
+after 61800 round
+the average regrets are  [40641.67, 37148.71]
+
+after 61900 round
+the average regrets are  [40707.26, 37208.15]
+
+after 62000 round
+the average regrets are  [40773.49, 37268.17]
+
+after 62100 round
+the average regrets are  [40839.2, 37328.39]
+
+after 62200 round
+the average regrets are  [40904.98, 37388.36]
+
+after 62300 round
+the average regrets are  [40970.39, 37448.73]
+
+after 62400 round
+the average regrets are  [41036.26, 37508.69]
+
+after 62500 round
+the average regrets are  [41101.81, 37568.51]
+
+after 62600 round
+the average regrets are  [41167.22, 37628.51]
+
+after 62700 round
+the average regrets are  [41232.77, 37688.71]
+
+after 62800 round
+the average regrets are  [41298.71, 37748.54]
+
+after 62900 round
+the average regrets are  [41364.21, 37808.7]
+
+after 63000 round
+the average regrets are  [41429.95, 37868.83]
+
+after 63100 round
+the average regrets are  [41495.63, 37929.23]
+
+after 63200 round
+the average regrets are  [41560.89, 37989.46]
+
+after 63300 round
+the average regrets are  [41626.6, 38049.45]
+
+after 63400 round
+the average regrets are  [41692.58, 38109.28]
+
+after 63500 round
+the average regrets are  [41758.23, 38169.72]
+
+after 63600 round
+the average regrets are  [41824.0, 38229.62]
+
+after 63700 round
+the average regrets are  [41889.26, 38289.59]
+
+after 63800 round
+the average regrets are  [41955.22, 38350.06]
+
+after 63900 round
+the average regrets are  [42021.29, 38409.99]
+
+after 64000 round
+the average regrets are  [42086.91, 38469.74]
+
+after 64100 round
+the average regrets are  [42152.36, 38529.83]
+
+after 64200 round
+the average regrets are  [42218.33, 38589.92]
+
+after 64300 round
+the average regrets are  [42284.33, 38650.22]
+
+after 64400 round
+the average regrets are  [42349.84, 38710.43]
+
+after 64500 round
+the average regrets are  [42415.73, 38770.37]
+
+after 64600 round
+the average regrets are  [42481.74, 38830.44]
+
+after 64700 round
+the average regrets are  [42547.18, 38890.51]
+
+after 64800 round
+the average regrets are  [42612.96, 38950.35]
+
+after 64900 round
+the average regrets are  [42678.69, 39010.51]
+
+after 65000 round
+the average regrets are  [42744.41, 39070.48]
+
+after 65100 round
+the average regrets are  [42809.99, 39130.75]
+
+after 65200 round
+the average regrets are  [42875.61, 39190.67]
+
+after 65300 round
+the average regrets are  [42941.58, 39251.08]
+
+after 65400 round
+the average regrets are  [43007.03, 39311.34]
+
+after 65500 round
+the average regrets are  [43072.92, 39371.33]
+
+after 65600 round
+the average regrets are  [43138.72, 39431.76]
+
+after 65700 round
+the average regrets are  [43204.34, 39491.96]
+
+after 65800 round
+the average regrets are  [43270.02, 39551.75]
+
+after 65900 round
+the average regrets are  [43335.66, 39611.72]
+
+after 66000 round
+the average regrets are  [43401.53, 39671.91]
+
+after 66100 round
+the average regrets are  [43467.35, 39732.15]
+
+after 66200 round
+the average regrets are  [43533.17, 39792.05]
+
+after 66300 round
+the average regrets are  [43598.48, 39852.15]
+
+after 66400 round
+the average regrets are  [43664.3, 39911.96]
+
+after 66500 round
+the average regrets are  [43730.16, 39972.17]
+
+after 66600 round
+the average regrets are  [43795.71, 40032.31]
+
+after 66700 round
+the average regrets are  [43861.56, 40092.92]
+
+after 66800 round
+the average regrets are  [43926.88, 40152.91]
+
+after 66900 round
+the average regrets are  [43992.55, 40213.18]
+
+after 67000 round
+the average regrets are  [44057.88, 40272.84]
+
+after 67100 round
+the average regrets are  [44123.66, 40333.31]
+
+after 67200 round
+the average regrets are  [44189.64, 40393.0]
+
+after 67300 round
+the average regrets are  [44255.03, 40453.08]
+
+after 67400 round
+the average regrets are  [44320.61, 40513.02]
+
+after 67500 round
+the average regrets are  [44386.53, 40573.06]
+
+after 67600 round
+the average regrets are  [44452.38, 40633.07]
+
+after 67700 round
+the average regrets are  [44517.93, 40693.2]
+
+after 67800 round
+the average regrets are  [44583.98, 40753.1]
+
+after 67900 round
+the average regrets are  [44649.76, 40813.03]
+
+after 68000 round
+the average regrets are  [44715.35, 40873.07]
+
+after 68100 round
+the average regrets are  [44780.98, 40933.05]
+
+after 68200 round
+the average regrets are  [44846.89, 40993.04]
+
+after 68300 round
+the average regrets are  [44912.72, 41052.95]
+
+after 68400 round
+the average regrets are  [44978.48, 41113.43]
+
+after 68500 round
+the average regrets are  [45044.24, 41172.97]
+
+after 68600 round
+the average regrets are  [45110.24, 41233.35]
+
+after 68700 round
+the average regrets are  [45176.28, 41293.23]
+
+after 68800 round
+the average regrets are  [45241.96, 41353.19]
+
+after 68900 round
+the average regrets are  [45307.68, 41413.47]
+
+after 69000 round
+the average regrets are  [45373.33, 41473.39]
+
+after 69100 round
+the average regrets are  [45439.58, 41533.7]
+
+after 69200 round
+the average regrets are  [45505.09, 41593.63]
+
+after 69300 round
+the average regrets are  [45570.87, 41653.97]
+
+after 69400 round
+the average regrets are  [45636.86, 41714.14]
+
+after 69500 round
+the average regrets are  [45702.38, 41774.03]
+
+after 69600 round
+the average regrets are  [45768.1, 41833.84]
+
+after 69700 round
+the average regrets are  [45833.68, 41893.83]
+
+after 69800 round
+the average regrets are  [45899.07, 41953.88]
+
+after 69900 round
+the average regrets are  [45964.87, 42013.51]
+
+after 70000 round
+the average regrets are  [46030.81, 42073.45]
+
+after 70100 round
+the average regrets are  [46096.17, 42133.64]
+
+after 70200 round
+the average regrets are  [46161.91, 42193.52]
+
+after 70300 round
+the average regrets are  [46227.44, 42253.69]
+
+after 70400 round
+the average regrets are  [46293.58, 42313.67]
+
+after 70500 round
+the average regrets are  [46359.33, 42373.78]
+
+after 70600 round
+the average regrets are  [46425.16, 42433.88]
+
+after 70700 round
+the average regrets are  [46491.11, 42493.97]
+
+after 70800 round
+the average regrets are  [46556.48, 42554.13]
+
+after 70900 round
+the average regrets are  [46622.24, 42613.78]
+
+after 71000 round
+the average regrets are  [46687.83, 42674.1]
+
+after 71100 round
+the average regrets are  [46753.83, 42733.84]
+
+after 71200 round
+the average regrets are  [46819.57, 42794.35]
+
+after 71300 round
+the average regrets are  [46884.57, 42854.31]
+
+after 71400 round
+the average regrets are  [46950.3, 42914.07]
+
+after 71500 round
+the average regrets are  [47016.02, 42974.34]
+
+after 71600 round
+the average regrets are  [47081.47, 43034.23]
+
+after 71700 round
+the average regrets are  [47147.19, 43094.68]
+
+after 71800 round
+the average regrets are  [47213.02, 43154.58]
+
+after 71900 round
+the average regrets are  [47278.74, 43214.54]
+
+after 72000 round
+the average regrets are  [47344.38, 43274.7]
+
+after 72100 round
+the average regrets are  [47409.86, 43334.86]
+
+after 72200 round
+the average regrets are  [47475.57, 43394.89]
+
+after 72300 round
+the average regrets are  [47541.24, 43454.79]
+
+after 72400 round
+the average regrets are  [47607.19, 43514.57]
+
+after 72500 round
+the average regrets are  [47672.81, 43574.63]
+
+after 72600 round
+the average regrets are  [47738.11, 43635.11]
+
+after 72700 round
+the average regrets are  [47803.68, 43695.01]
+
+after 72800 round
+the average regrets are  [47868.92, 43754.78]
+
+after 72900 round
+the average regrets are  [47934.37, 43814.67]
+
+after 73000 round
+the average regrets are  [48000.11, 43875.12]
+
+after 73100 round
+the average regrets are  [48065.69, 43935.01]
+
+after 73200 round
+the average regrets are  [48131.39, 43995.21]
+
+after 73300 round
+the average regrets are  [48197.34, 44054.85]
+
+after 73400 round
+the average regrets are  [48263.19, 44114.54]
+
+after 73500 round
+the average regrets are  [48328.82, 44174.86]
+
+after 73600 round
+the average regrets are  [48394.48, 44235.19]
+
+after 73700 round
+the average regrets are  [48460.46, 44295.5]
+
+after 73800 round
+the average regrets are  [48526.31, 44355.08]
+
+after 73900 round
+the average regrets are  [48591.9, 44415.06]
+
+after 74000 round
+the average regrets are  [48657.7, 44475.14]
+
+after 74100 round
+the average regrets are  [48723.55, 44535.08]
+
+after 74200 round
+the average regrets are  [48789.38, 44595.38]
+
+after 74300 round
+the average regrets are  [48855.78, 44655.53]
+
+after 74400 round
+the average regrets are  [48921.68, 44715.54]
+
+after 74500 round
+the average regrets are  [48987.38, 44775.74]
+
+after 74600 round
+the average regrets are  [49052.64, 44835.6]
+
+after 74700 round
+the average regrets are  [49118.41, 44895.57]
+
+after 74800 round
+the average regrets are  [49184.06, 44955.75]
+
+after 74900 round
+the average regrets are  [49249.78, 45015.14]
+
+after 75000 round
+the average regrets are  [49315.58, 45075.13]
+
+after 75100 round
+the average regrets are  [49381.17, 45135.5]
+
+after 75200 round
+the average regrets are  [49447.06, 45195.45]
+
+after 75300 round
+the average regrets are  [49512.94, 45255.71]
+
+after 75400 round
+the average regrets are  [49578.37, 45315.91]
+
+after 75500 round
+the average regrets are  [49644.34, 45375.94]
+
+after 75600 round
+the average regrets are  [49710.03, 45435.72]
+
+after 75700 round
+the average regrets are  [49775.94, 45495.78]
+
+after 75800 round
+the average regrets are  [49841.51, 45555.51]
+
+after 75900 round
+the average regrets are  [49907.12, 45615.27]
+
+after 76000 round
+the average regrets are  [49972.64, 45675.29]
+
+after 76100 round
+the average regrets are  [50038.8, 45735.0]
+
+after 76200 round
+the average regrets are  [50104.49, 45794.94]
+
+after 76300 round
+the average regrets are  [50170.38, 45855.17]
+
+after 76400 round
+the average regrets are  [50236.19, 45915.25]
+
+after 76500 round
+the average regrets are  [50301.48, 45975.4]
+
+after 76600 round
+the average regrets are  [50367.4, 46035.34]
+
+after 76700 round
+the average regrets are  [50433.09, 46095.71]
+
+after 76800 round
+the average regrets are  [50498.43, 46155.86]
+
+after 76900 round
+the average regrets are  [50564.38, 46216.17]
+
+after 77000 round
+the average regrets are  [50630.18, 46276.01]
+
+after 77100 round
+the average regrets are  [50695.87, 46336.48]
+
+after 77200 round
+the average regrets are  [50761.68, 46396.56]
+
+after 77300 round
+the average regrets are  [50827.27, 46456.57]
+
+after 77400 round
+the average regrets are  [50893.13, 46516.75]
+
+after 77500 round
+the average regrets are  [50958.79, 46576.68]
+
+after 77600 round
+the average regrets are  [51024.6, 46636.99]
+
+after 77700 round
+the average regrets are  [51090.61, 46697.12]
+
+after 77800 round
+the average regrets are  [51156.29, 46757.61]
+
+after 77900 round
+the average regrets are  [51222.08, 46817.09]
+
+after 78000 round
+the average regrets are  [51287.57, 46877.15]
+
+after 78100 round
+the average regrets are  [51353.35, 46937.15]
+
+after 78200 round
+the average regrets are  [51418.89, 46997.27]
+
+after 78300 round
+the average regrets are  [51484.99, 47057.26]
+
+after 78400 round
+the average regrets are  [51550.61, 47117.18]
+
+after 78500 round
+the average regrets are  [51616.18, 47177.47]
+
+after 78600 round
+the average regrets are  [51681.75, 47237.69]
+
+after 78700 round
+the average regrets are  [51747.61, 47297.73]
+
+after 78800 round
+the average regrets are  [51812.87, 47357.84]
+
+after 78900 round
+the average regrets are  [51878.84, 47417.88]
+
+after 79000 round
+the average regrets are  [51944.62, 47478.25]
+
+after 79100 round
+the average regrets are  [52010.15, 47538.07]
+
+after 79200 round
+the average regrets are  [52075.65, 47598.29]
+
+after 79300 round
+the average regrets are  [52141.37, 47658.07]
+
+after 79400 round
+the average regrets are  [52207.12, 47717.87]
+
+after 79500 round
+the average regrets are  [52272.57, 47777.78]
+
+after 79600 round
+the average regrets are  [52338.12, 47837.83]
+
+after 79700 round
+the average regrets are  [52403.65, 47897.77]
+
+after 79800 round
+the average regrets are  [52469.47, 47957.71]
+
+after 79900 round
+the average regrets are  [52535.31, 48018.28]
+
+after 80000 round
+the average regrets are  [52601.23, 48078.33]
+
+after 80100 round
+the average regrets are  [52666.64, 48138.54]
+
+after 80200 round
+the average regrets are  [52732.32, 48198.56]
+
+after 80300 round
+the average regrets are  [52798.44, 48258.33]
+
+after 80400 round
+the average regrets are  [52863.86, 48318.96]
+
+after 80500 round
+the average regrets are  [52929.79, 48379.1]
+
+after 80600 round
+the average regrets are  [52995.35, 48438.98]
+
+after 80700 round
+the average regrets are  [53061.21, 48498.8]
+
+after 80800 round
+the average regrets are  [53127.1, 48558.58]
+
+after 80900 round
+the average regrets are  [53192.52, 48618.3]
+
+after 81000 round
+the average regrets are  [53258.05, 48678.04]
+
+after 81100 round
+the average regrets are  [53323.8, 48738.15]
+
+after 81200 round
+the average regrets are  [53389.71, 48797.92]
+
+after 81300 round
+the average regrets are  [53455.51, 48858.05]
+
+after 81400 round
+the average regrets are  [53520.66, 48918.09]
+
+after 81500 round
+the average regrets are  [53586.11, 48978.47]
+
+after 81600 round
+the average regrets are  [53651.84, 49038.61]
+
+after 81700 round
+the average regrets are  [53717.54, 49098.89]
+
+after 81800 round
+the average regrets are  [53783.07, 49158.85]
+
+after 81900 round
+the average regrets are  [53848.83, 49219.03]
+
+after 82000 round
+the average regrets are  [53914.55, 49279.1]
+
+after 82100 round
+the average regrets are  [53980.2, 49339.12]
+
+after 82200 round
+the average regrets are  [54045.86, 49398.97]
+
+after 82300 round
+the average regrets are  [54111.65, 49458.6]
+
+after 82400 round
+the average regrets are  [54177.78, 49518.54]
+
+after 82500 round
+the average regrets are  [54243.46, 49578.44]
+
+after 82600 round
+the average regrets are  [54309.12, 49638.55]
+
+after 82700 round
+the average regrets are  [54375.1, 49698.42]
+
+after 82800 round
+the average regrets are  [54440.61, 49758.41]
+
+after 82900 round
+the average regrets are  [54506.26, 49819.02]
+
+after 83000 round
+the average regrets are  [54571.87, 49879.04]
+
+after 83100 round
+the average regrets are  [54637.23, 49938.99]
+
+after 83200 round
+the average regrets are  [54702.94, 49998.92]
+
+after 83300 round
+the average regrets are  [54768.39, 50058.87]
+
+after 83400 round
+the average regrets are  [54834.32, 50118.8]
+
+after 83500 round
+the average regrets are  [54900.26, 50178.76]
+
+after 83600 round
+the average regrets are  [54965.88, 50238.98]
+
+after 83700 round
+the average regrets are  [55031.97, 50299.04]
+
+after 83800 round
+the average regrets are  [55097.59, 50359.18]
+
+after 83900 round
+the average regrets are  [55162.83, 50419.22]
+
+after 84000 round
+the average regrets are  [55228.25, 50479.37]
+
+after 84100 round
+the average regrets are  [55294.14, 50539.61]
+
+after 84200 round
+the average regrets are  [55359.63, 50599.61]
+
+after 84300 round
+the average regrets are  [55425.51, 50660.04]
+
+after 84400 round
+the average regrets are  [55491.09, 50719.72]
+
+after 84500 round
+the average regrets are  [55556.36, 50779.49]
+
+after 84600 round
+the average regrets are  [55622.08, 50839.28]
+
+after 84700 round
+the average regrets are  [55687.83, 50899.08]
+
+after 84800 round
+the average regrets are  [55753.44, 50959.68]
+
+after 84900 round
+the average regrets are  [55819.01, 51019.87]
+
+after 85000 round
+the average regrets are  [55884.81, 51079.95]
+
+after 85100 round
+the average regrets are  [55950.74, 51140.49]
+
+after 85200 round
+the average regrets are  [56016.38, 51200.9]
+
+after 85300 round
+the average regrets are  [56082.29, 51260.56]
+
+after 85400 round
+the average regrets are  [56147.87, 51320.44]
+
+after 85500 round
+the average regrets are  [56213.55, 51380.52]
+
+after 85600 round
+the average regrets are  [56279.49, 51440.07]
+
+after 85700 round
+the average regrets are  [56345.25, 51499.73]
+
+after 85800 round
+the average regrets are  [56410.91, 51559.83]
+
+after 85900 round
+the average regrets are  [56476.36, 51619.94]
+
+after 86000 round
+the average regrets are  [56542.07, 51680.05]
+
+after 86100 round
+the average regrets are  [56607.79, 51739.32]
+
+after 86200 round
+the average regrets are  [56673.2, 51799.9]
+
+after 86300 round
+the average regrets are  [56739.01, 51859.91]
+
+after 86400 round
+the average regrets are  [56804.99, 51920.28]
+
+after 86500 round
+the average regrets are  [56870.5, 51980.34]
+
+after 86600 round
+the average regrets are  [56936.52, 52040.45]
+
+after 86700 round
+the average regrets are  [57002.08, 52100.3]
+
+after 86800 round
+the average regrets are  [57067.66, 52160.25]
+
+after 86900 round
+the average regrets are  [57133.18, 52220.13]
+
+after 87000 round
+the average regrets are  [57198.97, 52280.09]
+
+after 87100 round
+the average regrets are  [57264.68, 52339.8]
+
+after 87200 round
+the average regrets are  [57330.46, 52399.68]
+
+after 87300 round
+the average regrets are  [57396.57, 52459.66]
+
+after 87400 round
+the average regrets are  [57462.59, 52520.04]
+
+after 87500 round
+the average regrets are  [57528.6, 52580.14]
+
+after 87600 round
+the average regrets are  [57594.11, 52640.39]
+
+after 87700 round
+the average regrets are  [57659.73, 52700.89]
+
+after 87800 round
+the average regrets are  [57725.69, 52761.05]
+
+after 87900 round
+the average regrets are  [57791.32, 52821.13]
+
+after 88000 round
+the average regrets are  [57857.05, 52881.11]
+
+after 88100 round
+the average regrets are  [57922.81, 52941.41]
+
+after 88200 round
+the average regrets are  [57988.51, 53001.41]
+
+after 88300 round
+the average regrets are  [58054.15, 53061.3]
+
+after 88400 round
+the average regrets are  [58119.58, 53121.03]
+
+after 88500 round
+the average regrets are  [58185.3, 53181.12]
+
+after 88600 round
+the average regrets are  [58250.83, 53241.0]
+
+after 88700 round
+the average regrets are  [58316.76, 53301.11]
+
+after 88800 round
+the average regrets are  [58382.38, 53361.57]
+
+after 88900 round
+the average regrets are  [58448.43, 53421.54]
+
+after 89000 round
+the average regrets are  [58514.16, 53481.88]
+
+after 89100 round
+the average regrets are  [58579.79, 53542.29]
+
+after 89200 round
+the average regrets are  [58645.55, 53601.9]
+
+after 89300 round
+the average regrets are  [58711.22, 53662.18]
+
+after 89400 round
+the average regrets are  [58776.95, 53722.43]
+
+after 89500 round
+the average regrets are  [58842.14, 53782.57]
+
+after 89600 round
+the average regrets are  [58907.77, 53842.68]
+
+after 89700 round
+the average regrets are  [58973.49, 53903.19]
+
+after 89800 round
+the average regrets are  [59039.24, 53962.67]
+
+after 89900 round
+the average regrets are  [59104.75, 54022.68]
+
+after 90000 round
+the average regrets are  [59170.71, 54082.31]
+
+after 90100 round
+the average regrets are  [59236.06, 54142.98]
+
+after 90200 round
+the average regrets are  [59301.8, 54203.19]
+
+after 90300 round
+the average regrets are  [59367.98, 54262.93]
+
+after 90400 round
+the average regrets are  [59433.49, 54322.72]
+
+after 90500 round
+the average regrets are  [59499.11, 54382.81]
+
+after 90600 round
+the average regrets are  [59565.21, 54442.43]
+
+after 90700 round
+the average regrets are  [59630.91, 54502.81]
+
+after 90800 round
+the average regrets are  [59696.44, 54562.91]
+
+after 90900 round
+the average regrets are  [59761.93, 54622.92]
+
+after 91000 round
+the average regrets are  [59827.42, 54682.96]
+
+after 91100 round
+the average regrets are  [59893.07, 54742.86]
+
+after 91200 round
+the average regrets are  [59958.77, 54802.66]
+
+after 91300 round
+the average regrets are  [60024.67, 54863.0]
+
+after 91400 round
+the average regrets are  [60090.35, 54923.07]
+
+after 91500 round
+the average regrets are  [60155.84, 54983.22]
+
+after 91600 round
+the average regrets are  [60221.31, 55043.06]
+
+after 91700 round
+the average regrets are  [60286.58, 55102.91]
+
+after 91800 round
+the average regrets are  [60351.86, 55162.96]
+
+after 91900 round
+the average regrets are  [60417.66, 55222.86]
+
+after 92000 round
+the average regrets are  [60483.42, 55282.98]
+
+after 92100 round
+the average regrets are  [60549.18, 55342.85]
+
+after 92200 round
+the average regrets are  [60614.56, 55402.96]
+
+after 92300 round
+the average regrets are  [60680.31, 55462.79]
+
+after 92400 round
+the average regrets are  [60745.93, 55523.12]
+
+after 92500 round
+the average regrets are  [60811.73, 55582.81]
+
+after 92600 round
+the average regrets are  [60877.28, 55642.97]
+
+after 92700 round
+the average regrets are  [60942.99, 55702.81]
+
+after 92800 round
+the average regrets are  [61009.2, 55762.92]
+
+after 92900 round
+the average regrets are  [61075.09, 55823.1]
+
+after 93000 round
+the average regrets are  [61141.04, 55883.22]
+
+after 93100 round
+the average regrets are  [61206.75, 55943.23]
+
+after 93200 round
+the average regrets are  [61272.27, 56003.28]
+
+after 93300 round
+the average regrets are  [61338.1, 56063.38]
+
+after 93400 round
+the average regrets are  [61403.5, 56123.31]
+
+after 93500 round
+the average regrets are  [61469.21, 56183.27]
+
+after 93600 round
+the average regrets are  [61535.0, 56243.27]
+
+after 93700 round
+the average regrets are  [61600.73, 56303.19]
+
+after 93800 round
+the average regrets are  [61666.69, 56363.63]
+
+after 93900 round
+the average regrets are  [61732.51, 56423.78]
+
+after 94000 round
+the average regrets are  [61798.15, 56484.04]
+
+after 94100 round
+the average regrets are  [61864.18, 56543.9]
+
+after 94200 round
+the average regrets are  [61929.75, 56604.5]
+
+after 94300 round
+the average regrets are  [61995.08, 56664.78]
+
+after 94400 round
+the average regrets are  [62061.18, 56724.59]
+
+after 94500 round
+the average regrets are  [62127.26, 56784.96]
+
+after 94600 round
+the average regrets are  [62193.05, 56845.04]
+
+after 94700 round
+the average regrets are  [62258.81, 56905.33]
+
+after 94800 round
+the average regrets are  [62324.4, 56965.44]
+
+after 94900 round
+the average regrets are  [62390.05, 57026.0]
+
+after 95000 round
+the average regrets are  [62455.61, 57086.03]
+
+after 95100 round
+the average regrets are  [62521.59, 57145.95]
+
+after 95200 round
+the average regrets are  [62587.06, 57205.9]
+
+after 95300 round
+the average regrets are  [62652.49, 57265.9]
+
+after 95400 round
+the average regrets are  [62718.08, 57325.95]
+
+after 95500 round
+the average regrets are  [62783.73, 57385.67]
+
+after 95600 round
+the average regrets are  [62849.08, 57446.02]
+
+after 95700 round
+the average regrets are  [62915.05, 57505.79]
+
+after 95800 round
+the average regrets are  [62980.96, 57565.63]
+
+after 95900 round
+the average regrets are  [63046.71, 57625.73]
+
+after 96000 round
+the average regrets are  [63112.77, 57685.77]
+
+after 96100 round
+the average regrets are  [63178.21, 57745.9]
+
+after 96200 round
+the average regrets are  [63244.29, 57806.01]
+
+after 96300 round
+the average regrets are  [63309.93, 57866.05]
+
+after 96400 round
+the average regrets are  [63375.77, 57926.06]
+
+after 96500 round
+the average regrets are  [63441.63, 57986.25]
+
+after 96600 round
+the average regrets are  [63507.4, 58046.28]
+
+after 96700 round
+the average regrets are  [63573.36, 58106.48]
+
+after 96800 round
+the average regrets are  [63638.86, 58166.32]
+
+after 96900 round
+the average regrets are  [63704.42, 58226.42]
+
+after 97000 round
+the average regrets are  [63770.21, 58286.68]
+
+after 97100 round
+the average regrets are  [63836.09, 58346.87]
+
+after 97200 round
+the average regrets are  [63901.63, 58407.02]
+
+after 97300 round
+the average regrets are  [63967.06, 58467.05]
+
+after 97400 round
+the average regrets are  [64032.56, 58526.72]
+
+after 97500 round
+the average regrets are  [64098.24, 58586.92]
+
+after 97600 round
+the average regrets are  [64163.86, 58646.8]
+
+after 97700 round
+the average regrets are  [64229.55, 58706.52]
+
+after 97800 round
+the average regrets are  [64294.89, 58766.14]
+
+after 97900 round
+the average regrets are  [64360.75, 58826.11]
+
+after 98000 round
+the average regrets are  [64425.97, 58886.32]
+
+after 98100 round
+the average regrets are  [64491.46, 58946.17]
+
+after 98200 round
+the average regrets are  [64556.91, 59006.02]
+
+after 98300 round
+the average regrets are  [64622.62, 59065.83]
+
+after 98400 round
+the average regrets are  [64688.18, 59126.0]
+
+after 98500 round
+the average regrets are  [64753.79, 59185.63]
+
+after 98600 round
+the average regrets are  [64819.47, 59245.57]
+
+after 98700 round
+the average regrets are  [64885.22, 59305.59]
+
+after 98800 round
+the average regrets are  [64950.95, 59365.45]
+
+after 98900 round
+the average regrets are  [65016.58, 59425.2]
+
+after 99000 round
+the average regrets are  [65081.91, 59485.59]
+
+after 99100 round
+the average regrets are  [65147.82, 59545.43]
+
+after 99200 round
+the average regrets are  [65213.29, 59605.91]
+
+after 99300 round
+the average regrets are  [65278.57, 59665.99]
+
+after 99400 round
+the average regrets are  [65344.11, 59726.17]
+
+after 99500 round
+the average regrets are  [65409.93, 59786.08]
+
+after 99600 round
+the average regrets are  [65475.29, 59846.02]
+
+after 99700 round
+the average regrets are  [65540.63, 59905.85]
+
+after 99800 round
+the average regrets are  [65606.33, 59965.72]
+
+after 99900 round
+the average regrets are  [65671.94, 60025.25]
+
+after 100000 round
+the average regrets are  [65737.74, 60085.06]
+
+the epsilon is 0.2
+the second best arm index is 7
+Normal: epsilon greedy. Free: always real second best.
+['k=1', 'k=0']
+after 100 round
+the average regrets are  [156.36, 154.38]
+
+after 200 round
+the average regrets are  [277.65, 273.1]
+
+after 300 round
+the average regrets are  [395.25, 389.34]
+
+after 400 round
+the average regrets are  [509.91, 504.11]
+
+after 500 round
+the average regrets are  [623.39, 617.98]
+
+after 600 round
+the average regrets are  [736.26, 730.7]
+
+after 700 round
+the average regrets are  [848.89, 842.97]
+
+after 800 round
+the average regrets are  [960.53, 955.01]
+
+after 900 round
+the average regrets are  [1072.7, 1067.22]
+
+after 1000 round
+the average regrets are  [1184.72, 1178.97]
+
+after 1100 round
+the average regrets are  [1296.2, 1290.86]
+
+after 1200 round
+the average regrets are  [1407.74, 1402.73]
+
+after 1300 round
+the average regrets are  [1520.26, 1515.04]
+
+after 1400 round
+the average regrets are  [1631.67, 1626.98]
+
+after 1500 round
+the average regrets are  [1743.52, 1738.11]
+
+after 1600 round
+the average regrets are  [1854.72, 1850.22]
+
+after 1700 round
+the average regrets are  [1966.33, 1961.91]
+
+after 1800 round
+the average regrets are  [2078.06, 2073.22]
+
+after 1900 round
+the average regrets are  [2189.15, 2184.72]
+
+after 2000 round
+the average regrets are  [2300.69, 2296.21]
+
+after 2100 round
+the average regrets are  [2412.36, 2407.44]
+
+after 2200 round
+the average regrets are  [2524.11, 2519.18]
+
+after 2300 round
+the average regrets are  [2635.42, 2630.64]
+
+after 2400 round
+the average regrets are  [2747.18, 2742.56]
+
+after 2500 round
+the average regrets are  [2859.02, 2853.69]
+
+after 2600 round
+the average regrets are  [2971.24, 2965.56]
+
+after 2700 round
+the average regrets are  [3082.7, 3077.2]
+
+after 2800 round
+the average regrets are  [3193.88, 3188.82]
+
+after 2900 round
+the average regrets are  [3305.65, 3299.53]
+
+after 3000 round
+the average regrets are  [3416.95, 3411.07]
+
+after 3100 round
+the average regrets are  [3528.55, 3522.55]
+
+after 3200 round
+the average regrets are  [3640.12, 3633.98]
+
+after 3300 round
+the average regrets are  [3751.39, 3745.41]
+
+after 3400 round
+the average regrets are  [3862.74, 3857.42]
+
+after 3500 round
+the average regrets are  [3974.8, 3968.74]
+
+after 3600 round
+the average regrets are  [4086.48, 4080.47]
+
+after 3700 round
+the average regrets are  [4197.81, 4192.35]
+
+after 3800 round
+the average regrets are  [4309.73, 4304.07]
+
+after 3900 round
+the average regrets are  [4421.44, 4415.69]
+
+after 4000 round
+the average regrets are  [4533.43, 4527.47]
+
+after 4100 round
+the average regrets are  [4645.28, 4639.11]
+
+after 4200 round
+the average regrets are  [4756.71, 4750.37]
+
+after 4300 round
+the average regrets are  [4868.55, 4862.43]
+
+after 4400 round
+the average regrets are  [4980.02, 4973.86]
+
+after 4500 round
+the average regrets are  [5091.95, 5085.61]
+
+after 4600 round
+the average regrets are  [5204.08, 5197.12]
+
+after 4700 round
+the average regrets are  [5315.78, 5308.4]
+
+after 4800 round
+the average regrets are  [5427.61, 5420.98]
+
+after 4900 round
+the average regrets are  [5539.57, 5532.46]
+
+after 5000 round
+the average regrets are  [5651.12, 5644.14]
+
+after 5100 round
+the average regrets are  [5763.34, 5755.67]
+
+after 5200 round
+the average regrets are  [5875.36, 5867.12]
+
+after 5300 round
+the average regrets are  [5986.49, 5978.67]
+
+after 5400 round
+the average regrets are  [6098.29, 6090.47]
+
+after 5500 round
+the average regrets are  [6209.97, 6202.02]
+
+after 5600 round
+the average regrets are  [6321.84, 6313.77]
+
+after 5700 round
+the average regrets are  [6433.0, 6425.45]
+
+after 5800 round
+the average regrets are  [6544.52, 6536.84]
+
+after 5900 round
+the average regrets are  [6656.04, 6648.75]
+
+after 6000 round
+the average regrets are  [6767.69, 6760.41]
+
+after 6100 round
+the average regrets are  [6879.72, 6871.81]
+
+after 6200 round
+the average regrets are  [6991.63, 6983.42]
+
+after 6300 round
+the average regrets are  [7102.61, 7094.82]
+
+after 6400 round
+the average regrets are  [7214.21, 7206.4]
+
+after 6500 round
+the average regrets are  [7325.26, 7318.14]
+
+after 6600 round
+the average regrets are  [7436.62, 7429.29]
+
+after 6700 round
+the average regrets are  [7547.99, 7541.08]
+
+after 6800 round
+the average regrets are  [7659.66, 7652.41]
+
+after 6900 round
+the average regrets are  [7771.49, 7764.15]
+
+after 7000 round
+the average regrets are  [7882.94, 7875.52]
+
+after 7100 round
+the average regrets are  [7994.08, 7987.15]
+
+after 7200 round
+the average regrets are  [8106.32, 8098.53]
+
+after 7300 round
+the average regrets are  [8218.39, 8210.67]
+
+after 7400 round
+the average regrets are  [8330.13, 8322.17]
+
+after 7500 round
+the average regrets are  [8441.88, 8433.31]
+
+after 7600 round
+the average regrets are  [8553.98, 8545.23]
+
+after 7700 round
+the average regrets are  [8665.75, 8657.41]
+
+after 7800 round
+the average regrets are  [8777.14, 8769.21]
+
+after 7900 round
+the average regrets are  [8889.31, 8880.38]
+
+after 8000 round
+the average regrets are  [9001.37, 8991.97]
+
+after 8100 round
+the average regrets are  [9113.08, 9103.27]
+
+after 8200 round
+the average regrets are  [9224.97, 9214.97]
+
+after 8300 round
+the average regrets are  [9336.46, 9326.12]
+
+after 8400 round
+the average regrets are  [9447.66, 9437.94]
+
+after 8500 round
+the average regrets are  [9559.33, 9549.88]
+
+after 8600 round
+the average regrets are  [9671.35, 9661.22]
+
+after 8700 round
+the average regrets are  [9783.03, 9772.86]
+
+after 8800 round
+the average regrets are  [9894.92, 9884.62]
+
+after 8900 round
+the average regrets are  [10006.86, 9995.99]
+
+after 9000 round
+the average regrets are  [10118.6, 10107.7]
+
+after 9100 round
+the average regrets are  [10230.07, 10220.0]
+
+after 9200 round
+the average regrets are  [10341.54, 10331.45]
+
+after 9300 round
+the average regrets are  [10453.15, 10443.72]
+
+after 9400 round
+the average regrets are  [10564.53, 10555.16]
+
+after 9500 round
+the average regrets are  [10676.41, 10666.94]
+
+after 9600 round
+the average regrets are  [10788.15, 10778.88]
+
+after 9700 round
+the average regrets are  [10899.18, 10890.84]
+
+after 9800 round
+the average regrets are  [11010.38, 11002.57]
+
+after 9900 round
+the average regrets are  [11122.29, 11114.41]
+
+after 10000 round
+the average regrets are  [11233.78, 11225.96]
+
+after 10100 round
+the average regrets are  [11345.08, 11337.58]
+
+after 10200 round
+the average regrets are  [11456.07, 11450.42]
+
+after 10300 round
+the average regrets are  [11567.88, 11561.89]
+
+after 10400 round
+the average regrets are  [11679.67, 11673.63]
+
+after 10500 round
+the average regrets are  [11791.1, 11785.89]
+
+after 10600 round
+the average regrets are  [11903.03, 11897.4]
+
+after 10700 round
+the average regrets are  [12014.42, 12009.08]
+
+after 10800 round
+the average regrets are  [12125.71, 12120.08]
+
+after 10900 round
+the average regrets are  [12237.53, 12231.75]
+
+after 11000 round
+the average regrets are  [12348.86, 12343.85]
+
+after 11100 round
+the average regrets are  [12460.44, 12455.26]
+
+after 11200 round
+the average regrets are  [12571.67, 12567.03]
+
+after 11300 round
+the average regrets are  [12682.87, 12678.64]
+
+after 11400 round
+the average regrets are  [12794.32, 12790.44]
+
+after 11500 round
+the average regrets are  [12905.59, 12901.61]
+
+after 11600 round
+the average regrets are  [13016.96, 13013.92]
+
+after 11700 round
+the average regrets are  [13129.09, 13125.64]
+
+after 11800 round
+the average regrets are  [13240.48, 13236.86]
+
+after 11900 round
+the average regrets are  [13351.23, 13348.37]
+
+after 12000 round
+the average regrets are  [13462.53, 13459.92]
+
+after 12100 round
+the average regrets are  [13574.55, 13571.29]
+
+after 12200 round
+the average regrets are  [13686.3, 13682.74]
+
+after 12300 round
+the average regrets are  [13798.16, 13794.5]
+
+after 12400 round
+the average regrets are  [13909.57, 13905.97]
+
+after 12500 round
+the average regrets are  [14021.15, 14017.6]
+
+after 12600 round
+the average regrets are  [14133.16, 14129.53]
+
+after 12700 round
+the average regrets are  [14244.43, 14240.66]
+
+after 12800 round
+the average regrets are  [14355.84, 14352.76]
+
+after 12900 round
+the average regrets are  [14467.41, 14464.51]
+
+after 13000 round
+the average regrets are  [14579.0, 14576.01]
+
+after 13100 round
+the average regrets are  [14690.53, 14687.95]
+
+after 13200 round
+the average regrets are  [14802.31, 14800.1]
+
+after 13300 round
+the average regrets are  [14914.22, 14911.55]
+
+after 13400 round
+the average regrets are  [15026.08, 15023.3]
+
+after 13500 round
+the average regrets are  [15138.07, 15134.33]
+
+after 13600 round
+the average regrets are  [15249.56, 15246.39]
+
+after 13700 round
+the average regrets are  [15361.02, 15358.54]
+
+after 13800 round
+the average regrets are  [15472.61, 15470.0]
+
+after 13900 round
+the average regrets are  [15584.89, 15581.32]
+
+after 14000 round
+the average regrets are  [15696.9, 15693.43]
+
+after 14100 round
+the average regrets are  [15808.4, 15805.2]
+
+after 14200 round
+the average regrets are  [15919.91, 15917.2]
+
+after 14300 round
+the average regrets are  [16032.14, 16028.31]
+
+after 14400 round
+the average regrets are  [16144.21, 16140.26]
+
+after 14500 round
+the average regrets are  [16255.77, 16252.0]
+
+after 14600 round
+the average regrets are  [16367.62, 16363.99]
+
+after 14700 round
+the average regrets are  [16479.51, 16475.64]
+
+after 14800 round
+the average regrets are  [16590.34, 16587.04]
+
+after 14900 round
+the average regrets are  [16702.1, 16699.3]
+
+after 15000 round
+the average regrets are  [16814.08, 16811.02]
+
+after 15100 round
+the average regrets are  [16925.9, 16922.7]
+
+after 15200 round
+the average regrets are  [17037.72, 17034.19]
+
+after 15300 round
+the average regrets are  [17149.07, 17145.84]
+
+after 15400 round
+the average regrets are  [17261.06, 17257.58]
+
+after 15500 round
+the average regrets are  [17372.64, 17369.28]
+
+after 15600 round
+the average regrets are  [17484.6, 17481.15]
+
+after 15700 round
+the average regrets are  [17596.05, 17592.93]
+
+after 15800 round
+the average regrets are  [17707.61, 17704.67]
+
+after 15900 round
+the average regrets are  [17819.6, 17816.21]
+
+after 16000 round
+the average regrets are  [17930.78, 17928.21]
+
+after 16100 round
+the average regrets are  [18041.85, 18039.62]
+
+after 16200 round
+the average regrets are  [18153.87, 18150.8]
+
+after 16300 round
+the average regrets are  [18266.09, 18262.52]
+
+after 16400 round
+the average regrets are  [18378.29, 18374.77]
+
+after 16500 round
+the average regrets are  [18489.73, 18486.37]
+
+after 16600 round
+the average regrets are  [18601.76, 18598.11]
+
+after 16700 round
+the average regrets are  [18713.51, 18709.66]
+
+after 16800 round
+the average regrets are  [18824.66, 18820.87]
+
+after 16900 round
+the average regrets are  [18936.35, 18932.65]
+
+after 17000 round
+the average regrets are  [19048.18, 19044.74]
+
+after 17100 round
+the average regrets are  [19159.73, 19156.31]
+
+after 17200 round
+the average regrets are  [19271.66, 19268.75]
+
+after 17300 round
+the average regrets are  [19383.66, 19380.98]
+
+after 17400 round
+the average regrets are  [19495.35, 19492.44]
+
+after 17500 round
+the average regrets are  [19606.57, 19603.85]
+
+after 17600 round
+the average regrets are  [19718.47, 19715.64]
+
+after 17700 round
+the average regrets are  [19830.28, 19828.0]
+
+after 17800 round
+the average regrets are  [19942.3, 19939.46]
+
+after 17900 round
+the average regrets are  [20053.94, 20051.3]
+
+after 18000 round
+the average regrets are  [20166.11, 20162.69]
+
+after 18100 round
+the average regrets are  [20278.16, 20274.24]
+
+after 18200 round
+the average regrets are  [20390.07, 20385.69]
+
+after 18300 round
+the average regrets are  [20501.65, 20497.19]
+
+after 18400 round
+the average regrets are  [20612.83, 20608.65]
+
+after 18500 round
+the average regrets are  [20724.04, 20720.53]
+
+after 18600 round
+the average regrets are  [20835.79, 20832.99]
+
+after 18700 round
+the average regrets are  [20946.96, 20944.96]
+
+after 18800 round
+the average regrets are  [21058.18, 21056.19]
+
+after 18900 round
+the average regrets are  [21169.31, 21168.31]
+
+after 19000 round
+the average regrets are  [21280.67, 21280.63]
+
+after 19100 round
+the average regrets are  [21392.25, 21392.74]
+
+after 19200 round
+the average regrets are  [21504.04, 21504.27]
+
+after 19300 round
+the average regrets are  [21616.04, 21616.27]
+
+after 19400 round
+the average regrets are  [21727.5, 21728.29]
+
+after 19500 round
+the average regrets are  [21839.33, 21839.87]
+
+after 19600 round
+the average regrets are  [21950.97, 21951.82]
+
+after 19700 round
+the average regrets are  [22062.17, 22063.38]
+
+after 19800 round
+the average regrets are  [22174.14, 22174.68]
+
+after 19900 round
+the average regrets are  [22285.86, 22286.64]
+
+after 20000 round
+the average regrets are  [22397.92, 22397.83]
+
+after 20100 round
+the average regrets are  [22508.69, 22508.73]
+
+after 20200 round
+the average regrets are  [22620.26, 22620.96]
+
+after 20300 round
+the average regrets are  [22732.16, 22732.38]
+
+after 20400 round
+the average regrets are  [22843.58, 22844.03]
+
+after 20500 round
+the average regrets are  [22955.36, 22955.45]
+
+after 20600 round
+the average regrets are  [23066.73, 23066.61]
+
+after 20700 round
+the average regrets are  [23178.35, 23178.3]
+
+after 20800 round
+the average regrets are  [23290.02, 23289.76]
+
+after 20900 round
+the average regrets are  [23401.16, 23401.79]
+
+after 21000 round
+the average regrets are  [23513.07, 23513.83]
+
+after 21100 round
+the average regrets are  [23624.72, 23625.49]
+
+after 21200 round
+the average regrets are  [23736.33, 23737.48]
+
+after 21300 round
+the average regrets are  [23847.86, 23848.97]
+
+after 21400 round
+the average regrets are  [23959.34, 23961.02]
+
+after 21500 round
+the average regrets are  [24070.44, 24072.13]
+
+after 21600 round
+the average regrets are  [24182.54, 24183.69]
+
+after 21700 round
+the average regrets are  [24294.23, 24295.59]
+
+after 21800 round
+the average regrets are  [24406.24, 24407.12]
+
+after 21900 round
+the average regrets are  [24518.16, 24518.57]
+
+after 22000 round
+the average regrets are  [24629.96, 24630.45]
+
+after 22100 round
+the average regrets are  [24741.9, 24741.57]
+
+after 22200 round
+the average regrets are  [24853.26, 24852.91]
+
+after 22300 round
+the average regrets are  [24965.14, 24964.89]
+
+after 22400 round
+the average regrets are  [25077.17, 25077.26]
+
+after 22500 round
+the average regrets are  [25188.19, 25189.13]
+
+after 22600 round
+the average regrets are  [25299.89, 25300.34]
+
+after 22700 round
+the average regrets are  [25411.56, 25412.0]
+
+after 22800 round
+the average regrets are  [25523.23, 25523.49]
+
+after 22900 round
+the average regrets are  [25634.7, 25636.03]
+
+after 23000 round
+the average regrets are  [25745.64, 25747.36]
+
+after 23100 round
+the average regrets are  [25857.29, 25859.52]
+
+after 23200 round
+the average regrets are  [25968.65, 25970.91]
+
+after 23300 round
+the average regrets are  [26080.29, 26082.84]
+
+after 23400 round
+the average regrets are  [26191.97, 26195.06]
+
+after 23500 round
+the average regrets are  [26303.28, 26306.19]
+
+after 23600 round
+the average regrets are  [26415.36, 26417.94]
+
+after 23700 round
+the average regrets are  [26527.09, 26529.77]
+
+after 23800 round
+the average regrets are  [26638.3, 26641.3]
+
+after 23900 round
+the average regrets are  [26750.52, 26752.9]
+
+after 24000 round
+the average regrets are  [26862.11, 26864.36]
+
+after 24100 round
+the average regrets are  [26973.65, 26976.02]
+
+after 24200 round
+the average regrets are  [27085.12, 27087.56]
+
+after 24300 round
+the average regrets are  [27196.74, 27198.71]
+
+after 24400 round
+the average regrets are  [27308.39, 27310.34]
+
+after 24500 round
+the average regrets are  [27419.95, 27421.77]
+
+after 24600 round
+the average regrets are  [27532.03, 27534.25]
+
+after 24700 round
+the average regrets are  [27643.81, 27645.91]
+
+after 24800 round
+the average regrets are  [27755.3, 27757.63]
+
+after 24900 round
+the average regrets are  [27867.3, 27869.32]
+
+after 25000 round
+the average regrets are  [27979.59, 27981.19]
+
+after 25100 round
+the average regrets are  [28091.14, 28092.82]
+
+after 25200 round
+the average regrets are  [28202.5, 28204.99]
+
+after 25300 round
+the average regrets are  [28314.09, 28316.61]
+
+after 25400 round
+the average regrets are  [28425.82, 28428.21]
+
+after 25500 round
+the average regrets are  [28537.21, 28539.23]
+
+after 25600 round
+the average regrets are  [28649.02, 28650.71]
+
+after 25700 round
+the average regrets are  [28760.32, 28762.12]
+
+after 25800 round
+the average regrets are  [28871.63, 28873.66]
+
+after 25900 round
+the average regrets are  [28983.32, 28985.13]
+
+after 26000 round
+the average regrets are  [29094.72, 29096.82]
+
+after 26100 round
+the average regrets are  [29206.52, 29209.05]
+
+after 26200 round
+the average regrets are  [29318.12, 29321.01]
+
+after 26300 round
+the average regrets are  [29429.57, 29432.65]
+
+after 26400 round
+the average regrets are  [29541.28, 29544.34]
+
+after 26500 round
+the average regrets are  [29652.56, 29656.31]
+
+after 26600 round
+the average regrets are  [29764.5, 29767.83]
+
+after 26700 round
+the average regrets are  [29875.96, 29880.1]
+
+after 26800 round
+the average regrets are  [29988.09, 29991.63]
+
+after 26900 round
+the average regrets are  [30099.95, 30103.15]
+
+after 27000 round
+the average regrets are  [30211.28, 30215.03]
+
+after 27100 round
+the average regrets are  [30322.88, 30327.15]
+
+after 27200 round
+the average regrets are  [30434.72, 30439.34]
+
+after 27300 round
+the average regrets are  [30545.79, 30550.77]
+
+after 27400 round
+the average regrets are  [30656.71, 30661.8]
+
+after 27500 round
+the average regrets are  [30768.22, 30773.24]
+
+after 27600 round
+the average regrets are  [30879.25, 30884.58]
+
+after 27700 round
+the average regrets are  [30991.3, 30996.37]
+
+after 27800 round
+the average regrets are  [31102.8, 31108.12]
+
+after 27900 round
+the average regrets are  [31214.13, 31219.51]
+
+after 28000 round
+the average regrets are  [31325.7, 31331.48]
+
+after 28100 round
+the average regrets are  [31437.52, 31443.02]
+
+after 28200 round
+the average regrets are  [31549.33, 31554.84]
+
+after 28300 round
+the average regrets are  [31661.8, 31666.8]
+
+after 28400 round
+the average regrets are  [31773.03, 31778.18]
+
+after 28500 round
+the average regrets are  [31884.66, 31889.32]
+
+after 28600 round
+the average regrets are  [31996.09, 32000.81]
+
+after 28700 round
+the average regrets are  [32107.4, 32111.33]
+
+after 28800 round
+the average regrets are  [32219.09, 32223.23]
+
+after 28900 round
+the average regrets are  [32330.59, 32335.26]
+
+after 29000 round
+the average regrets are  [32442.57, 32447.22]
+
+after 29100 round
+the average regrets are  [32554.7, 32559.37]
+
+after 29200 round
+the average regrets are  [32666.08, 32671.01]
+
+after 29300 round
+the average regrets are  [32777.41, 32782.53]
+
+after 29400 round
+the average regrets are  [32888.59, 32894.19]
+
+after 29500 round
+the average regrets are  [33000.66, 33005.83]
+
+after 29600 round
+the average regrets are  [33112.83, 33117.9]
+
+after 29700 round
+the average regrets are  [33224.76, 33229.68]
+
+after 29800 round
+the average regrets are  [33336.03, 33341.35]
+
+after 29900 round
+the average regrets are  [33447.66, 33452.56]
+
+after 30000 round
+the average regrets are  [33558.79, 33564.5]
+
+after 30100 round
+the average regrets are  [33670.28, 33676.1]
+
+after 30200 round
+the average regrets are  [33782.2, 33787.89]
+
+after 30300 round
+the average regrets are  [33894.01, 33899.45]
+
+after 30400 round
+the average regrets are  [34005.68, 34011.04]
+
+after 30500 round
+the average regrets are  [34117.69, 34123.29]
+
+after 30600 round
+the average regrets are  [34229.6, 34234.92]
+
+after 30700 round
+the average regrets are  [34341.15, 34346.57]
+
+after 30800 round
+the average regrets are  [34452.88, 34458.61]
+
+after 30900 round
+the average regrets are  [34564.02, 34570.09]
+
+after 31000 round
+the average regrets are  [34675.38, 34680.98]
+
+after 31100 round
+the average regrets are  [34787.1, 34792.74]
+
+after 31200 round
+the average regrets are  [34898.57, 34904.72]
+
+after 31300 round
+the average regrets are  [35010.1, 35016.22]
+
+after 31400 round
+the average regrets are  [35122.35, 35127.61]
+
+after 31500 round
+the average regrets are  [35233.51, 35238.67]
+
+after 31600 round
+the average regrets are  [35344.67, 35350.47]
+
+after 31700 round
+the average regrets are  [35457.02, 35462.03]
+
+after 31800 round
+the average regrets are  [35568.55, 35573.72]
+
+after 31900 round
+the average regrets are  [35680.09, 35685.53]
+
+after 32000 round
+the average regrets are  [35791.21, 35797.07]
+
+after 32100 round
+the average regrets are  [35902.92, 35909.2]
+
+after 32200 round
+the average regrets are  [36015.12, 36020.33]
+
+after 32300 round
+the average regrets are  [36126.69, 36131.78]
+
+after 32400 round
+the average regrets are  [36237.69, 36243.59]
+
+after 32500 round
+the average regrets are  [36349.73, 36355.31]
+
+after 32600 round
+the average regrets are  [36460.99, 36466.94]
+
+after 32700 round
+the average regrets are  [36573.03, 36578.78]
+
+after 32800 round
+the average regrets are  [36684.83, 36690.41]
+
+after 32900 round
+the average regrets are  [36796.69, 36802.09]
+
+after 33000 round
+the average regrets are  [36908.24, 36913.28]
+
+after 33100 round
+the average regrets are  [37020.05, 37024.94]
+
+after 33200 round
+the average regrets are  [37131.61, 37136.59]
+
+after 33300 round
+the average regrets are  [37243.08, 37248.14]
+
+after 33400 round
+the average regrets are  [37355.13, 37360.45]
+
+after 33500 round
+the average regrets are  [37466.66, 37472.12]
+
+after 33600 round
+the average regrets are  [37578.22, 37583.94]
+
+after 33700 round
+the average regrets are  [37689.15, 37695.6]
+
+after 33800 round
+the average regrets are  [37800.19, 37807.97]
+
+after 33900 round
+the average regrets are  [37912.2, 37919.89]
+
+after 34000 round
+the average regrets are  [38023.64, 38031.57]
+
+after 34100 round
+the average regrets are  [38135.44, 38143.05]
+
+after 34200 round
+the average regrets are  [38246.92, 38254.67]
+
+after 34300 round
+the average regrets are  [38358.43, 38366.36]
+
+after 34400 round
+the average regrets are  [38469.94, 38478.17]
+
+after 34500 round
+the average regrets are  [38582.19, 38589.44]
+
+after 34600 round
+the average regrets are  [38693.98, 38701.14]
+
+after 34700 round
+the average regrets are  [38805.63, 38813.25]
+
+after 34800 round
+the average regrets are  [38916.85, 38924.39]
+
+after 34900 round
+the average regrets are  [39028.31, 39036.25]
+
+after 35000 round
+the average regrets are  [39139.74, 39148.3]
+
+after 35100 round
+the average regrets are  [39251.16, 39259.78]
+
+after 35200 round
+the average regrets are  [39363.35, 39371.57]
+
+after 35300 round
+the average regrets are  [39474.98, 39483.31]
+
+after 35400 round
+the average regrets are  [39586.58, 39595.03]
+
+after 35500 round
+the average regrets are  [39698.22, 39707.07]
+
+after 35600 round
+the average regrets are  [39809.72, 39818.76]
+
+after 35700 round
+the average regrets are  [39921.4, 39930.33]
+
+after 35800 round
+the average regrets are  [40033.66, 40042.16]
+
+after 35900 round
+the average regrets are  [40145.37, 40152.96]
+
+after 36000 round
+the average regrets are  [40257.1, 40263.95]
+
+after 36100 round
+the average regrets are  [40368.35, 40375.43]
+
+after 36200 round
+the average regrets are  [40479.77, 40487.54]
+
+after 36300 round
+the average regrets are  [40591.14, 40599.2]
+
+after 36400 round
+the average regrets are  [40702.63, 40710.99]
+
+after 36500 round
+the average regrets are  [40814.71, 40822.37]
+
+after 36600 round
+the average regrets are  [40926.53, 40933.7]
+
+after 36700 round
+the average regrets are  [41038.52, 41045.71]
+
+after 36800 round
+the average regrets are  [41150.15, 41157.37]
+
+after 36900 round
+the average regrets are  [41261.76, 41268.77]
+
+after 37000 round
+the average regrets are  [41373.09, 41380.18]
+
+after 37100 round
+the average regrets are  [41485.02, 41491.42]
+
+after 37200 round
+the average regrets are  [41596.55, 41603.04]
+
+after 37300 round
+the average regrets are  [41708.48, 41715.17]
+
+after 37400 round
+the average regrets are  [41820.21, 41827.1]
+
+after 37500 round
+the average regrets are  [41931.64, 41938.47]
+
+after 37600 round
+the average regrets are  [42042.96, 42049.94]
+
+after 37700 round
+the average regrets are  [42155.19, 42161.7]
+
+after 37800 round
+the average regrets are  [42266.36, 42272.91]
+
+after 37900 round
+the average regrets are  [42377.92, 42384.02]
+
+after 38000 round
+the average regrets are  [42489.56, 42496.16]
+
+after 38100 round
+the average regrets are  [42601.05, 42607.8]
+
+after 38200 round
+the average regrets are  [42712.93, 42719.48]
+
+after 38300 round
+the average regrets are  [42824.38, 42831.15]
+
+after 38400 round
+the average regrets are  [42935.7, 42943.1]
+
+after 38500 round
+the average regrets are  [43047.42, 43054.48]
+
+after 38600 round
+the average regrets are  [43159.21, 43165.66]
+
+after 38700 round
+the average regrets are  [43271.19, 43277.09]
+
+after 38800 round
+the average regrets are  [43382.55, 43388.83]
+
+after 38900 round
+the average regrets are  [43494.16, 43500.33]
+
+after 39000 round
+the average regrets are  [43605.64, 43612.54]
+
+after 39100 round
+the average regrets are  [43717.59, 43725.15]
+
+after 39200 round
+the average regrets are  [43828.76, 43836.92]
+
+after 39300 round
+the average regrets are  [43940.27, 43948.95]
+
+after 39400 round
+the average regrets are  [44051.5, 44060.37]
+
+after 39500 round
+the average regrets are  [44163.64, 44171.7]
+
+after 39600 round
+the average regrets are  [44275.7, 44283.17]
+
+after 39700 round
+the average regrets are  [44387.01, 44394.48]
+
+after 39800 round
+the average regrets are  [44498.17, 44506.33]
+
+after 39900 round
+the average regrets are  [44610.03, 44617.9]
+
+after 40000 round
+the average regrets are  [44721.49, 44730.04]
+
+after 40100 round
+the average regrets are  [44833.33, 44841.69]
+
+after 40200 round
+the average regrets are  [44944.61, 44953.12]
+
+after 40300 round
+the average regrets are  [45056.21, 45064.57]
+
+after 40400 round
+the average regrets are  [45166.71, 45176.1]
+
+after 40500 round
+the average regrets are  [45278.8, 45287.98]
+
+after 40600 round
+the average regrets are  [45390.7, 45399.83]
+
+after 40700 round
+the average regrets are  [45502.1, 45511.88]
+
+after 40800 round
+the average regrets are  [45613.72, 45622.89]
+
+after 40900 round
+the average regrets are  [45725.43, 45734.59]
+
+after 41000 round
+the average regrets are  [45837.12, 45846.7]
+
+after 41100 round
+the average regrets are  [45949.21, 45958.41]
+
+after 41200 round
+the average regrets are  [46060.53, 46070.15]
+
+after 41300 round
+the average regrets are  [46172.13, 46182.32]
+
+after 41400 round
+the average regrets are  [46283.72, 46293.78]
+
+after 41500 round
+the average regrets are  [46394.92, 46405.65]
+
+after 41600 round
+the average regrets are  [46506.93, 46516.66]
+
+after 41700 round
+the average regrets are  [46618.88, 46628.31]
+
+after 41800 round
+the average regrets are  [46730.3, 46739.53]
+
+after 41900 round
+the average regrets are  [46841.97, 46851.66]
+
+after 42000 round
+the average regrets are  [46953.97, 46963.27]
+
+after 42100 round
+the average regrets are  [47065.69, 47074.42]
+
+after 42200 round
+the average regrets are  [47176.82, 47185.68]
+
+after 42300 round
+the average regrets are  [47288.05, 47298.06]
+
+after 42400 round
+the average regrets are  [47399.59, 47410.41]
+
+after 42500 round
+the average regrets are  [47511.68, 47522.68]
+
+after 42600 round
+the average regrets are  [47623.94, 47634.86]
+
+after 42700 round
+the average regrets are  [47735.18, 47746.56]
+
+after 42800 round
+the average regrets are  [47847.06, 47858.47]
+
+after 42900 round
+the average regrets are  [47958.84, 47970.25]
+
+after 43000 round
+the average regrets are  [48070.64, 48082.35]
+
+after 43100 round
+the average regrets are  [48182.41, 48194.01]
+
+after 43200 round
+the average regrets are  [48293.64, 48306.05]
+
+after 43300 round
+the average regrets are  [48404.86, 48417.7]
+
+after 43400 round
+the average regrets are  [48516.36, 48529.83]
+
+after 43500 round
+the average regrets are  [48627.59, 48641.56]
+
+after 43600 round
+the average regrets are  [48739.51, 48752.68]
+
+after 43700 round
+the average regrets are  [48850.54, 48863.88]
+
+after 43800 round
+the average regrets are  [48962.18, 48975.72]
+
+after 43900 round
+the average regrets are  [49073.09, 49087.32]
+
+after 44000 round
+the average regrets are  [49184.79, 49198.7]
+
+after 44100 round
+the average regrets are  [49296.3, 49310.25]
+
+after 44200 round
+the average regrets are  [49408.01, 49421.92]
+
+after 44300 round
+the average regrets are  [49519.88, 49533.92]
+
+after 44400 round
+the average regrets are  [49632.17, 49645.59]
+
+after 44500 round
+the average regrets are  [49743.75, 49757.55]
+
+after 44600 round
+the average regrets are  [49855.29, 49869.55]
+
+after 44700 round
+the average regrets are  [49967.14, 49981.37]
+
+after 44800 round
+the average regrets are  [50078.8, 50093.26]
+
+after 44900 round
+the average regrets are  [50190.32, 50205.12]
+
+after 45000 round
+the average regrets are  [50301.5, 50317.19]
+
+after 45100 round
+the average regrets are  [50412.67, 50428.86]
+
+after 45200 round
+the average regrets are  [50524.57, 50540.84]
+
+after 45300 round
+the average regrets are  [50636.11, 50651.93]
+
+after 45400 round
+the average regrets are  [50748.54, 50763.68]
+
+after 45500 round
+the average regrets are  [50860.53, 50875.4]
+
+after 45600 round
+the average regrets are  [50971.74, 50987.16]
+
+after 45700 round
+the average regrets are  [51083.67, 51099.66]
+
+after 45800 round
+the average regrets are  [51195.73, 51210.97]
+
+after 45900 round
+the average regrets are  [51307.6, 51323.1]
+
+after 46000 round
+the average regrets are  [51418.91, 51435.06]
+
+after 46100 round
+the average regrets are  [51530.75, 51546.76]
+
+after 46200 round
+the average regrets are  [51642.39, 51658.44]
+
+after 46300 round
+the average regrets are  [51753.99, 51769.95]
+
+after 46400 round
+the average regrets are  [51864.83, 51881.1]
+
+after 46500 round
+the average regrets are  [51976.8, 51992.96]
+
+after 46600 round
+the average regrets are  [52088.46, 52104.58]
+
+after 46700 round
+the average regrets are  [52200.03, 52216.37]
+
+after 46800 round
+the average regrets are  [52311.97, 52327.71]
+
+after 46900 round
+the average regrets are  [52423.29, 52439.92]
+
+after 47000 round
+the average regrets are  [52534.79, 52551.1]
+
+after 47100 round
+the average regrets are  [52646.81, 52663.36]
+
+after 47200 round
+the average regrets are  [52758.69, 52774.83]
+
+after 47300 round
+the average regrets are  [52870.4, 52885.92]
+
+after 47400 round
+the average regrets are  [52981.79, 52997.25]
+
+after 47500 round
+the average regrets are  [53093.14, 53108.83]
+
+after 47600 round
+the average regrets are  [53205.04, 53220.73]
+
+after 47700 round
+the average regrets are  [53316.68, 53333.0]
+
+after 47800 round
+the average regrets are  [53428.16, 53444.36]
+
+after 47900 round
+the average regrets are  [53539.95, 53556.08]
+
+after 48000 round
+the average regrets are  [53651.01, 53668.48]
+
+after 48100 round
+the average regrets are  [53762.07, 53780.13]
+
+after 48200 round
+the average regrets are  [53874.15, 53891.59]
+
+after 48300 round
+the average regrets are  [53986.0, 54003.02]
+
+after 48400 round
+the average regrets are  [54097.81, 54114.47]
+
+after 48500 round
+the average regrets are  [54209.02, 54226.17]
+
+after 48600 round
+the average regrets are  [54320.23, 54337.89]
+
+after 48700 round
+the average regrets are  [54431.81, 54449.66]
+
+after 48800 round
+the average regrets are  [54543.0, 54561.25]
+
+after 48900 round
+the average regrets are  [54654.5, 54672.9]
+
+after 49000 round
+the average regrets are  [54766.27, 54784.25]
+
+after 49100 round
+the average regrets are  [54878.55, 54896.34]
+
+after 49200 round
+the average regrets are  [54990.43, 55008.08]
+
+after 49300 round
+the average regrets are  [55102.65, 55119.4]
+
+after 49400 round
+the average regrets are  [55214.98, 55231.74]
+
+after 49500 round
+the average regrets are  [55326.29, 55343.78]
+
+after 49600 round
+the average regrets are  [55438.23, 55455.19]
+
+after 49700 round
+the average regrets are  [55549.66, 55566.13]
+
+after 49800 round
+the average regrets are  [55661.24, 55677.18]
+
+after 49900 round
+the average regrets are  [55773.47, 55789.28]
+
+after 50000 round
+the average regrets are  [55885.43, 55900.61]
+
+after 50100 round
+the average regrets are  [55996.82, 56012.13]
+
+after 50200 round
+the average regrets are  [56108.58, 56124.03]
+
+after 50300 round
+the average regrets are  [56220.54, 56236.53]
+
+after 50400 round
+the average regrets are  [56332.25, 56348.21]
+
+after 50500 round
+the average regrets are  [56443.95, 56460.15]
+
+after 50600 round
+the average regrets are  [56555.69, 56572.0]
+
+after 50700 round
+the average regrets are  [56667.37, 56683.91]
+
+after 50800 round
+the average regrets are  [56778.88, 56795.6]
+
+after 50900 round
+the average regrets are  [56890.71, 56907.55]
+
+after 51000 round
+the average regrets are  [57002.91, 57019.08]
+
+after 51100 round
+the average regrets are  [57114.79, 57130.7]
+
+after 51200 round
+the average regrets are  [57225.8, 57242.59]
+
+after 51300 round
+the average regrets are  [57337.67, 57355.0]
+
+after 51400 round
+the average regrets are  [57449.59, 57466.88]
+
+after 51500 round
+the average regrets are  [57561.31, 57578.08]
+
+after 51600 round
+the average regrets are  [57672.67, 57689.64]
+
+after 51700 round
+the average regrets are  [57783.97, 57800.71]
+
+after 51800 round
+the average regrets are  [57895.67, 57912.67]
+
+after 51900 round
+the average regrets are  [58007.33, 58024.58]
+
+after 52000 round
+the average regrets are  [58118.73, 58136.6]
+
+after 52100 round
+the average regrets are  [58230.04, 58248.65]
+
+after 52200 round
+the average regrets are  [58341.9, 58360.37]
+
+after 52300 round
+the average regrets are  [58453.54, 58472.12]
+
+after 52400 round
+the average regrets are  [58565.42, 58584.07]
+
+after 52500 round
+the average regrets are  [58677.02, 58695.88]
+
+after 52600 round
+the average regrets are  [58788.24, 58807.92]
+
+after 52700 round
+the average regrets are  [58899.93, 58919.85]
+
+after 52800 round
+the average regrets are  [59011.23, 59031.24]
+
+after 52900 round
+the average regrets are  [59122.9, 59143.3]
+
+after 53000 round
+the average regrets are  [59234.29, 59255.56]
+
+after 53100 round
+the average regrets are  [59346.51, 59366.53]
+
+after 53200 round
+the average regrets are  [59458.08, 59478.45]
+
+after 53300 round
+the average regrets are  [59570.57, 59589.82]
+
+after 53400 round
+the average regrets are  [59682.65, 59701.61]
+
+after 53500 round
+the average regrets are  [59794.2, 59813.59]
+
+after 53600 round
+the average regrets are  [59905.48, 59925.74]
+
+after 53700 round
+the average regrets are  [60016.97, 60037.13]
+
+after 53800 round
+the average regrets are  [60128.59, 60148.52]
+
+after 53900 round
+the average regrets are  [60240.04, 60259.98]
+
+after 54000 round
+the average regrets are  [60351.66, 60372.18]
+
+after 54100 round
+the average regrets are  [60463.48, 60483.45]
+
+after 54200 round
+the average regrets are  [60574.69, 60595.05]
+
+after 54300 round
+the average regrets are  [60686.32, 60706.25]
+
+after 54400 round
+the average regrets are  [60798.22, 60817.73]
+
+after 54500 round
+the average regrets are  [60909.6, 60929.39]
+
+after 54600 round
+the average regrets are  [61021.33, 61041.45]
+
+after 54700 round
+the average regrets are  [61132.95, 61153.15]
+
+after 54800 round
+the average regrets are  [61244.73, 61264.82]
+
+after 54900 round
+the average regrets are  [61355.74, 61376.28]
+
+after 55000 round
+the average regrets are  [61467.6, 61488.31]
+
+after 55100 round
+the average regrets are  [61578.59, 61600.43]
+
+after 55200 round
+the average regrets are  [61690.85, 61712.54]
+
+after 55300 round
+the average regrets are  [61802.32, 61823.53]
+
+after 55400 round
+the average regrets are  [61914.7, 61935.8]
+
+after 55500 round
+the average regrets are  [62025.87, 62047.65]
+
+after 55600 round
+the average regrets are  [62136.86, 62158.89]
+
+after 55700 round
+the average regrets are  [62248.5, 62271.23]
+
+after 55800 round
+the average regrets are  [62360.07, 62383.31]
+
+after 55900 round
+the average regrets are  [62471.55, 62495.42]
+
+after 56000 round
+the average regrets are  [62582.62, 62606.51]
+
+after 56100 round
+the average regrets are  [62694.25, 62717.98]
+
+after 56200 round
+the average regrets are  [62805.7, 62829.54]
+
+after 56300 round
+the average regrets are  [62917.36, 62941.03]
+
+after 56400 round
+the average regrets are  [63029.03, 63052.69]
+
+after 56500 round
+the average regrets are  [63140.17, 63164.04]
+
+after 56600 round
+the average regrets are  [63251.92, 63275.91]
+
+after 56700 round
+the average regrets are  [63363.87, 63387.57]
+
+after 56800 round
+the average regrets are  [63475.5, 63498.8]
+
+after 56900 round
+the average regrets are  [63586.68, 63610.41]
+
+after 57000 round
+the average regrets are  [63698.85, 63721.59]
+
+after 57100 round
+the average regrets are  [63809.97, 63833.1]
+
+after 57200 round
+the average regrets are  [63922.17, 63944.5]
+
+after 57300 round
+the average regrets are  [64033.84, 64056.38]
+
+after 57400 round
+the average regrets are  [64145.48, 64168.27]
+
+after 57500 round
+the average regrets are  [64256.58, 64280.33]
+
+after 57600 round
+the average regrets are  [64368.04, 64391.96]
+
+after 57700 round
+the average regrets are  [64479.53, 64504.04]
+
+after 57800 round
+the average regrets are  [64591.44, 64615.92]
+
+after 57900 round
+the average regrets are  [64702.62, 64727.83]
+
+after 58000 round
+the average regrets are  [64814.33, 64839.85]
+
+after 58100 round
+the average regrets are  [64925.81, 64951.63]
+
+after 58200 round
+the average regrets are  [65037.96, 65063.45]
+
+after 58300 round
+the average regrets are  [65150.18, 65175.07]
+
+after 58400 round
+the average regrets are  [65261.66, 65287.16]
+
+after 58500 round
+the average regrets are  [65373.32, 65398.95]
+
+after 58600 round
+the average regrets are  [65485.01, 65510.36]
+
+after 58700 round
+the average regrets are  [65596.49, 65622.54]
+
+after 58800 round
+the average regrets are  [65708.06, 65733.67]
+
+after 58900 round
+the average regrets are  [65820.15, 65844.77]
+
+after 59000 round
+the average regrets are  [65931.43, 65956.16]
+
+after 59100 round
+the average regrets are  [66043.07, 66067.51]
+
+after 59200 round
+the average regrets are  [66153.95, 66179.17]
+
+after 59300 round
+the average regrets are  [66265.29, 66290.96]
+
+after 59400 round
+the average regrets are  [66376.66, 66402.53]
+
+after 59500 round
+the average regrets are  [66488.85, 66514.39]
+
+after 59600 round
+the average regrets are  [66599.98, 66626.36]
+
+after 59700 round
+the average regrets are  [66711.66, 66738.63]
+
+after 59800 round
+the average regrets are  [66823.55, 66850.56]
+
+after 59900 round
+the average regrets are  [66934.94, 66962.08]
+
+after 60000 round
+the average regrets are  [67046.36, 67073.91]
+
+after 60100 round
+the average regrets are  [67158.02, 67185.45]
+
+after 60200 round
+the average regrets are  [67269.96, 67296.81]
+
+after 60300 round
+the average regrets are  [67381.54, 67408.4]
+
+after 60400 round
+the average regrets are  [67493.13, 67519.63]
+
+after 60500 round
+the average regrets are  [67604.83, 67631.4]
+
+after 60600 round
+the average regrets are  [67716.67, 67742.82]
+
+after 60700 round
+the average regrets are  [67828.04, 67854.55]
+
+after 60800 round
+the average regrets are  [67939.82, 67965.75]
+
+after 60900 round
+the average regrets are  [68051.3, 68077.74]
+
+after 61000 round
+the average regrets are  [68163.07, 68189.38]
+
+after 61100 round
+the average regrets are  [68274.89, 68301.17]
+
+after 61200 round
+the average regrets are  [68386.71, 68412.99]
+
+after 61300 round
+the average regrets are  [68497.72, 68525.2]
+
+after 61400 round
+the average regrets are  [68609.9, 68636.77]
+
+after 61500 round
+the average regrets are  [68721.75, 68748.53]
+
+after 61600 round
+the average regrets are  [68833.76, 68859.8]
+
+after 61700 round
+the average regrets are  [68945.61, 68971.72]
+
+after 61800 round
+the average regrets are  [69056.78, 69083.71]
+
+after 61900 round
+the average regrets are  [69167.65, 69195.03]
+
+after 62000 round
+the average regrets are  [69279.01, 69306.77]
+
+after 62100 round
+the average regrets are  [69390.39, 69418.58]
+
+after 62200 round
+the average regrets are  [69501.89, 69530.11]
+
+after 62300 round
+the average regrets are  [69613.88, 69642.22]
+
+after 62400 round
+the average regrets are  [69725.87, 69753.9]
+
+after 62500 round
+the average regrets are  [69837.64, 69865.67]
+
+after 62600 round
+the average regrets are  [69949.28, 69976.93]
+
+after 62700 round
+the average regrets are  [70061.12, 70088.59]
+
+after 62800 round
+the average regrets are  [70172.87, 70199.91]
+
+after 62900 round
+the average regrets are  [70284.33, 70311.85]
+
+after 63000 round
+the average regrets are  [70396.38, 70423.52]
+
+after 63100 round
+the average regrets are  [70508.49, 70535.8]
+
+after 63200 round
+the average regrets are  [70620.07, 70647.45]
+
+after 63300 round
+the average regrets are  [70731.8, 70758.88]
+
+after 63400 round
+the average regrets are  [70843.37, 70871.19]
+
+after 63500 round
+the average regrets are  [70955.09, 70982.83]
+
+after 63600 round
+the average regrets are  [71066.64, 71094.43]
+
+after 63700 round
+the average regrets are  [71178.2, 71206.07]
+
+after 63800 round
+the average regrets are  [71289.67, 71318.19]
+
+after 63900 round
+the average regrets are  [71401.02, 71429.88]
+
+after 64000 round
+the average regrets are  [71512.6, 71541.71]
+
+after 64100 round
+the average regrets are  [71623.94, 71653.28]
+
+after 64200 round
+the average regrets are  [71735.89, 71765.5]
+
+after 64300 round
+the average regrets are  [71847.17, 71877.2]
+
+after 64400 round
+the average regrets are  [71958.45, 71988.88]
+
+after 64500 round
+the average regrets are  [72069.72, 72100.46]
+
+after 64600 round
+the average regrets are  [72181.57, 72212.25]
+
+after 64700 round
+the average regrets are  [72293.29, 72324.36]
+
+after 64800 round
+the average regrets are  [72405.16, 72436.48]
+
+after 64900 round
+the average regrets are  [72516.92, 72547.48]
+
+after 65000 round
+the average regrets are  [72628.97, 72659.24]
+
+after 65100 round
+the average regrets are  [72740.49, 72771.42]
+
+after 65200 round
+the average regrets are  [72852.88, 72883.06]
+
+after 65300 round
+the average regrets are  [72964.41, 72994.55]
+
+after 65400 round
+the average regrets are  [73075.75, 73105.78]
+
+after 65500 round
+the average regrets are  [73187.67, 73217.78]
+
+after 65600 round
+the average regrets are  [73299.42, 73329.71]
+
+after 65700 round
+the average regrets are  [73410.22, 73441.17]
+
+after 65800 round
+the average regrets are  [73522.45, 73553.01]
+
+after 65900 round
+the average regrets are  [73634.14, 73664.76]
+
+after 66000 round
+the average regrets are  [73745.88, 73776.14]
+
+after 66100 round
+the average regrets are  [73857.16, 73887.58]
+
+after 66200 round
+the average regrets are  [73968.81, 73998.8]
+
+after 66300 round
+the average regrets are  [74080.48, 74110.08]
+
+after 66400 round
+the average regrets are  [74192.3, 74221.75]
+
+after 66500 round
+the average regrets are  [74304.39, 74333.48]
+
+after 66600 round
+the average regrets are  [74416.21, 74444.83]
+
+after 66700 round
+the average regrets are  [74528.22, 74556.08]
+
+after 66800 round
+the average regrets are  [74639.72, 74667.73]
+
+after 66900 round
+the average regrets are  [74752.36, 74778.99]
+
+after 67000 round
+the average regrets are  [74863.85, 74889.97]
+
+after 67100 round
+the average regrets are  [74975.51, 75002.54]
+
+after 67200 round
+the average regrets are  [75087.0, 75114.42]
+
+after 67300 round
+the average regrets are  [75199.04, 75226.15]
+
+after 67400 round
+the average regrets are  [75311.09, 75338.41]
+
+after 67500 round
+the average regrets are  [75422.67, 75449.77]
+
+after 67600 round
+the average regrets are  [75534.31, 75561.37]
+
+after 67700 round
+the average regrets are  [75645.76, 75673.32]
+
+after 67800 round
+the average regrets are  [75757.1, 75785.1]
+
+after 67900 round
+the average regrets are  [75868.54, 75896.6]
+
+after 68000 round
+the average regrets are  [75979.88, 76008.09]
+
+after 68100 round
+the average regrets are  [76091.49, 76119.94]
+
+after 68200 round
+the average regrets are  [76202.86, 76231.8]
+
+after 68300 round
+the average regrets are  [76314.89, 76343.82]
+
+after 68400 round
+the average regrets are  [76425.86, 76455.28]
+
+after 68500 round
+the average regrets are  [76538.02, 76566.68]
+
+after 68600 round
+the average regrets are  [76649.94, 76677.82]
+
+after 68700 round
+the average regrets are  [76761.81, 76789.17]
+
+after 68800 round
+the average regrets are  [76872.89, 76901.36]
+
+after 68900 round
+the average regrets are  [76984.89, 77012.87]
+
+after 69000 round
+the average regrets are  [77097.05, 77124.12]
+
+after 69100 round
+the average regrets are  [77208.6, 77235.92]
+
+after 69200 round
+the average regrets are  [77319.8, 77347.83]
+
+after 69300 round
+the average regrets are  [77431.44, 77459.1]
+
+after 69400 round
+the average regrets are  [77542.84, 77570.7]
+
+after 69500 round
+the average regrets are  [77655.18, 77682.48]
+
+after 69600 round
+the average regrets are  [77767.07, 77793.67]
+
+after 69700 round
+the average regrets are  [77878.52, 77905.09]
+
+after 69800 round
+the average regrets are  [77990.61, 78015.9]
+
+after 69900 round
+the average regrets are  [78102.14, 78127.88]
+
+after 70000 round
+the average regrets are  [78213.53, 78240.26]
+
+after 70100 round
+the average regrets are  [78325.54, 78351.62]
+
+after 70200 round
+the average regrets are  [78436.45, 78463.16]
+
+after 70300 round
+the average regrets are  [78548.02, 78574.8]
+
+after 70400 round
+the average regrets are  [78659.61, 78686.05]
+
+after 70500 round
+the average regrets are  [78771.18, 78798.13]
+
+after 70600 round
+the average regrets are  [78882.77, 78910.59]
+
+after 70700 round
+the average regrets are  [78994.32, 79022.06]
+
+after 70800 round
+the average regrets are  [79105.49, 79133.44]
+
+after 70900 round
+the average regrets are  [79217.36, 79245.48]
+
+after 71000 round
+the average regrets are  [79329.39, 79357.22]
+
+after 71100 round
+the average regrets are  [79441.22, 79468.37]
+
+after 71200 round
+the average regrets are  [79552.75, 79579.63]
+
+after 71300 round
+the average regrets are  [79664.57, 79691.49]
+
+after 71400 round
+the average regrets are  [79776.65, 79803.02]
+
+after 71500 round
+the average regrets are  [79888.27, 79914.23]
+
+after 71600 round
+the average regrets are  [80000.18, 80025.88]
+
+after 71700 round
+the average regrets are  [80112.38, 80137.05]
+
+after 71800 round
+the average regrets are  [80224.29, 80248.83]
+
+after 71900 round
+the average regrets are  [80336.23, 80361.01]
+
+after 72000 round
+the average regrets are  [80447.35, 80472.43]
+
+after 72100 round
+the average regrets are  [80558.9, 80584.19]
+
+after 72200 round
+the average regrets are  [80670.73, 80695.39]
+
+after 72300 round
+the average regrets are  [80782.03, 80807.2]
+
+after 72400 round
+the average regrets are  [80893.55, 80918.58]
+
+after 72500 round
+the average regrets are  [81005.29, 81031.09]
+
+after 72600 round
+the average regrets are  [81117.32, 81142.37]
+
+after 72700 round
+the average regrets are  [81228.62, 81254.04]
+
+after 72800 round
+the average regrets are  [81340.65, 81365.39]
+
+after 72900 round
+the average regrets are  [81452.19, 81476.83]
+
+after 73000 round
+the average regrets are  [81563.93, 81589.17]
+
+after 73100 round
+the average regrets are  [81675.81, 81700.94]
+
+after 73200 round
+the average regrets are  [81787.41, 81812.89]
+
+after 73300 round
+the average regrets are  [81899.37, 81924.8]
+
+after 73400 round
+the average regrets are  [82010.93, 82036.64]
+
+after 73500 round
+the average regrets are  [82122.75, 82147.7]
+
+after 73600 round
+the average regrets are  [82234.78, 82259.09]
+
+after 73700 round
+the average regrets are  [82345.76, 82370.21]
+
+after 73800 round
+the average regrets are  [82457.52, 82481.73]
+
+after 73900 round
+the average regrets are  [82569.32, 82593.33]
+
+after 74000 round
+the average regrets are  [82681.25, 82704.83]
+
+after 74100 round
+the average regrets are  [82792.27, 82815.91]
+
+after 74200 round
+the average regrets are  [82904.2, 82927.76]
+
+after 74300 round
+the average regrets are  [83015.62, 83039.1]
+
+after 74400 round
+the average regrets are  [83126.94, 83150.96]
+
+after 74500 round
+the average regrets are  [83237.8, 83262.47]
+
+after 74600 round
+the average regrets are  [83349.91, 83374.23]
+
+after 74700 round
+the average regrets are  [83462.24, 83485.74]
+
+after 74800 round
+the average regrets are  [83573.99, 83597.18]
+
+after 74900 round
+the average regrets are  [83685.81, 83708.62]
+
+after 75000 round
+the average regrets are  [83797.81, 83819.99]
+
+after 75100 round
+the average regrets are  [83909.41, 83931.82]
+
+after 75200 round
+the average regrets are  [84021.7, 84043.76]
+
+after 75300 round
+the average regrets are  [84133.36, 84155.59]
+
+after 75400 round
+the average regrets are  [84244.99, 84267.39]
+
+after 75500 round
+the average regrets are  [84357.16, 84379.02]
+
+after 75600 round
+the average regrets are  [84468.39, 84490.19]
+
+after 75700 round
+the average regrets are  [84580.52, 84602.73]
+
+after 75800 round
+the average regrets are  [84692.16, 84714.69]
+
+after 75900 round
+the average regrets are  [84803.39, 84826.06]
+
+after 76000 round
+the average regrets are  [84915.0, 84937.35]
+
+after 76100 round
+the average regrets are  [85026.82, 85048.95]
+
+after 76200 round
+the average regrets are  [85138.1, 85160.29]
+
+after 76300 round
+the average regrets are  [85249.5, 85272.16]
+
+after 76400 round
+the average regrets are  [85361.28, 85383.5]
+
+after 76500 round
+the average regrets are  [85472.77, 85494.5]
+
+after 76600 round
+the average regrets are  [85584.59, 85606.15]
+
+after 76700 round
+the average regrets are  [85696.61, 85717.45]
+
+after 76800 round
+the average regrets are  [85808.58, 85829.66]
+
+after 76900 round
+the average regrets are  [85920.09, 85942.08]
+
+after 77000 round
+the average regrets are  [86032.07, 86053.6]
+
+after 77100 round
+the average regrets are  [86143.97, 86165.85]
+
+after 77200 round
+the average regrets are  [86255.56, 86277.65]
+
+after 77300 round
+the average regrets are  [86366.98, 86388.97]
+
+after 77400 round
+the average regrets are  [86478.68, 86500.78]
+
+after 77500 round
+the average regrets are  [86590.24, 86612.49]
+
+after 77600 round
+the average regrets are  [86701.92, 86723.57]
+
+after 77700 round
+the average regrets are  [86813.34, 86835.0]
+
+after 77800 round
+the average regrets are  [86925.16, 86946.39]
+
+after 77900 round
+the average regrets are  [87036.14, 87057.9]
+
+after 78000 round
+the average regrets are  [87147.59, 87169.5]
+
+after 78100 round
+the average regrets are  [87259.74, 87280.92]
+
+after 78200 round
+the average regrets are  [87371.71, 87393.11]
+
+after 78300 round
+the average regrets are  [87483.33, 87504.95]
+
+after 78400 round
+the average regrets are  [87594.49, 87616.59]
+
+after 78500 round
+the average regrets are  [87705.98, 87727.97]
+
+after 78600 round
+the average regrets are  [87817.21, 87839.93]
+
+after 78700 round
+the average regrets are  [87929.22, 87952.15]
+
+after 78800 round
+the average regrets are  [88040.42, 88064.01]
+
+after 78900 round
+the average regrets are  [88151.95, 88175.67]
+
+after 79000 round
+the average regrets are  [88263.34, 88287.24]
+
+after 79100 round
+the average regrets are  [88374.99, 88399.14]
+
+after 79200 round
+the average regrets are  [88486.27, 88510.55]
+
+after 79300 round
+the average regrets are  [88597.62, 88622.18]
+
+after 79400 round
+the average regrets are  [88709.18, 88733.64]
+
+after 79500 round
+the average regrets are  [88821.14, 88844.81]
+
+after 79600 round
+the average regrets are  [88932.47, 88956.18]
+
+after 79700 round
+the average regrets are  [89044.38, 89067.92]
+
+after 79800 round
+the average regrets are  [89155.84, 89179.58]
+
+after 79900 round
+the average regrets are  [89267.39, 89291.35]
+
+after 80000 round
+the average regrets are  [89378.76, 89403.01]
+
+after 80100 round
+the average regrets are  [89490.85, 89514.72]
+
+after 80200 round
+the average regrets are  [89602.35, 89625.95]
+
+after 80300 round
+the average regrets are  [89713.58, 89737.99]
+
+after 80400 round
+the average regrets are  [89825.42, 89849.89]
+
+after 80500 round
+the average regrets are  [89937.38, 89961.51]
+
+after 80600 round
+the average regrets are  [90049.04, 90072.91]
+
+after 80700 round
+the average regrets are  [90160.42, 90184.9]
+
+after 80800 round
+the average regrets are  [90271.88, 90296.27]
+
+after 80900 round
+the average regrets are  [90383.6, 90407.66]
+
+after 81000 round
+the average regrets are  [90495.76, 90519.75]
+
+after 81100 round
+the average regrets are  [90607.05, 90631.9]
+
+after 81200 round
+the average regrets are  [90718.94, 90743.37]
+
+after 81300 round
+the average regrets are  [90830.63, 90854.96]
+
+after 81400 round
+the average regrets are  [90942.2, 90966.05]
+
+after 81500 round
+the average regrets are  [91053.84, 91078.25]
+
+after 81600 round
+the average regrets are  [91165.88, 91189.74]
+
+after 81700 round
+the average regrets are  [91277.42, 91301.32]
+
+after 81800 round
+the average regrets are  [91389.3, 91412.76]
+
+after 81900 round
+the average regrets are  [91501.12, 91523.92]
+
+after 82000 round
+the average regrets are  [91613.09, 91635.54]
+
+after 82100 round
+the average regrets are  [91724.63, 91747.37]
+
+after 82200 round
+the average regrets are  [91836.17, 91858.97]
+
+after 82300 round
+the average regrets are  [91947.98, 91970.94]
+
+after 82400 round
+the average regrets are  [92059.99, 92082.97]
+
+after 82500 round
+the average regrets are  [92171.79, 92194.86]
+
+after 82600 round
+the average regrets are  [92284.2, 92306.54]
+
+after 82700 round
+the average regrets are  [92395.73, 92418.15]
+
+after 82800 round
+the average regrets are  [92507.61, 92529.3]
+
+after 82900 round
+the average regrets are  [92618.71, 92640.5]
+
+after 83000 round
+the average regrets are  [92730.41, 92752.57]
+
+after 83100 round
+the average regrets are  [92842.48, 92864.26]
+
+after 83200 round
+the average regrets are  [92954.51, 92975.87]
+
+after 83300 round
+the average regrets are  [93065.72, 93087.82]
+
+after 83400 round
+the average regrets are  [93177.38, 93198.93]
+
+after 83500 round
+the average regrets are  [93289.4, 93310.22]
+
+after 83600 round
+the average regrets are  [93401.18, 93422.11]
+
+after 83700 round
+the average regrets are  [93512.77, 93533.53]
+
+after 83800 round
+the average regrets are  [93624.58, 93644.97]
+
+after 83900 round
+the average regrets are  [93736.36, 93756.97]
+
+after 84000 round
+the average regrets are  [93848.25, 93868.49]
+
+after 84100 round
+the average regrets are  [93959.8, 93980.48]
+
+after 84200 round
+the average regrets are  [94071.06, 94091.98]
+
+after 84300 round
+the average regrets are  [94182.25, 94203.88]
+
+after 84400 round
+the average regrets are  [94293.72, 94315.27]
+
+after 84500 round
+the average regrets are  [94404.04, 94426.63]
+
+after 84600 round
+the average regrets are  [94516.06, 94537.95]
+
+after 84700 round
+the average regrets are  [94627.78, 94649.78]
+
+after 84800 round
+the average regrets are  [94738.5, 94761.41]
+
+after 84900 round
+the average regrets are  [94850.01, 94873.25]
+
+after 85000 round
+the average regrets are  [94961.38, 94984.7]
+
+after 85100 round
+the average regrets are  [95073.25, 95096.46]
+
+after 85200 round
+the average regrets are  [95185.04, 95208.43]
+
+after 85300 round
+the average regrets are  [95297.04, 95320.09]
+
+after 85400 round
+the average regrets are  [95408.64, 95431.83]
+
+after 85500 round
+the average regrets are  [95520.11, 95543.53]
+
+after 85600 round
+the average regrets are  [95632.01, 95655.44]
+
+after 85700 round
+the average regrets are  [95743.46, 95767.5]
+
+after 85800 round
+the average regrets are  [95855.06, 95879.08]
+
+after 85900 round
+the average regrets are  [95966.44, 95990.86]
+
+after 86000 round
+the average regrets are  [96078.14, 96102.58]
+
+after 86100 round
+the average regrets are  [96189.85, 96213.99]
+
+after 86200 round
+the average regrets are  [96301.34, 96325.63]
+
+after 86300 round
+the average regrets are  [96412.43, 96437.11]
+
+after 86400 round
+the average regrets are  [96524.46, 96548.29]
+
+after 86500 round
+the average regrets are  [96636.24, 96659.84]
+
+after 86600 round
+the average regrets are  [96748.1, 96771.55]
+
+after 86700 round
+the average regrets are  [96859.98, 96883.22]
+
+after 86800 round
+the average regrets are  [96972.11, 96994.54]
+
+after 86900 round
+the average regrets are  [97083.73, 97106.5]
+
+after 87000 round
+the average regrets are  [97195.61, 97218.16]
+
+after 87100 round
+the average regrets are  [97307.31, 97329.73]
+
+after 87200 round
+the average regrets are  [97419.42, 97441.33]
+
+after 87300 round
+the average regrets are  [97531.07, 97552.62]
+
+after 87400 round
+the average regrets are  [97643.02, 97664.07]
+
+after 87500 round
+the average regrets are  [97755.35, 97775.68]
+
+after 87600 round
+the average regrets are  [97866.54, 97888.12]
+
+after 87700 round
+the average regrets are  [97978.72, 97999.95]
+
+after 87800 round
+the average regrets are  [98090.71, 98111.24]
+
+after 87900 round
+the average regrets are  [98202.37, 98222.92]
+
+after 88000 round
+the average regrets are  [98313.69, 98334.62]
+
+after 88100 round
+the average regrets are  [98425.45, 98446.72]
+
+after 88200 round
+the average regrets are  [98537.01, 98558.43]
+
+after 88300 round
+the average regrets are  [98648.69, 98670.15]
+
+after 88400 round
+the average regrets are  [98760.7, 98781.75]
+
+after 88500 round
+the average regrets are  [98872.16, 98893.41]
+
+after 88600 round
+the average regrets are  [98983.31, 99004.84]
+
+after 88700 round
+the average regrets are  [99094.76, 99116.16]
+
+after 88800 round
+the average regrets are  [99206.73, 99227.65]
+
+after 88900 round
+the average regrets are  [99318.46, 99339.6]
+
+after 89000 round
+the average regrets are  [99430.07, 99451.45]
+
+after 89100 round
+the average regrets are  [99541.6, 99562.76]
+
+after 89200 round
+the average regrets are  [99653.01, 99674.7]
+
+after 89300 round
+the average regrets are  [99764.62, 99786.18]
+
+after 89400 round
+the average regrets are  [99875.92, 99897.51]
+
+after 89500 round
+the average regrets are  [99987.95, 100009.43]
+
+after 89600 round
+the average regrets are  [100098.94, 100120.81]
+
+after 89700 round
+the average regrets are  [100210.27, 100232.78]
+
+after 89800 round
+the average regrets are  [100321.72, 100344.34]
+
+after 89900 round
+the average regrets are  [100433.81, 100455.7]
+
+after 90000 round
+the average regrets are  [100545.2, 100566.84]
+
+after 90100 round
+the average regrets are  [100657.17, 100678.8]
+
+after 90200 round
+the average regrets are  [100769.44, 100791.03]
+
+after 90300 round
+the average regrets are  [100881.07, 100902.55]
+
+after 90400 round
+the average regrets are  [100992.84, 101014.47]
+
+after 90500 round
+the average regrets are  [101104.68, 101125.57]
+
+after 90600 round
+the average regrets are  [101216.16, 101237.45]
+
+after 90700 round
+the average regrets are  [101327.9, 101348.74]
+
+after 90800 round
+the average regrets are  [101439.55, 101460.43]
+
+after 90900 round
+the average regrets are  [101551.13, 101572.58]
+
+after 91000 round
+the average regrets are  [101662.71, 101684.53]
+
+after 91100 round
+the average regrets are  [101774.83, 101795.92]
+
+after 91200 round
+the average regrets are  [101886.34, 101907.68]
+
+after 91300 round
+the average regrets are  [101998.13, 102019.88]
+
+after 91400 round
+the average regrets are  [102109.65, 102131.79]
+
+after 91500 round
+the average regrets are  [102221.32, 102243.48]
+
+after 91600 round
+the average regrets are  [102333.11, 102354.83]
+
+after 91700 round
+the average regrets are  [102444.88, 102466.35]
+
+after 91800 round
+the average regrets are  [102556.14, 102577.8]
+
+after 91900 round
+the average regrets are  [102667.96, 102689.33]
+
+after 92000 round
+the average regrets are  [102779.06, 102801.41]
+
+after 92100 round
+the average regrets are  [102890.58, 102913.64]
+
+after 92200 round
+the average regrets are  [103002.78, 103025.59]
+
+after 92300 round
+the average regrets are  [103114.29, 103137.28]
+
+after 92400 round
+the average regrets are  [103226.11, 103249.43]
+
+after 92500 round
+the average regrets are  [103337.2, 103360.58]
+
+after 92600 round
+the average regrets are  [103448.91, 103472.48]
+
+after 92700 round
+the average regrets are  [103560.8, 103583.74]
+
+after 92800 round
+the average regrets are  [103672.56, 103695.34]
+
+after 92900 round
+the average regrets are  [103784.16, 103807.25]
+
+after 93000 round
+the average regrets are  [103895.98, 103919.05]
+
+after 93100 round
+the average regrets are  [104008.15, 104030.95]
+
+after 93200 round
+the average regrets are  [104119.55, 104142.34]
+
+after 93300 round
+the average regrets are  [104231.93, 104253.89]
+
+after 93400 round
+the average regrets are  [104343.45, 104365.21]
+
+after 93500 round
+the average regrets are  [104455.1, 104476.94]
+
+after 93600 round
+the average regrets are  [104567.11, 104588.9]
+
+after 93700 round
+the average regrets are  [104679.29, 104700.53]
+
+after 93800 round
+the average regrets are  [104790.99, 104812.31]
+
+after 93900 round
+the average regrets are  [104902.08, 104924.24]
+
+after 94000 round
+the average regrets are  [105013.39, 105035.47]
+
+after 94100 round
+the average regrets are  [105125.01, 105147.38]
+
+after 94200 round
+the average regrets are  [105236.98, 105259.19]
+
+after 94300 round
+the average regrets are  [105348.45, 105370.87]
+
+after 94400 round
+the average regrets are  [105460.4, 105482.5]
+
+after 94500 round
+the average regrets are  [105572.08, 105594.28]
+
+after 94600 round
+the average regrets are  [105684.27, 105705.96]
+
+after 94700 round
+the average regrets are  [105795.65, 105817.37]
+
+after 94800 round
+the average regrets are  [105907.51, 105929.44]
+
+after 94900 round
+the average regrets are  [106019.17, 106041.23]
+
+after 95000 round
+the average regrets are  [106131.45, 106152.66]
+
+after 95100 round
+the average regrets are  [106242.62, 106264.64]
+
+after 95200 round
+the average regrets are  [106354.09, 106376.45]
+
+after 95300 round
+the average regrets are  [106466.11, 106488.02]
+
+after 95400 round
+the average regrets are  [106577.47, 106600.33]
+
+after 95500 round
+the average regrets are  [106689.33, 106712.38]
+
+after 95600 round
+the average regrets are  [106801.7, 106824.15]
+
+after 95700 round
+the average regrets are  [106913.38, 106935.7]
+
+after 95800 round
+the average regrets are  [107024.67, 107047.62]
+
+after 95900 round
+the average regrets are  [107136.06, 107158.49]
+
+after 96000 round
+the average regrets are  [107247.88, 107270.7]
+
+after 96100 round
+the average regrets are  [107359.31, 107382.73]
+
+after 96200 round
+the average regrets are  [107471.16, 107494.42]
+
+after 96300 round
+the average regrets are  [107582.86, 107606.1]
+
+after 96400 round
+the average regrets are  [107694.58, 107717.42]
+
+after 96500 round
+the average regrets are  [107806.04, 107828.97]
+
+after 96600 round
+the average regrets are  [107917.44, 107940.43]
+
+after 96700 round
+the average regrets are  [108028.8, 108052.12]
+
+after 96800 round
+the average regrets are  [108139.6, 108163.8]
+
+after 96900 round
+the average regrets are  [108251.11, 108275.09]
+
+after 97000 round
+the average regrets are  [108362.86, 108387.13]
+
+after 97100 round
+the average regrets are  [108474.36, 108498.37]
+
+after 97200 round
+the average regrets are  [108586.38, 108609.98]
+
+after 97300 round
+the average regrets are  [108698.03, 108722.36]
+
+after 97400 round
+the average regrets are  [108810.07, 108834.03]
+
+after 97500 round
+the average regrets are  [108921.23, 108945.53]
+
+after 97600 round
+the average regrets are  [109033.11, 109057.14]
+
+after 97700 round
+the average regrets are  [109144.44, 109168.3]
+
+after 97800 round
+the average regrets are  [109255.8, 109279.61]
+
+after 97900 round
+the average regrets are  [109367.68, 109391.68]
+
+after 98000 round
+the average regrets are  [109479.06, 109503.27]
+
+after 98100 round
+the average regrets are  [109591.28, 109614.98]
+
+after 98200 round
+the average regrets are  [109703.27, 109726.58]
+
+after 98300 round
+the average regrets are  [109814.61, 109838.26]
+
+after 98400 round
+the average regrets are  [109926.28, 109949.81]
+
+after 98500 round
+the average regrets are  [110037.75, 110061.36]
+
+after 98600 round
+the average regrets are  [110150.0, 110173.4]
+
+after 98700 round
+the average regrets are  [110261.33, 110284.96]
+
+after 98800 round
+the average regrets are  [110373.14, 110396.77]
+
+after 98900 round
+the average regrets are  [110484.83, 110508.21]
+
+after 99000 round
+the average regrets are  [110596.97, 110619.42]
+
+after 99100 round
+the average regrets are  [110708.24, 110730.99]
+
+after 99200 round
+the average regrets are  [110819.73, 110842.82]
+
+after 99300 round
+the average regrets are  [110930.69, 110954.95]
+
+after 99400 round
+the average regrets are  [111042.66, 111066.67]
+
+after 99500 round
+the average regrets are  [111154.69, 111178.67]
+
+after 99600 round
+the average regrets are  [111266.04, 111290.08]
+
+after 99700 round
+the average regrets are  [111377.02, 111401.84]
+
+after 99800 round
+the average regrets are  [111488.84, 111512.93]
+
+after 99900 round
+the average regrets are  [111600.32, 111624.98]
+
+after 100000 round
+the average regrets are  [111712.54, 111736.57]
+
