@@ -1,0 +1,93 @@
+%
+% CSE Electronic Homework Template
+% Last modified 8/23/2018 by Jeremy Buhler
+
+% \documentclass[11pt]{article}
+\documentclass[fleqn]{article}
+
+\usepackage[left=0.7in,right=0.7in,top=1in,bottom=0.7in]{geometry}
+\usepackage{fancyhdr} % for header
+\usepackage{graphicx} % for figures
+\usepackage{amsmath}  % for extended math markup
+\usepackage{amssymb}
+\usepackage[bookmarks=false]{hyperref} % for URL embedding
+\usepackage[noend]{algpseudocode} % for pseudocode
+\usepackage[plain]{algorithm} % float environment for algorithms
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% STUDENT: modify the following fields to reflect your
+% name/ID, the current homework, and the current problem number
+
+% Example: 
+%\newcommand{\StudentName}{Jeremy Buhler}
+%\newcommand{\StudentID{123456}
+
+\newcommand{\StudentName}{Tiancheng He}
+\newcommand{\StudentID}{467513}
+\newcommand{\HomeworkNumber}{2}
+\newcommand{\WustlKey}{tiancheng}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% You can pretty much leave the stuff up to the next line of %%'s alone.
+
+% create header and footer for every page
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\textbf{\StudentName}}
+\chead{\textbf{\StudentID} }
+\rhead{\textbf{wustlkey: \WustlKey}}
+\cfoot{\thepage}
+
+% preferred pseudocode style
+\algrenewcommand{\algorithmicprocedure}{}
+\algrenewcommand{\algorithmicthen}{}
+
+% ``do { ... } while (cond)''
+\algdef{SE}[DOWHILE]{Do}{doWhile}{\algorithmicdo}[1]{\algorithmicwhile\ #1}%
+
+% ``for (x in y ... z)''
+\newcommand{\ForRange}[3]{\For{#1 \textbf{in} #2 \ \ldots \ #3}}
+
+% these are common math formatting commands that aren't defined by default
+\newcommand{\union}{\cup}
+\newcommand{\isect}{\cap}
+\newcommand{\ceil}[1]{\ensuremath \left\lceil #1 \right\rceil}
+\newcommand{\floor}[1]{\ensuremath \left\lfloor #1 \right\rfloor}
+
+
+%amsfonts give blackboard bold:
+\def\AA{{\mathbb A}}\def\BB{{\mathbb B}}\def\CC{{\mathbb C}}
+\def\DD{{\mathbb D}}\def\EE{{\mathbb E}}\def\FF{{\mathbb F}}
+\def\GG{{\mathbb G}}\def\HH{{\mathbb H}}\def\II{{\mathbb I}}
+\def\JJ{{\mathbb J}}\def\KK{{\mathbb K}}\def\LL{{\mathbb L}}
+\def\MM{{\mathbb M}}\def\NN{{\mathbb N}}\def\OO{{\mathbb O}}
+\def\PP{{\mathbb P}}\def\QQ{{\mathbb Q}}\def\RR{{\mathbb R}}
+\def\SS{{\mathbb S}}\def\TT{{\mathbb T}}\def\UU{{\mathbb U}}
+\def\VV{{\mathbb V}}\def\WW{{\mathbb W}}\def\XX{{\mathbb X}}
+\def\YY{{\mathbb Y}}\def\ZZ{{\mathbb Z}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+% STUDENT: Your text goes here!
+Setting:
+
+Best arm $arm_1\sim\text{Bernoulli}(\mu_1)$. Pulled $m$ times. Success: $a_1$. Fail: $b_1$. $a_1+b_1=m$
+
+Second best arm $arm_2\sim\text{Bernoulli}(\mu_2)$. Pulled $n$ times. Success: $a_2$. Fail: $b_2$. $a_2+b_2=n$
+\medskip
+
+So, new samples will be $u_1\sim\text{Beta}(a_1,b_1), u_2\sim\text{Beta}(a_2,b_2)$. 
+\bigskip
+
+According to a close form derived by Evan Miller, 
+
+\[
+\PP(u_1>u_2) = \sum\limits_{i=0}^{a_1-1}\frac{B(a_2+i, b_1+b_2)}{(b_1+i)B(1+i,b_1)B(a_2,b_2)}
+\]
+
+The monotonicity is not obvious. I tried 3 methods. They all end up with some form $\int f(a_2)g(a1,b1,b2)$ where $f(a_2)$ is not always greater or less than 1.
+
+\end{document}
+
+

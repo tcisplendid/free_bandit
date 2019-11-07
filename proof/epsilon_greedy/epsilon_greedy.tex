@@ -1,0 +1,144 @@
+%
+% CSE Electronic Homework Template
+% Last modified 8/23/2018 by Jeremy Buhler
+
+% \documentclass[11pt]{article}
+\documentclass[fleqn]{article}
+
+\usepackage[left=0.7in,right=0.7in,top=1in,bottom=0.7in]{geometry}
+\usepackage{fancyhdr} % for header
+\usepackage{graphicx} % for figures
+\usepackage{amsmath}  % for extended math markup
+\usepackage{amssymb}
+\usepackage[bookmarks=false]{hyperref} % for URL embedding
+\usepackage[noend]{algpseudocode} % for pseudocode
+\usepackage[plain]{algorithm} % float environment for algorithms
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% STUDENT: modify the following fields to reflect your
+% name/ID, the current homework, and the current problem number
+
+% Example: 
+%\newcommand{\StudentName}{Jeremy Buhler}
+%\newcommand{\StudentID{123456}
+
+\newcommand{\StudentName}{Tiancheng He}
+\newcommand{\StudentID}{467513}
+\newcommand{\HomeworkNumber}{2}
+\newcommand{\WustlKey}{tiancheng}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% You can pretty much leave the stuff up to the next line of %%'s alone.
+
+% create header and footer for every page
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\textbf{\StudentName}}
+\chead{\textbf{\StudentID} }
+\rhead{\textbf{wustlkey: \WustlKey}}
+\cfoot{\thepage}
+
+% preferred pseudocode style
+\algrenewcommand{\algorithmicprocedure}{}
+\algrenewcommand{\algorithmicthen}{}
+
+% ``do { ... } while (cond)''
+\algdef{SE}[DOWHILE]{Do}{doWhile}{\algorithmicdo}[1]{\algorithmicwhile\ #1}%
+
+% ``for (x in y ... z)''
+\newcommand{\ForRange}[3]{\For{#1 \textbf{in} #2 \ \ldots \ #3}}
+
+% these are common math formatting commands that aren't defined by default
+\newcommand{\union}{\cup}
+\newcommand{\isect}{\cap}
+\newcommand{\ceil}[1]{\ensuremath \left\lceil #1 \right\rceil}
+\newcommand{\floor}[1]{\ensuremath \left\lfloor #1 \right\rfloor}
+
+
+%amsfonts give blackboard bold:
+\def\AA{{\mathbb A}}\def\BB{{\mathbb B}}\def\CC{{\mathbb C}}
+\def\DD{{\mathbb D}}\def\EE{{\mathbb E}}\def\FF{{\mathbb F}}
+\def\GG{{\mathbb G}}\def\HH{{\mathbb H}}\def\II{{\mathbb I}}
+\def\JJ{{\mathbb J}}\def\KK{{\mathbb K}}\def\LL{{\mathbb L}}
+\def\MM{{\mathbb M}}\def\NN{{\mathbb N}}\def\OO{{\mathbb O}}
+\def\PP{{\mathbb P}}\def\QQ{{\mathbb Q}}\def\RR{{\mathbb R}}
+\def\SS{{\mathbb S}}\def\TT{{\mathbb T}}\def\UU{{\mathbb U}}
+\def\VV{{\mathbb V}}\def\WW{{\mathbb W}}\def\XX{{\mathbb X}}
+\def\YY{{\mathbb Y}}\def\ZZ{{\mathbb Z}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+% STUDENT: Your text goes here!
+1. About $\PP(\hat{\mu_1}>\hat{\mu_2})$
+\medskip
+
+Setting:
+
+Best arm $a_1\sim\mathcal{N}(\mu_1, \sigma^2)$. Pulled $m$ times.
+
+Second best arm $a_2\sim\mathcal{N}(\mu_2, \sigma^2)$. Pulled $n$ times.
+\medskip
+
+So,
+
+Estimation $\hat{\mu_1}\sim\mathcal{N}(\mu_1, \frac{\sigma^2}{m})$.
+
+Estimation $\hat{\mu_2}\sim\mathcal{N}(\mu_2, \frac{\sigma^2}{n})$
+\medskip
+
+Set $\Delta=\mu_1-\mu_2>0$, 
+
+$s^2=\frac{1}{m}+\frac{1}{n}$,
+
+$X=\hat{\mu_1}-\hat{\mu_2}\sim\mathcal{N}(\mu_1-\mu_2, \frac{\sigma^2}{m}+\frac{\sigma^2}{n})=\mathcal{N}(\Delta, (\sigma s)^2)$,
+
+$\Phi(x)$ as the CDF for standard Gaussian distribution.
+\medskip
+
+So, 
+
+\begin{align*}
+\PP(\hat{\mu_1}>\hat{\mu_2}) &= \PP(X>0)\\
+ &= 1-\PP(X\le 0)\\
+ &= 1-\PP(\frac{X-\Delta}{\sigma s}\le -\frac{\Delta}{\sigma s})\hspace{1cm}\text{where $\frac{X-\Delta}{\sigma s}\sim \mathcal{N}(0,1)$}\\
+ &=1-\Phi(-\frac{\Delta}{\sigma s})
+\end{align*}
+
+\begin{align*} 
+n \nearrow \Rightarrow s \searrow \Rightarrow -\frac{\Delta}{\sigma s} \searrow \Rightarrow \Phi(-\frac{\Delta}{\sigma s}) \searrow \Rightarrow \PP(\hat{\mu_1}>\hat{\mu_2}) \nearrow
+\end{align*} 
+
+When $n$ increases, $\PP(\hat{\mu_1}>\hat{\mu_2})$ increases monotonously.  
+\bigskip
+
+2. Thought
+\medskip
+
+Although more singals increase the probability to choose the best arm at certain round, the events of $\hat{\mu_1}<\hat{\mu_2}$ are more serious. It's harder to recover just by pulling $a_2$ more.
+
+Instead we should consider how long it will take to achieve $\hat{\mu_1}>\hat{\mu_2}$. For example, given $\hat{\mu_1}$ and $\hat{\mu_2}$. Denote $Y_n(\hat{\mu_1})$ as the estimation of $a_2$'s mean after $n$ rounds. The rounds it takes to recover might be 
+
+% \begin{equation}
+% \EE[\hat{\mu_1}>\hat{\mu_2} \ \text{after $n$ rounds}] = \mathop{\Sigma}_{n=1}^{\infty}n\cdot\PP(\hat{\mu_1}>Y_n, \hat{\mu_1}<\mathop{\min}_{i<n}(Y_i))
+% \end{equation}
+\bigskip
+
+3. Formulation attempt
+\medskip
+
+Set estimation of $\hat{\mu}_1$ $\hat{\mu}_2$ after $t$ rounds as $\hat{\mu}_1^t$ and $\hat{\mu}_2^t$. They are pulled $m^t$ and $n^t$ times.
+
+So, 
+
+\begin{align*}
+\PP(\hat{\mu}_1^t>\hat{\mu}_2^t) &= \PP(\hat{\mu}_1^t>\hat{\mu}_2^t|\hat{\mu}_1^{t-1}>\hat{\mu}_2^{t-1})\PP(\hat{\mu}_1^{t-1}>\hat{\mu}_2^{t-1})+\PP(\hat{\mu}_1^t>\hat{\mu}_2^t|\hat{\mu}_1^{t-1}\leq\hat{\mu}_2^{t-1})\PP(\hat{\mu}_1^{t-1}\leq\hat{\mu}_2^{t-1})
+\end{align*}
+
+If $\hat{\mu}_1^{t-1}>\hat{\mu}_2^{t-1}$, arm $a_1$ is chosen last round. Then $m=m^{t-1}+1$ in computing $\PP(\hat{\mu}_1^t>\hat{\mu}_2^t|\hat{\mu}_1^{t-1}>\hat{\mu}_2^{t-1})$. Similarly, $n=n^{t-1}+1$ in computing the other condition.
+
+For easier computation, $m^{t}=\EE(m^{t})=m^{t-1}+\PP(\hat{\mu}_1^{t}>\hat{\mu}_2^{t})$
+
+\end{document}
+
+
