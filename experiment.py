@@ -85,7 +85,7 @@ if __name__ == "__main__":
     experiment_options = {
         "rounds": 5000,
         "k": 1,
-        "trials": 10000,
+        "trials": 5000,
         "interval": 5
     }
 
@@ -98,7 +98,7 @@ if __name__ == "__main__":
     }
 
     plot_options = {
-        "title": "Epsilon Greedy",
+        "title": "UCB_test",
         "x_label": "rounds",
         "save_pdf": True
     }
@@ -114,4 +114,4 @@ if __name__ == "__main__":
     policies = policies_generator(arms)
 
     experiment = Experiment(experiment_options, log_options)
-    experiment.plot(arms, EpsilonGreedy, policies, plot_options)
+    experiment.plot(arms, UpperConfidenceBound, policies, plot_options)
