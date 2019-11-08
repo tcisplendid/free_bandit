@@ -80,7 +80,7 @@ class Experiment(object):
 
 if __name__ == "__main__":
     arms = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.88, 0.9]
-    arms = [0.3, 0.4, 0.5]
+    # arms = [0.3, 0.4, 0.5]
 
     experiment_options = {
         "rounds": 5000,
@@ -98,7 +98,7 @@ if __name__ == "__main__":
     }
 
     plot_options = {
-        "title": "UCB_test",
+        "title": "UCB_more_arm",
         "x_label": "rounds",
         "save_pdf": True
     }
