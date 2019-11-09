@@ -83,10 +83,10 @@ if __name__ == "__main__":
     # arms = [0.3, 0.4, 0.5]
 
     experiment_options = {
-        "rounds": 5000,
+        "rounds": 15000,
         "k": 1,
         "trials": 5000,
-        "interval": 5
+        "interval": 15
     }
 
     log_options = {
@@ -98,7 +98,7 @@ if __name__ == "__main__":
     }
 
     plot_options = {
-        "title": "UCB_more_arm",
+        "title": "UCB_more_arm_more_rounds",
         "x_label": "rounds",
         "save_pdf": True
     }
