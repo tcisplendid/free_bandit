@@ -83,10 +83,10 @@ if __name__ == "__main__":
     # arms = [0.3, 0.4, 0.5]
 
     experiment_options = {
-        "rounds": 15000,
+        "rounds": 5000,
         "k": 1,
         "trials": 5000,
-        "interval": 15
+        "interval": 5
     }
 
     log_options = {
@@ -98,12 +98,12 @@ if __name__ == "__main__":
     }
 
     plot_options = {
-        "title": "UCB_more_arm_more_rounds",
+        "title": "EpsilonGreedy(0.1)_more_arms",
         "x_label": "rounds",
         "save_pdf": True
     }
 
-    EpsilonGreedy.epsilon = 0.02
+    EpsilonGreedy.epsilon = 0.1
 
     # policies = {
     #     "real_worst": real_worst_generator(arms),
@@ -114,4 +114,4 @@ if __name__ == "__main__":
     policies = policies_generator(arms)
 
     experiment = Experiment(experiment_options, log_options)
-    experiment.plot(arms, UpperConfidenceBound, policies, plot_options)
+    experiment.plot(arms, EpsilonGreedy, policies, plot_options)
