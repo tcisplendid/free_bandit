@@ -16,7 +16,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/experiment.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
+            <state relative-caret-position="777">
               <caret line="100" column="42" selection-start-line="100" selection-start-column="42" selection-end-line="100" selection-end-column="42" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
@@ -116,12 +116,12 @@
       <workItem from="1573152206951" duration="228000" />
       <workItem from="1573246457722" duration="203000" />
       <workItem from="1573276266810" duration="595000" />
-      <workItem from="1573330020763" duration="36000" />
+      <workItem from="1573330020763" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1062000" />
+    <option name="totallyTimeSpent" value="1123000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="13" y="23" width="1280" height="777" extended-state="0" />
@@ -156,7 +156,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/experiment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="777">
           <caret line="100" column="42" selection-start-line="100" selection-start-column="42" selection-end-line="100" selection-end-column="42" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
