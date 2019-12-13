@@ -12,17 +12,24 @@ class Device(object):
     generating function.
     """
 
-    def __init__(self, arms):
+    def __init__(self, arms, st_dev=-1):
         """
         Args:
             arms: List[float/Tuple]. DecraptDict[str, float/Tuple]. Key is arm's name, value is other info
         """
         def binary_generator(r):
             return np.random.choice([0, 1], p=[1 - r, r])
+        def gaussian_generator(reward):
+            r = np.random.normal(reward, st_dev)
+            if r > 1:
+                r = 1
+            if r < 0:
+                r = 0
+            return r
         self.arms = arms
         self.best_arm_val = max(arms)
         self.best_arm_index = arms.index(self.best_arm_val)
-        self.generator = binary_generator
+        self.generator = gaussian_generator if st_dev >= 0 else binary_generator
 
     def pull(self, arm):
         """
@@ -63,7 +70,7 @@ class Simulator(object):
         # check input
         for arm in true_rewards:
             assert 0 <= arm <= 1
-        self.device = Device(true_rewards)
+        self.device = Device(true_rewards, experiment_options["st_dev"])
         # decode options
         self.rounds = experiment_options["rounds"]
         self.k = experiment_options["k"]
@@ -75,6 +82,7 @@ class Simulator(object):
         Run experiments to get the regret difference between k=1 and k=0 (intervaled)
 
         """
+        print("called once")
         times = self.trials
         interval = self.interval
         if log_options is None:
@@ -87,6 +95,7 @@ class Simulator(object):
         all_intervaled_regrets = []
         all_pulling_times = []
         k_arr = [1, 0]
+        # run algo with free_policy on different k
         for k in k_arr:
             algo = Algo(self.device, self.rounds, k, free_policy)
             intervaled_regrets, intervaled_pulling_times = algo.run(times, interval, silent, log_pulling_times, avg_regret)
@@ -94,7 +103,7 @@ class Simulator(object):
             if log_pulling_times:
                 all_pulling_times.append(intervaled_pulling_times)
         regrets_diff = all_intervaled_regrets[0] - all_intervaled_regrets[-1]
-        regrets_diff = np.round(regrets_diff, 2).tolist()
+        regrets_diff = np.round(regrets_diff, 3).tolist()
         # all_intervaled_regrets = np.array(all_intervaled_regrets).transpose().tolist()
         all_intervaled_regrets = np.array(all_intervaled_regrets).tolist()
         if log_pulling_times:
@@ -247,6 +256,6 @@ class FreePullBandit(object):
             sum_intervaled_regrets += np.array(intervaled_regrets)
             if log_pulling_times:
                 sum_intervaled_pulling_times += intervaled_pulling_times
-        average_intervaled_regrets = np.round(sum_intervaled_regrets / times, 2)
+        average_intervaled_regrets = np.round(sum_intervaled_regrets / times, 3)
         intervaled_pulling_times = sum_intervaled_pulling_times/times if log_pulling_times else []
-        return np.round(sum_intervaled_regrets/times, 2), intervaled_pulling_times
+        return np.round(sum_intervaled_regrets/times, 3), intervaled_pulling_times

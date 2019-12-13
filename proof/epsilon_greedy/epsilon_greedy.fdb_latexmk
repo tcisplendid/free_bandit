@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1572614615 "/Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.tex" "/Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.pdf" "epsilon_greedy" 1572614615
-  "/Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.aux" 1572614615 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "/Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.tex" 1572614613 5215 e3fd1610be1aa1eb67780037272d8a5e ""
+["pdflatex"] 1575647096 "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.tex" "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.pdf" "epsilon_greedy" 1575647097
+  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.aux" 1575647097 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.tex" 1575647096 7066 e6fbb9340b87279bf9362e80fc3715b9 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1480098698 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -13,6 +13,7 @@
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1480098733 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1480098733 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb" 1480098733 37912 77d683123f92148345f3fc36a38d9ab1 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1480098733 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1480098733 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1480098733 31809 8670ca339bf94e56da1fc21c80635e2a ""
@@ -68,11 +69,11 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1537245118 4220280 1051c23235a09a48dec5ad2f4339bf50 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "epsilon_greedy.aux" 1572614615 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "epsilon_greedy.tex" 1572614613 5215 e3fd1610be1aa1eb67780037272d8a5e ""
+  "epsilon_greedy.aux" 1575647097 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "epsilon_greedy.tex" 1575647096 7066 e6fbb9340b87279bf9362e80fc3715b9 ""
   (generated)
-  "/Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.log"
-  "epsilon_greedy.pdf"
+  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.log"
+  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.pdf"
   "epsilon_greedy.log"
   "epsilon_greedy.aux"
-  "/Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.pdf"
+  "epsilon_greedy.pdf"

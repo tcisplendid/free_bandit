@@ -138,6 +138,54 @@ So,
 If $\hat{\mu}_1^{t-1}>\hat{\mu}_2^{t-1}$, arm $a_1$ is chosen last round. Then $m=m^{t-1}+1$ in computing $\PP(\hat{\mu}_1^t>\hat{\mu}_2^t|\hat{\mu}_1^{t-1}>\hat{\mu}_2^{t-1})$. Similarly, $n=n^{t-1}+1$ in computing the other condition.
 
 For easier computation, $m^{t}=\EE(m^{t})=m^{t-1}+\PP(\hat{\mu}_1^{t}>\hat{\mu}_2^{t})$
+\clearpage
+
+
+
+
+
+$\hat{\mu}_{1,i}$ is the estimation of $\mu_1$ at round $i$.
+\begin{align*}
+R(T)&=(\mu_1-\mu_2)\EE[\text{times of choosing arm 2}]\\
+&=(\mu_1-\mu_2)\Sigma_{i=1}^T{\PP(\hat{\mu}_{1,i}<\hat{\mu}_{2,i})}
+\end{align*}
+
+$\hat{\mu}_{1}^m$ is the estimation of $\mu_1$ after pulling $m$ times.
+
+\begin{align*}
+    \PP(\hat{\mu}_1<\hat{\mu}_2) &= \Sigma_{m+n=t}\PP(\hat{\mu}_1^m<\hat{\mu}_2^n|m,n)\PP(m,n)
+\end{align*}
+
+$m+n=t$
+\begin{align*}
+    \PP(m,n) &= \PP(m-1, n)(1-\PP(\hat{\mu}_1^{t-1}<\hat{\mu}_2^{t-1})) + \PP(m, n-1)\PP(\hat{\mu}_1^{t-1}<\hat{\mu}_2^{t-1})
+\end{align*}
+\bigskip
+
+Denote the sequence of $T$ signals after initialization as $X_1X_2...X_T$. Each $X$ is a random variable that could be $A$(arm1) or $B$(arm2). For example, for a sequence of $A_1B_1B_2A_2$,  $A_i$ means the $i$-th received reward of arm1. $B_i$ means of arm2. $A_1B_1B_2A_2$ means a pulling history of arm1, arm2, arm2, arm1. $A_0$ and $B_0$ are signals received from initialization of algorithms.
+\begin{align*}
+    \EE[\text{times of choosing arm 2}]=\Sigma_{X_1X_2...X_T}{\PP(X_1X_2...X_T)\cdot(\text{number of }X=B)}
+\end{align*}
+
+For example, when round is 2:
+\begin{align*}
+    \EE[\text{times of choosing arm 2}]&=\Sigma_{X_1X_2...X_T}{\PP(X_1X_2...X_T)\cdot(\text{number of }X=B)}\\
+    &= \PP(A_1B_1) + \PP(B_1A_1) + \PP(B_1B_2)*2\\
+    &= \PP(A_0>B_0)\PP(\frac{A_0+A_1}{2}<B_0|A_0>B_0)\\
+    &+\PP(A_0<B_0)\PP(A_0>\frac{B_0+B_1}{2}|A_0<B_0)\\
+    &+2\cdot\PP(A_0<B_0)\PP(A_0<\frac{B_0+B_1}{2}|A_0<B_0)
+\end{align*}
+
+Goal: 
+\begin{align*}
+\EE[\text{times of choosing arm 2}]&=\Sigma_{i=1}^T{\PP(\text{choose B at round }i)}\\
+&=\Sigma_{X_1X_2...X_T}{\PP(X_1X_2...X_T)\cdot(\text{number of }X=B)}
+\end{align*}
+
+Proof:
+\begin{align*}
+\PP(\text{choose B at round }i)&=\Sigma_{X_1..X_i..X_T}{\PP(X_1..X_i..X_T)} \text{ where } X_i=B
+\end{align*}
 
 \end{document}
 

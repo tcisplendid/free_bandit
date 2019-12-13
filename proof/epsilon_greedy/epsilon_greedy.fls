@@ -1,9 +1,9 @@
-PWD /Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy
+PWD /Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy
 INPUT /usr/local/texlive/2018/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.tex
-OUTPUT /Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.log
+INPUT /Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.tex
+OUTPUT /Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.log
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/base/fleqn.clo
@@ -77,9 +77,9 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/algorithms/algorithm.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/algorithms/algorithm.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
-INPUT /Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.aux
-INPUT /Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.aux
-OUTPUT /Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.aux
+INPUT /Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.aux
+INPUT /Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.aux
+OUTPUT /Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.aux
 INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
@@ -92,7 +92,7 @@ INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 INPUT /usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-OUTPUT /Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.pdf
+OUTPUT /Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.pdf
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
@@ -108,9 +108,10 @@ INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /Users/Metaphor/Projects/Courses/Bandit/proof/epsilon_greedy/epsilon_greedy.aux
+INPUT /Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.aux
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb

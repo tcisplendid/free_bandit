@@ -24,7 +24,6 @@ class Experiment(object):
 
         # experiment: base algo with all policies
         simu = Simulator(arms, self.experiment_options)
-        default_regrets, _ = simu.run(base_algo, free_policy=None, log_options=self.log_options)
 
         # ploting
         x_axis_length = int((rounds - 0.5) // interval) + 1
@@ -33,6 +32,10 @@ class Experiment(object):
 
         # set plotting different behavior
         if log_options["return_diff"]:
+            default_regrets, _ = simu.run(base_algo, free_policy=None, log_options=self.log_options)
+
+            # plot regret_diff among different free policies.
+            # each plot compares a group of free policies with the same base algorithm
             for policies_group_name, policies_group in free_policies.items():
                 plt.figure()
                 plt.xlabel("rounds")
@@ -50,6 +53,32 @@ class Experiment(object):
                 if plot_options["save_pdf"]:
                     plt.savefig(f"{saved_path}/{policies_group_name}.pdf")
                 plt.show()
+        else:
+            # plot real regrets among k
+            # each plot is the same base algo and free policy with different k
+            for policies_group_name, policies_group in free_policies.items():
+                for policy_name, policy in policies_group.items():
+                    plt.figure()
+                    plt.xlabel("rounds")
+                    plt.ylabel("Average regrets")
+                    plt.title(f"{plot_options['title']}. {trials} trials.{len(arms)} arms")
+                    all_regrets, all_pulling_times = simu.run(base_algo, free_policy=policy, log_options=log_options)
+                    # TODO: to delete
+                    print(f"regrets: {all_regrets}")
+                    if log_options["persistence"]:
+                        self.save_json(saved_path, base_algo.__name__, policy_name, (all_regrets, all_pulling_times),
+                                       experiment_options, log_options, plot_options)
+                    for i, regrets in enumerate(all_regrets):
+                        if i == len(all_regrets)-1:
+                            i = "no free pull"
+                        else:
+                            i+=1
+                        plt.plot(x_axis, regrets, label=f"k={i}")
+                    plt.legend(loc="best")
+                    if plot_options["save_pdf"]:
+                        plt.savefig(f"{saved_path}/{policies_group_name}.pdf")
+                    plt.show()
+
 
     @staticmethod
     def create_saving_directory(title):
@@ -81,29 +110,31 @@ class Experiment(object):
 if __name__ == "__main__":
     arms = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.88, 0.9]
     # arms = [0.3, 0.4, 0.5]
+    arms = [0.5, 0.4]
 
     experiment_options = {
-        "rounds": 5000,
+        "rounds": 300,
         "k": 1,
-        "trials": 5000,
-        "interval": 5
+        "trials": 1000,
+        "interval": 1,
+        "st_dev": 0.1
     }
 
     log_options = {
         "silent": True,
-        "log_pulling_times": False,
-        "return_diff": True,
+        "log_pulling_times": True,
+        "return_diff": False,
         "avg_regret": False,
-        "persistence": True
+        "persistence": False
     }
 
     plot_options = {
-        "title": "EpsilonGreedy(0.1)_more_arms",
+        "title": "EpsilonGreedy(0)",
         "x_label": "rounds",
-        "save_pdf": True
+        "save_pdf": False
     }
 
-    EpsilonGreedy.epsilon = 0.1
+    EpsilonGreedy.epsilon = 0
 
     # policies = {
     #     "real_worst": real_worst_generator(arms),
@@ -112,6 +143,12 @@ if __name__ == "__main__":
     # }
     # policies = {"test_policies": policies}
     policies = policies_generator(arms)
+
+    policies = {
+        "real_second_best": real_second_best_generator(arms)
+        # "pure_explore": None
+    }
+    policies = {"test_policies": policies}
 
     experiment = Experiment(experiment_options, log_options)
     experiment.plot(arms, EpsilonGreedy, policies, plot_options)
