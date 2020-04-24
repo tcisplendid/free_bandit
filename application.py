@@ -38,7 +38,7 @@ class TempScheduler(Device):
         self.n = n
         self.popu_args = popu_args
         if arms is None:
-            self.arms = [self.__get_estimated_reward__(50000, t) for t in range(low, upper+1)]
+            self.arms = [self.__get_estimated_reward(50000, t) for t in range(low, upper+1)]
         else:
             self.arms = arms
         self.best_arm_index = best - low
@@ -47,19 +47,10 @@ class TempScheduler(Device):
     def pull(self, arm):
         upper, low, best = self.const
         chosen_temp = low + arm
-        r = self.__get_estimated_reward__(1, chosen_temp, 0.1)
-        # print("reward is: ", r, "regret is: ", self.best_arm_val - r)
+        r = self.__get_estimated_reward(1, chosen_temp, 0.1)
         return r
-        #
-        # total_reward = 0
-        # popu = int(np.random.normal(1, 0.1)*self.n)
-        # for i in range(popu):
-        #     pref = int(np.random.normal(best, best-low-2))
-        #     total_reward += self.u_func(chosen_temp, pref)
-        # print(chosen_temp, popu, total_reward/popu)
-        # return total_reward/popu
 
-    def __get_estimated_reward__(self, times, temp, st_dev=0):
+    def __get_estimated_reward(self, times, temp, st_dev=0):
         total_total_reward = 0
         upper, low, best = self.const
         chosen_temp = temp
@@ -80,7 +71,6 @@ class TempScheduler(Device):
 
 
 def beta_shape_reward_generator(l, a, b, loc=0, scale=1):
-    # arr = [i / l for i in range(l+1)]
     res = [beta.cdf((i+1)/l, a, b) - beta.cdf(i/l, a, b) for i in range(l)]
     return [x/scale + loc for x in res]
 
@@ -89,19 +79,8 @@ class SimpleDevice(Device):
     variance = 1
 
     def pull(self, arm):
-        r = self.arms[arm]
+        r = self.__arms[arm]
         if arm == 0:
             return r
         else:
             return np.random.choice([self.variance, -self.variance], p=[0.5, 0.5]) + r
-
-
-if __name__ == "__main__":
-    # for _ in range(1):
-    #     a = TempScheduler(n=1)
-    #     print(a.arms)
-    #     print(real_second_best_generator(a.arms))
-    r = 0
-    d = SimpleDevice([0.5, 0])
-    for _ in range(15):
-        print(d.pull(0), d.pull(1))

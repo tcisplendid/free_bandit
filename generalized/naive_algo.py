@@ -739,7 +739,7 @@ class SimulatorWithK(Simulator):
         self.weak_pull_func = weak_pull_func
 
 
-if __name__ == "__main__":
+def explore_experiment():
     def reward_generator(reward, st_dev=0.2):
         st_dev = 0
         r = np.random.normal(reward, st_dev)
@@ -764,8 +764,7 @@ if __name__ == "__main__":
             H += sum([compute_H_for_single_bandit(a, best, second) for a in device])
         return H
 
-
-    devices = [[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]]
+    # devices = [[0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9]]
     devices = [[0.3, 0.4, 0.5, 0.6, 0.7]]
     pulls = {"strong": 1, "weak": 1}
     rounds = 70
@@ -794,4 +793,5 @@ if __name__ == "__main__":
     #     plt.title("Pulls = {0}".format(rounds))
     #     plt.show()
 
-
+if __name__ == "__main__":
+    explore_experiment()

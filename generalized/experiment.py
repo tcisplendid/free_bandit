@@ -641,8 +641,7 @@ class SimulatorWithK(Simulator):
             print("")
         return algo_names, regrets, explore_rates
 
-
-if __name__ == "__main__":
+def explore_experiment():
     def reward_generator(st_dev=0.2, multiplier=1):
         def generator(r):
             r = np.random.normal(r, st_dev*multiplier)
@@ -735,13 +734,6 @@ if __name__ == "__main__":
     #                       complexity=complexity)
     # names, regrets, explore_details, explore_rates = simu.run(trials, silent=True, explore_rate_record=False)
 
-
-
-
-
-
-
-
     # arms_num = len(devices[0])
     # x = [i for i in range(1, rounds+1)]
     # plots = []
@@ -754,3 +746,6 @@ if __name__ == "__main__":
     #     plt.legend(loc='lower left')
     #     plt.show()
 
+
+if __name__ == "__main__":
+    explore_experiment()

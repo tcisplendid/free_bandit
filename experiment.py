@@ -8,9 +8,7 @@ from multiprocessing import Pool, Process
 import copy
 from scipy.stats import beta
 
-# cls = EpsilonGreedy
-# name = f"{cls.__name__}WithWorstMean"
-# EpsilonGreedyWorst = type(name, (cls,), {"free_pull": worst_mean})
+
 def plot(xlabel, ylabel, title, x, y_dict, save_path=None):
     plt.figure()
     plt.xlabel(xlabel)
@@ -24,7 +22,10 @@ def plot(xlabel, ylabel, title, x, y_dict, save_path=None):
         plt.savefig(f"{save_path}/{title}.png")
     plt.show()
 
+
 class Experiment(object):
+    """Run simulators. Record and plot results according to options.
+    """
     def __init__(self, experiment_options, log_options):
         self.experiment_options = experiment_options
         self.log_options = log_options
@@ -218,8 +219,6 @@ class Experiment(object):
         plt.show()
         self.experiment_options["k"] = tmpk
 
-
-
     @staticmethod
     def create_saving_directory(title):
         today = date.today().strftime("%m-%d")
@@ -296,7 +295,6 @@ def draw_report(arms, title, base):
     st_dev = -1
     device = Device(arms, st_dev)
     # device = TempScheduler(arms=arms, n=10)
-    # print("arms: ", arms)
 
     experiment_options = {
         "rounds": 500,
@@ -493,17 +491,4 @@ def compare_reward_distribution():
     p.join()
 
 if __name__ == "__main__":
-    # simple dist
-    random_best = [0, 0.1]
-    random_second = [0.1, 0]
-    arms2 = [0.5, 0.4]
-    arms3 = [0.3, 0.4, 0.5]
-    arms13 = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.88, 0.9]
-
-    # arms = arms13
-    #
-    # st_dev = 0.1
-    # device = Device(arms, st_dev)
-    # device = TempScheduler(arms=arms, n=10)
-    # plot_counterexample()
     compare_reward_distribution()

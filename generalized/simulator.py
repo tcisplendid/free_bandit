@@ -376,8 +376,8 @@ class WeakStrongBanditAlgo(object):
     def get_records_of_device_arm(self, device, arm):
         return self.strong_pull_record[device][arm]
 
-        
-if __name__ == "__main__":
+
+def explore_experiment():
     def reward_generator(reward):
         st_dev = 0.1
         r = np.random.normal(reward, st_dev)
@@ -393,3 +393,7 @@ if __name__ == "__main__":
     budgets = 0
     simu = Simulator(devices, pulls, rounds, budgets, generation=reward_generator)
     simu.start()
+
+
+if __name__ == "__main__":
+    explore_experiment()
