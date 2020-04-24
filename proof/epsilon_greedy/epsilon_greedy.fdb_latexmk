@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1575647096 "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.tex" "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.pdf" "epsilon_greedy" 1575647097
-  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.aux" 1575647097 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.tex" 1575647096 7066 e6fbb9340b87279bf9362e80fc3715b9 ""
+["pdflatex"] 1580322498 "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.tex" "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.pdf" "epsilon_greedy" 1580322499
+  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.aux" 1580322499 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.tex" 1580322496 7427 bd32bff8fc29c98251925a9f0d084fb8 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1480098698 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1480098698 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -69,11 +69,11 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1537245118 4220280 1051c23235a09a48dec5ad2f4339bf50 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "epsilon_greedy.aux" 1575647097 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "epsilon_greedy.tex" 1575647096 7066 e6fbb9340b87279bf9362e80fc3715b9 ""
+  "epsilon_greedy.aux" 1580322499 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "epsilon_greedy.tex" 1580322496 7427 bd32bff8fc29c98251925a9f0d084fb8 ""
   (generated)
-  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.log"
-  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.pdf"
-  "epsilon_greedy.log"
-  "epsilon_greedy.aux"
   "epsilon_greedy.pdf"
+  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.pdf"
+  "epsilon_greedy.aux"
+  "/Users/Metaphor/Dropbox/Bandit/free_bandit/proof/epsilon_greedy/epsilon_greedy.log"
+  "epsilon_greedy.log"

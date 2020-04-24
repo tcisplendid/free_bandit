@@ -1,96 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68517be7-e9bb-4724-afbb-b2e3dc301121" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proof/epsilon_greedy/numerical_computer.py" afterDir="false" />
+    <list default="true" id="8dfffefb-e250-4a91-a0c9-84fb1fca5518" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/free_bandit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/free_bandit.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/experiment.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bjob_run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/bjob_run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/experiment_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment_laptop.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiment_laptop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.fdb_latexmk" beforeDir="false" afterPath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.fdb_latexmk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.fls" beforeDir="false" afterPath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.fls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.log" beforeDir="false" afterPath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.synctex.gz" beforeDir="false" afterPath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.synctex.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.tex" beforeDir="false" afterPath="$PROJECT_DIR$/proof/epsilon_greedy/epsilon_greedy.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proof/epsilon_greedy/numerical_computer.py" beforeDir="false" afterPath="$PROJECT_DIR$/proof/epsilon_greedy/numerical_computer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_feature_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_feature_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategies.py" beforeDir="false" afterPath="$PROJECT_DIR$/strategies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/experiment.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1695">
-              <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#24#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/experiment_base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="249" column="39" selection-start-line="249" selection-start-column="34" selection-end-line="249" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Projects/Courses/427/project/prep.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/strategies.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="207" column="16" selection-start-line="207" selection-end-line="208" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proof/epsilon_greedy/numerical_computer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5370">
-              <caret line="363" column="23" selection-start-line="363" selection-start-column="23" selection-end-line="363" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,71 +49,20 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>print</find>
-      <find>avg_regret</find>
-      <find>run</find>
-      <find>round</find>
-      <find>Max free pull changes regrets</find>
+      <find>plot_base</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/../Simulator/experiment.py" />
-        <option value="$PROJECT_DIR$/proof/epsilon_greedy/numberical_computer.m" />
-        <option value="$PROJECT_DIR$/experiment_base.py" />
-        <option value="$PROJECT_DIR$/proof/epsilon_greedy/numerical_computer.py" />
-        <option value="$PROJECT_DIR$/experiment.py" />
-        <option value="$PROJECT_DIR$/data.txt" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="13" />
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="777" />
-  </component>
+  <component name="ProjectId" id="1WjyPIN7T9Uw0cg49YPBJoqJymi" />
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="free_bandit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="free_bandit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="free_bandit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="free_bandit" type="462c0819:PsiDirectoryNode" />
-              <item name="archived_code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="free_bandit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="free_bandit" type="462c0819:PsiDirectoryNode" />
-              <item name="proof" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="free_bandit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="free_bandit" type="462c0819:PsiDirectoryNode" />
-              <item name="proof" type="462c0819:PsiDirectoryNode" />
-              <item name="epsilon_greedy" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -173,22 +70,40 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tiancheng\Dropbox\Bandit\free_bandit\proof\epsilon_greedy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tiancheng\Dropbox\Bandit\free_bandit\lib\bandits" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.experiment (1)">
-    <configuration name="experiment (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.experiment">
+    <configuration name="computer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="free_bandit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proof/counterexample" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proof/counterexample/computer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="experiment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="free_bandit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="experiment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="experiment_laptop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="free_bandit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -218,34 +133,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Simulator" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Simulator/experiment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="numerical_computer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="free_bandit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/proof/epsilon_greedy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/proof/epsilon_greedy/numerical_computer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiment_laptop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,155 +147,223 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="js.build_tools.grunt">
-      <node-interpreter value="project" />
-      <envs />
+    <configuration name="python_feature_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="free_bandit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_feature_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="free_bandit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.experiment (1)" />
-        <item itemvalue="Python.numerical_computer" />
         <item itemvalue="Python.experiment" />
+        <item itemvalue="Python.python_feature_test" />
+        <item itemvalue="Python.experiment_laptop" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.computer" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="68517be7-e9bb-4724-afbb-b2e3dc301121" name="Default Changelist" comment="" />
-      <created>1573152205022</created>
+      <changelist id="8dfffefb-e250-4a91-a0c9-84fb1fca5518" name="Default Changelist" comment="" />
+      <created>1576489583893</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573152205022</updated>
-      <workItem from="1573152206951" duration="228000" />
-      <workItem from="1573246457722" duration="203000" />
-      <workItem from="1573276266810" duration="595000" />
-      <workItem from="1573330020763" duration="97000" />
-      <workItem from="1574071609598" duration="9692000" />
-      <workItem from="1574122205871" duration="148000" />
-      <workItem from="1574685947071" duration="6552000" />
-      <workItem from="1575583399293" duration="29996000" />
-      <workItem from="1575827563876" duration="1841000" />
-      <workItem from="1575843547565" duration="837000" />
+      <updated>1576489583893</updated>
+      <workItem from="1576489588726" duration="18272000" />
+      <workItem from="1577471582256" duration="85000" />
+      <workItem from="1579677277218" duration="67000" />
+      <workItem from="1579677398613" duration="59000" />
+      <workItem from="1579678147867" duration="760000" />
+      <workItem from="1579679639473" duration="4803000" />
+      <workItem from="1579688861543" duration="638000" />
+      <workItem from="1579692929977" duration="19022000" />
+      <workItem from="1580909295929" duration="13314000" />
+      <workItem from="1581485800626" duration="10705000" />
+      <workItem from="1581653189020" duration="130000" />
+      <workItem from="1582712445122" duration="5594000" />
+      <workItem from="1582727840107" duration="9004000" />
+      <workItem from="1582920518460" duration="1768000" />
+      <workItem from="1583255475446" duration="2695000" />
+      <workItem from="1583316997607" duration="659000" />
+      <workItem from="1586754736001" duration="2260000" />
+      <workItem from="1586757495690" duration="618000" />
+      <workItem from="1586791764585" duration="3007000" />
+      <workItem from="1586834749673" duration="2832000" />
+      <workItem from="1587016987162" duration="10186000" />
+      <workItem from="1587309292351" duration="2270000" />
+      <workItem from="1587364316030" duration="1762000" />
+      <workItem from="1588212993080" duration="7000" />
+      <workItem from="1598175353505" duration="76000" />
+      <workItem from="1598175439897" duration="26000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50189000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="13" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28513733" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22335766" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.329927" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.29644588" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/free_bandit$experiment.coverage" NAME="experiment Coverage Results" MODIFIED="1575640021860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Simulator" />
-    <SUITE FILE_PATH="coverage/free_bandit$experiment__1_.coverage" NAME="experiment (1) Coverage Results" MODIFIED="1575650857603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/free_bandit$numerical_computer.coverage" NAME="numerical_computer Coverage Results" MODIFIED="1575645920208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proof/epsilon_greedy" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/proof/epsilon_greedy/numberical_computer.m" />
-    <entry file="file://$PROJECT_DIR$/../Simulator/experiment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="142" selection-start-line="142" selection-end-line="145" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/archived_code/simulator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/experiment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1695">
-          <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proof/epsilon_greedy/numerical_computer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5370">
-          <caret line="363" column="23" selection-start-line="363" selection-start-column="23" selection-end-line="363" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/experiment_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="249" column="39" selection-start-line="249" selection-start-column="34" selection-end-line="249" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategies.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="207" column="16" selection-start-line="207" selection-end-line="208" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Projects/Courses/427/project/prep.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="773" y="301" key="FileChooserDialogImpl" timestamp="1586960624114">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="773" y="301" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1586960624114" />
+    <state width="1112" height="203" key="GridCell.Tab.0.bottom" timestamp="1586992691512">
+      <screen x="0" y="0" width="1152" height="2008" />
+    </state>
+    <state width="1112" height="203" key="GridCell.Tab.0.bottom/0.0.1152.2008@0.0.1152.2008" timestamp="1586992691512" />
+    <state width="1868" height="203" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1586960666400" />
+    <state width="1112" height="203" key="GridCell.Tab.0.center" timestamp="1586992691512">
+      <screen x="0" y="0" width="1152" height="2008" />
+    </state>
+    <state width="1112" height="203" key="GridCell.Tab.0.center/0.0.1152.2008@0.0.1152.2008" timestamp="1586992691512" />
+    <state width="1868" height="203" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1586960666400" />
+    <state width="1112" height="203" key="GridCell.Tab.0.left" timestamp="1586992691512">
+      <screen x="0" y="0" width="1152" height="2008" />
+    </state>
+    <state width="1112" height="203" key="GridCell.Tab.0.left/0.0.1152.2008@0.0.1152.2008" timestamp="1586992691512" />
+    <state width="1868" height="203" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1586960666400" />
+    <state width="1112" height="203" key="GridCell.Tab.0.right" timestamp="1586992691512">
+      <screen x="0" y="0" width="1152" height="2008" />
+    </state>
+    <state width="1112" height="203" key="GridCell.Tab.0.right/0.0.1152.2008@0.0.1152.2008" timestamp="1586992691512" />
+    <state width="1868" height="203" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1586960666400" />
+    <state width="1786" height="329" key="GridCell.Tab.1.bottom" timestamp="1580028061782">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1786" height="329" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1580028061782" />
+    <state width="1786" height="329" key="GridCell.Tab.1.center" timestamp="1580028061781">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1786" height="329" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1580028061781" />
+    <state width="1786" height="329" key="GridCell.Tab.1.left" timestamp="1580028061781">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1786" height="329" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1580028061781" />
+    <state width="1786" height="329" key="GridCell.Tab.1.right" timestamp="1580028061782">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1786" height="329" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1580028061782" />
+    <state x="501" y="189" key="SettingsEditor" timestamp="1586834983728">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="501" y="189" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1586834983728" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/proof/epsilon_greedy/numerical_computer.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/proof/epsilon_greedy/numerical_computer.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/proof/epsilon_greedy/numerical_computer.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/strategies.py</url>
+          <line>307</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/free_bandit$strategies.coverage" NAME="strategies Coverage Results" MODIFIED="1579708971750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/free_bandit$test.coverage" NAME="test Coverage Results" MODIFIED="1586854894742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/free_bandit$experiment_laptop.coverage" NAME="experiment_laptop Coverage Results" MODIFIED="1586864485753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/free_bandit$integral_numerical_computer.coverage" NAME="integral_numerical_computer Coverage Results" MODIFIED="1579712936284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proof/epsilon_greedy" />
+    <SUITE FILE_PATH="coverage/free_bandit$computer.coverage" NAME="computer Coverage Results" MODIFIED="1583334194742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proof/counterexample" />
+    <SUITE FILE_PATH="coverage/free_bandit$application.coverage" NAME="application Coverage Results" MODIFIED="1581523176407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/free_bandit$python_feature_test.coverage" NAME="python_feature_test Coverage Results" MODIFIED="1587311376913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/free_bandit$experiment.coverage" NAME="experiment Coverage Results" MODIFIED="1587365552070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/free_bandit$numerical_computer.coverage" NAME="numerical_computer Coverage Results" MODIFIED="1579713161606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proof/epsilon_greedy" />
+    <SUITE FILE_PATH="coverage/free_bandit$bayesian.coverage" NAME="bayesian Coverage Results" MODIFIED="1579693652499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
   </component>
 </project>

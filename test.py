@@ -2,6 +2,7 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 from scipy.stats import norm
+from multiprocessing import Process
 # import bisect
 #
 # st_dev = 0.2
@@ -131,32 +132,33 @@ class EstimatedModel(object):
 
 
 if __name__ == '__main__':
-    test_times = 10000
-    st_dev = 1
-    arms = [5, 4]
-    m, n = 1, 1000
-    rounds = 50
-    step = 1
-
-    estimator = EstimatedModel(arms, st_dev, test_times)
-    results_k_1 = estimator.start_test(m, n, step, rounds)
-    results_no_free_pull = estimator.start_test(m, n, 0, rounds)
-    print(f"with free pull, sum prob is {sum(results_k_1)}. The results are {results_k_1}\n")
-    print(f"with no free pull, sum prob is {sum(results_no_free_pull)}. The results are {results_no_free_pull}")
-    x_axis = [x for x in range(rounds+1)]
-    plt.figure()
-    plt.title(f"model with estimation")
-    plt.xlabel("rounds")
-    plt.ylabel("probability of choosing the best arm")
-    plt.plot(x_axis, results_k_1, label="EpsilonGreedyWithRealSecondBest, k=1")
-    plt.plot(x_axis, results_no_free_pull, label="EpsilonGreedy, no free pull")
-    # for delta_n in delta_n_list:
-    #     diff_list.append(prover_test(a1, a2, m, n, 0, delta_n, st_dev, test_times=test_times))
-    # plt.plot(delta_n_list, diff_list, label="fix m")
+    # test_times = 10000
+    # st_dev = 1
+    # arms = [5, 4]
+    # m, n = 1, 1000
+    # rounds = 50
+    # step = 1
     #
-    # diff_list = []
-    # for delta_m in delta_n_list:
-    #     diff_list.append(prover_test(a1, a2, m, n, delta_m, 0, st_dev, test_times=test_times))
-    # plt.plot(delta_n_list, diff_list, label="fix n")
-    plt.legend(loc="upper left")
-    plt.show()
+    # estimator = EstimatedModel(arms, st_dev, test_times)
+    # results_k_1 = estimator.start_test(m, n, step, rounds)
+    # results_no_free_pull = estimator.start_test(m, n, 0, rounds)
+    # print(f"with free pull, sum prob is {sum(results_k_1)}. The results are {results_k_1}\n")
+    # print(f"with no free pull, sum prob is {sum(results_no_free_pull)}. The results are {results_no_free_pull}")
+    # x_axis = [x for x in range(rounds+1)]
+    # plt.figure()
+    # plt.title(f"model with estimation")
+    # plt.xlabel("rounds")
+    # plt.ylabel("probability of choosing the best arm")
+    # plt.plot(x_axis, results_k_1, label="EpsilonGreedyWithRealSecondBest, k=1")
+    # plt.plot(x_axis, results_no_free_pull, label="EpsilonGreedy, no free pull")
+    # # for delta_n in delta_n_list:
+    # #     diff_list.append(prover_test(a1, a2, m, n, 0, delta_n, st_dev, test_times=test_times))
+    # # plt.plot(delta_n_list, diff_list, label="fix m")
+    # #
+    # # diff_list = []
+    # # for delta_m in delta_n_list:
+    # #     diff_list.append(prover_test(a1, a2, m, n, delta_m, 0, st_dev, test_times=test_times))
+    # # plt.plot(delta_n_list, diff_list, label="fix n")
+    # plt.legend(loc="upper left")
+    # plt.show()
+

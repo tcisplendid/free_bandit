@@ -21,10 +21,10 @@ class Device(object):
             return np.random.choice([0, 1], p=[1 - r, r])
         def gaussian_generator(reward):
             r = np.random.normal(reward, st_dev)
-            if r > 1:
-                r = 1
-            if r < 0:
-                r = 0
+            # if r > 1:
+            #     r = 1
+            # if r < 0:
+            #     r = 0
             return r
         self.arms = arms
         self.best_arm_val = max(arms)
@@ -50,27 +50,28 @@ class Device(object):
     def get_arm_num(self):
         return len(self.arms)
 
+    @staticmethod
+    def binary_generator(r):
+        return np.random.choice([0, 1], p=[1 - r, r])
+
+    @staticmethod
+    def gaussian_generator_generator(st_dev):
+        def gaussian_generator(reward):
+            r = np.random.normal(reward, st_dev)
+            # if r > 1:
+            #     r = 1
+            # if r < 0:
+            #     r = 0
+            return r
+        return gaussian_generator
 
 class Simulator(object):
-    def __init__(self, true_rewards, experiment_options):
-        # if not isinstance(devices, MultiDevices):
-        #     raise TypeError("The first argument should be a MultiDevices object.")
-
-        # def reward_generator(reward):
-        #     st_dev = 0.1 * multiplier
-        #     r = np.random.normal(reward, st_dev)
-        #     if r > multiplier:
-        #         r = multiplier
-        #     if r < 0:
-        #         r = 0
-        #     return r
-        # if generator is None:
-        #     generator = reward_generator
-
+    def __init__(self, device, experiment_options):
         # check input
-        for arm in true_rewards:
-            assert 0 <= arm <= 1
-        self.device = Device(true_rewards, experiment_options["st_dev"])
+        # for arm in true_rewards:
+        #     assert 0 <= arm <= 1
+        # self.device = Device(true_rewards, experiment_options["st_dev"])
+        self.device = device
         # decode options
         self.rounds = experiment_options["rounds"]
         self.k = experiment_options["k"]
@@ -82,7 +83,6 @@ class Simulator(object):
         Run experiments to get the regret difference between k=1 and k=0 (intervaled)
 
         """
-        print("called once")
         times = self.trials
         interval = self.interval
         if log_options is None:
@@ -94,7 +94,9 @@ class Simulator(object):
                 log_options["persistence"]
         all_intervaled_regrets = []
         all_pulling_times = []
-        k_arr = [1, 0]
+        # generate k arr: [1, .., k, 0]
+        k_arr = list(range(1, self.k+1))
+        k_arr.append(0)
         # run algo with free_policy on different k
         for k in k_arr:
             algo = Algo(self.device, self.rounds, k, free_policy)
@@ -102,7 +104,8 @@ class Simulator(object):
             all_intervaled_regrets.append(intervaled_regrets)
             if log_pulling_times:
                 all_pulling_times.append(intervaled_pulling_times)
-        regrets_diff = all_intervaled_regrets[0] - all_intervaled_regrets[-1]
+        # regrets_diff = all_intervaled_regrets[0] - all_intervaled_regrets[-1]
+        regrets_diff = all_intervaled_regrets[-1] - all_intervaled_regrets[0]
         regrets_diff = np.round(regrets_diff, 3).tolist()
         # all_intervaled_regrets = np.array(all_intervaled_regrets).transpose().tolist()
         all_intervaled_regrets = np.array(all_intervaled_regrets).tolist()
@@ -113,14 +116,14 @@ class Simulator(object):
             interval = self.rounds
         x_axis_length = int((self.rounds - 0.5) // interval) + 1
         for i in range(x_axis_length):
-            print(f"after {min((i + 1) * interval, self.rounds)} round")
+            # print(f"after {min((i + 1) * interval, self.rounds)} round")
             # print("the average regrets are ", all_intervaled_regrets[i])
-            print(f"Max free pull changes regrets: {regrets_diff[i]}")
+            # print(f"Max free pull changes regrets: {regrets_diff[i]}")
             if log_pulling_times:
                 print("the number of pulls for arms are :")
                 for k, record in zip(k_arr, all_pulling_times[i]):
                     print(f"k={k} pulls: {record}")
-            print("")
+            # print("")
         if return_diff:
             return regrets_diff, all_pulling_times
         return all_intervaled_regrets, all_pulling_times
@@ -150,7 +153,6 @@ class FreePullBandit(object):
         self.arm_num = device.get_arm_num()
         self.k = k
         self.rounds = rounds
-        self.free_policy = free_policy
         self.free_pull = free_policy if free_policy is not None else random_pull
         self.reinitialize()
         # self.T = 0
@@ -163,6 +165,7 @@ class FreePullBandit(object):
         self.free_pull_record = self.normal_pull_record[:]
         self.a = np.ones(self.arm_num)
         self.b = np.ones(self.arm_num)
+        self.rejected = [0] * self.arm_num
 
     def pull_and_update_record(self, arm, is_free_pull=False):
         reward = self.device.pull(arm)
@@ -183,12 +186,13 @@ class FreePullBandit(object):
         return reward
 
     def normal_pull(self):
-        return 0
+        pass
 
     # def free_pull(self):
     #     return self.random_pull()
     #
     def random_pull(self):
+        # print(np.random.randint(0, self.arm_num))
         return np.random.randint(0, self.arm_num)
 
     def has_arm_unexplored(self):
@@ -215,9 +219,12 @@ class FreePullBandit(object):
             if not silent:
                 print("round {0}, choose arm {1} and get reward {2}".format(i, arm, reward))
             # do free pulls
-            if self.k != 0 and (i - 1) % self.k == 0:
+            # not self.has_arm_unexplored() and
+            if self.k != 0 and i >= self.device.get_arm_num() and (i - 1) % self.k == 0:
                 arm = self.free_pull(self)
-                self.pull_and_update_record(arm, is_free_pull=True)
+                r = self.pull_and_update_record(arm, is_free_pull=True)
+                if not silent:
+                    print("choose arm {1} as free pull with reward {2}".format(i, arm, r))
             # update rewards
             total_reward += reward
             # handle about intervals

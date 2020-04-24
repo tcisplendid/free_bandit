@@ -70,7 +70,12 @@
 \begin{document}
 
 % STUDENT: Your text goes here!
-1. About $\PP(\hat{\mu_1}>\hat{\mu_2})$
+
+1. Definition: $\hat{\mu}_i^m$ means the estimated mean of the Gaussian random variable $i$ after sampling $m$ times.
+\medskip
+
+Theorem: Given 2 Gaussian r.v. with the mean $\mu_1, \mu_2$, and $\mu_1 > \mu_2$. $\PP(\hat{\mu}_1^{m_1}>\hat{\mu}_2^{n_1}) \geq \PP(\hat{\mu}_1^{m_2}>\hat{\mu}_2^{n_2})$ if $m_1 \geq m_2, n_1\geq n_2$. They are equal only if $m_1 = m_2, n_1 = n_2$
+
 \medskip
 
 Setting:
@@ -178,7 +183,7 @@ For example, when round is 2:
 
 Goal: 
 \begin{align*}
-\EE[\text{times of choosing arm 2}]&=\Sigma_{i=1}^T{\PP(\text{choose B at round }i)}\\
+\EE[\text{times of choosing arm $x$ in $T$ rounds}]&=\Sigma_{i=1}^T{\PP(\text{choose arm $x$ at round }i)}\\
 &=\Sigma_{X_1X_2...X_T}{\PP(X_1X_2...X_T)\cdot(\text{number of }X=B)}
 \end{align*}
 
